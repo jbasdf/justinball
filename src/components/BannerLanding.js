@@ -3,7 +3,9 @@ import PropTypes from 'prop-types'
 
 const BannerLanding = props => {
   const style = {}
-  if (props.post.frontmatter.image) {
+  if (props.post.frontmatter.image &&
+    props.post.frontmatter.image.childImageSharp &&
+    props.post.frontmatter.image.childImageSharp.sizes) {
     style.backgroundImage = `url(${props.post.frontmatter.image.childImageSharp.sizes.src})`
   }
 

@@ -4,7 +4,9 @@ import Link from 'gatsby-link'
 
 const Banner = props => {
   const style = {}
-  if (props.post.frontmatter.image) {
+  if (props.post.frontmatter.image &&
+    props.post.frontmatter.image.childImageSharp &&
+    props.post.frontmatter.image.childImageSharp.sizes) {
     style.backgroundImage = `url(${props.post.frontmatter.image.childImageSharp.sizes.src})`
   }
   return (
