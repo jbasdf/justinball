@@ -1,50 +1,86 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import Link from 'gatsby-link';
-import Helmet from 'react-helmet';
-import github from '../img/github-icon.svg';
-import logo from '../img/logo.svg';
-import './all.sass';
+import React from 'react'
+import Link from 'gatsby-link'
+import Header from '../components/Header'
+import Menu from '../components/Menu'
+import Contact from '../components/Contact'
+import Footer from '../components/Footer'
 
-const Navbar = () => (
-  <nav className="navbar is-transparent">
-    <div className="container">
-      <div className="navbar-brand">
-        <Link to="/" className="navbar-item">
-          <figure className="image">
-            <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
-          </figure>
-        </Link>
+import '../assets/scss/main.scss'
+
+class Template extends React.Component {
+  constructor(props) {
+    super(props)
+    this.state = {
+      isMenuVisible: false,
+      loading: 'is-loading',
+    }
+    this.handleToggleMenu = this.handleToggleMenu.bind(this)
+  }
+
+  componentDidMount() {
+    this.timeoutId = setTimeout(() => {
+      this.setState({ loading: '' })
+    }, 100)
+  }
+
+  componentWillUnmount() {
+    if (this.timeoutId) {
+      clearTimeout(this.timeoutId)
+    }
+  }
+
+  handleToggleMenu() {
+    this.setState({
+      isMenuVisible: !this.state.isMenuVisible,
+    })
+  }
+
+  render() {
+    const { children } = this.props
+
+    return (
+      <div
+        className={`body ${this.state.loading} ${
+          this.state.isMenuVisible ? 'is-menu-visible' : ''
+        }`}
+      >
+        <div id="wrapper">
+          <Header
+            onToggleMenu={this.handleToggleMenu}
+            site={this.props.data.site}
+          />
+          {children()}
+          <Contact site={this.props.data.site} />
+          <Footer site={this.props.data.site} />
+        </div>
+        <Menu onToggleMenu={this.handleToggleMenu} />
       </div>
-      <div className="navbar-start">
-        <Link className="navbar-item" to="/about">
-          About
-        </Link>
-        <Link className="navbar-item" to="/products">
-          Products
-        </Link>
-      </div>
-      <div className="navbar-end">
-        <a className="navbar-item" href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate" target="_blank" rel="noopener noreferrer">
-          <span className="icon">
-            <img src={github} alt="Github" />
-          </span>
-        </a>
-      </div>
-    </div>
-  </nav>
-);
+    )
+  }
+}
 
-const TemplateWrapper = ({ children }) => (
-  <div>
-    <Helmet title="Home | Gatsby + Netlify CMS" />
-    <Navbar />
-    <div>{children()}</div>
-  </div>
-);
+Template.propTypes = {
+  children: React.PropTypes.func,
+}
 
-TemplateWrapper.propTypes = {
-  children: PropTypes.func
-};
+export default Template
 
-export default TemplateWrapper;
+export const query = graphql`
+  query LayoutQuery {
+    site {
+      siteMetadata {
+        title
+        description
+        email
+        author
+        companyUrl
+        companyName
+        github
+        twitter
+        linkedin
+        facebook
+        instagram
+      }
+    }
+  }
+`

@@ -1,7 +1,8 @@
-import React from 'react';
-import Link from 'gatsby-link';
-import Helmet from 'react-helmet';
-import Script from 'react-load-script';
+import React from 'react'
+import Link from 'gatsby-link'
+import Helmet from 'react-helmet'
+import Script from 'react-load-script'
+import Banner from '../components/Banner'
 
 export default class IndexPage extends React.Component {
   handleScriptLoad() {
@@ -9,57 +10,108 @@ export default class IndexPage extends React.Component {
       window.netlifyIdentity.on('init', user => {
         if (!user) {
           window.netlifyIdentity.on('login', () => {
-            document.location.href = '/admin/';
-          });
+            document.location.href = '/admin/'
+          })
         }
-      });
+      })
     }
-    window.netlifyIdentity.init();
+    window.netlifyIdentity.init()
+  }
+
+  renderArticles() {
+    const { edges: posts } = this.props.data.allMarkdownRemark
+    return posts
+      .slice(1)
+      .filter(post => post.node.frontmatter.templateKey === 'blog-post')
+      .map(({ node: post }) => {
+        const style = {}
+        if (post.frontmatter.image) {
+          style.backgroundImage = `url(${post.frontmatter.image.childImageSharp.sizes.src})`
+        }
+        return (
+          <article key={post.id} style={style}>
+            <header className="major">
+              <h3>
+                {post.frontmatter.title}{' '}
+                <div className="sub-header">{post.frontmatter.date}</div>
+              </h3>
+              <p>{post.excerpt}</p>
+            </header>
+            <Link to={post.frontmatter.path} className="link primary" />
+          </article>
+        )
+      })
+  }
+
+  renderBanner() {
+    const { edges: all } = this.props.data.allMarkdownRemark
+    const posts = all.filter(
+      post => post.node.frontmatter.templateKey === 'blog-post'
+    )
+    if (posts && posts.length > 0) {
+      return <Banner post={posts[0].node} site={this.props.data.site} />
+    }
   }
 
   render() {
-    const { data } = this.props;
-    const { edges: posts } = data.allMarkdownRemark;
+    const { data } = this.props
+    const siteTitle = data.site.siteMetadata.title
+    const siteDescription = data.site.siteMetadata.description
+    const { edges: posts } = this.props.data.allMarkdownRemark
+
     return (
-      <section className="section">
+      <div>
         <Script
           url="https://identity.netlify.com/v1/netlify-identity-widget.js"
           onLoad={this.handleScriptLoad.bind(this)}
         />
-        <div className="container">
-          <div className="content">
-            <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
-          </div>
-          {posts.filter(post => post.node.frontmatter.templateKey === 'blog-post').map(({ node: post }) => {
-            return (
-              <div className="content" style={{ border: '1px solid #eaecee', padding: '2em 4em' }} key={post.id}>
-                <p>
-                  <Link className="has-text-primary" to={post.frontmatter.path}>
-                    {post.frontmatter.title}
+        <Helmet>
+          <title>{siteTitle}</title>
+          <meta name="description" content={siteDescription} />
+        </Helmet>
+        {this.renderBanner()}
+        <div id="main">
+          <section id="one" className="tiles">
+            {this.renderArticles()}
+          </section>
+          <section id="two">
+            <div className="inner">
+              <header className="major">
+                <h2>About</h2>
+              </header>
+              <p>
+                Hi, I'm Justin Ball. I'm the CTO and co-founder of{' '}
+                <a href="https://www.atomicjolt.com">Atomic Jolt</a>. I write code, travel, play board games, ride bikes
+                and blog about random topics.
+              </p>
+              <ul className="actions">
+                <li>
+                  <Link to="/about" className="button next">
+                    More
                   </Link>
-                  <span> &bull; </span>
-                  <small>{post.frontmatter.date}</small>
-                </p>
-                <p>
-                  {post.excerpt}
-                  <br />
-                  <br />
-                  <Link className="button is-small" to={post.frontmatter.path}>
-                    Keep Reading →
-                  </Link>
-                </p>
-              </div>
-            );
-          })}
+                </li>
+              </ul>
+            </div>
+          </section>
         </div>
-      </section>
-    );
+      </div>
+    )
   }
 }
 
 export const pageQuery = graphql`
   query IndexQuery {
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+    site {
+      siteMetadata {
+        title
+        description
+      }
+    }
+    allMarkdownRemark(
+      limit: 21
+      sort: { order: DESC, fields: [frontmatter___date] }
+      filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+    ) {
       edges {
         node {
           excerpt(pruneLength: 400)
@@ -69,9 +121,16 @@ export const pageQuery = graphql`
             templateKey
             date(formatString: "MMMM DD, YYYY")
             path
+            image {
+              childImageSharp {
+                sizes {
+                  src
+                }
+              }
+            }
           }
         }
       }
     }
   }
-`;
+`

@@ -1,0 +1,26 @@
+---
+title: Free Book
+author: Justin Ball
+layout: post
+permalink: "/2008/05/08/free-book/"
+tags:
+- friends
+- books
+- free book
+- marion
+date: '2008-05-08T06:00:00Z'
+templateKey: blog-post
+path: "/free-book"
+description: ''
+---
+
+[Marion][1] is a brilliant funny author. He sits next to me every day so I know that for a fact. I mean a guy that looks like this has to be a great author: ![Marion][2]
+
+ [1]: http://chickenarmpits.blogspot.com/
+ [2]: http://farm1.static.flickr.com/207/502234314_f08b11a011.jpg?v=0
+
+Marion has written a couple of books - [Chickens In the Headlights][3] and [Bullies in the Headlights][4]. His latest book is available for free via podcast. Welcome [The Super Trio][5]. I said FREE so you have no excuses.
+
+ [3]: http://seagullbook.com/store/merchant.mvc?Screen=PROD&Product_Code=407694&Category_Code=
+ [4]: http://seagullbook.com/store/merchant.mvc?Screen=PROD&Product_Code=479202&Category_Code=
+ [5]: http://thesupertrio.com/

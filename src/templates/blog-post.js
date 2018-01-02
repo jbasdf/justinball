@@ -1,44 +1,55 @@
-import React from 'react';
-import Content, { HTMLContent } from '../components/Content';
-import Helmet from 'react-helmet';
+import React from 'react'
+import Helmet from 'react-helmet'
+import Link from 'gatsby-link'
+import get from 'lodash/get'
+import BannerLanding from '../components/BannerLanding'
 
-export const BlogPostTemplate = ({ content, contentComponent, description, title, helmet }) => {
-  const PostContent = contentComponent || Content;
-  return <section className="section">
-    { helmet ? helmet : ""}
-    <div className="container content">
-      <div className="columns">
-        <div className="column is-10 is-offset-1">
-          <h1 className="title is-size-2 has-text-weight-bold is-bold-light">{title}</h1>
-          <p>{description}</p>
-          <PostContent content={content} />
+class BlogPostTemplate extends React.Component {
+  render() {
+    const post = this.props.data.markdownRemark
+    const siteTitle = get(this.props, 'data.site.siteMetadata.title')
+
+    return (
+      <div>
+        <Helmet>
+          <title>{`${post.frontmatter.title} | ${siteTitle}`}</title>
+          <meta name="description" content={post.frontmatter.description} />
+        </Helmet>
+        <BannerLanding post={post} />
+        <div id="main">
+          <div className="inner">
+            <p dangerouslySetInnerHTML={{ __html: post.html }} />
+          </div>
         </div>
       </div>
-    </div>
-  </section>;
+    )
+  }
 }
 
-export default ({ data }) => {
-  const { markdownRemark: post } = data;
-  return <BlogPostTemplate
-    content={post.html}
-    contentComponent={HTMLContent}
-    description={post.frontmatter.description}
-    helmet={<Helmet title={`Blog | ${post.frontmatter.title}`} />}
-    title={post.frontmatter.title}
-  />;
-}
+export default BlogPostTemplate
 
 export const pageQuery = graphql`
   query BlogPostByPath($path: String!) {
+    site {
+      siteMetadata {
+        title
+        author
+      }
+    }
     markdownRemark(frontmatter: { path: { eq: $path } }) {
+      id
       html
       frontmatter {
-        path
-        date(formatString: "MMMM DD, YYYY")
         title
-        description
+        date(formatString: "MMMM DD, YYYY")
+        image {
+          childImageSharp {
+            sizes {
+              src
+            }
+          }
+        }
       }
     }
   }
-`;
+`
