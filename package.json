@@ -36,6 +36,7 @@
     "build:cms": "cd cms && yarn && npm run build",
     "dev": "gatsby develop",
     "serve": "gatsby serve",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "_format": "prettier --trailing-comma es5 --no-semi --single-quote --write",
     "format": "npm run format:src & npm run format:cms",
     "format:src": "npm run _format 'src/**/*.js'",
@@ -46,6 +47,7 @@
   "devDependencies": {
     "eslint-config-prettier": "^2.9.0",
     "eslint-plugin-prettier": "^2.4.0",
+    "gh-pages": "^1.1.0",
     "prettier": "^1.7.4"
   }
 }
