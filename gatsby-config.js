@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Nobody Listens Anyway`,
+    title: `Justin Ball`,
     author: `Justin Ball`,
-    description: `The logistics of life`,
+    description: `Nobody Listens Anyway`,
     email: `justinball@gmail.com`,
     github: `jbasdf`,
     twitter: `jbasdf`,
@@ -49,9 +49,16 @@ module.exports = {
               maxWidth: 650,
             },
           },
+          {
+            resolve: `gatsby-remark-embed-youtube`,
+            options: {
+              width: 800,
+              height: 400
+            }
+          },
           `gatsby-remark-copy-linked-files`,
         ]
       }
-    }
+    },
   ]
 };

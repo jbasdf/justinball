@@ -1,0 +1,22 @@
+{
+  "name": "justin-ball-utils",
+  "description": "Utils for Justin Ball's blog",
+  "version": "1.0.0",
+  "author": "Justin Ball",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "cheerio": "^1.0.0-rc.2",
+    "lodash": "^4.17.4"
+  },
+  "keywords": [
+    "utils",
+    "justin ball"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbasdf/justinball.git"
+  },
+  "devDependencies": {}
+}

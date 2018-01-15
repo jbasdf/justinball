@@ -9,7 +9,8 @@ tags:
 templateKey: blog-post
 path: '/what-i-learned-today-common-lisp'
 description: ''
-playlist: 'https://www.youtube.com/watch?v=_iCZrSE26yg&list=PLqdXlyXtzjREcfqqwd3ezqwhdFrFZH5un'
 ---
 
 I've added Lisp to my list of items I really need to study.
+
+`https://www.youtube.com/watch?v=_iCZrSE26yg&list=PLqdXlyXtzjREcfqqwd3ezqwhdFrFZH5un`
