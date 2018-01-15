@@ -1,0 +1,2 @@
+webpackJsonp([0xf69d49a0392a],{1229:function(a,t){a.exports={data:{site:{siteMetadata:{title:"Justin Ball",author:"Justin Ball"}},markdownRemark:{id:"/Users/jbasdf/projects/justinball/src/posts/2009-12-25-merry-christmas/index.md absPath of file >>> MarkdownRemark",html:"<p>Santa's up a bit late this year (every year actually). Merry Christmas to all and to all a good night!</p>",frontmatter:{title:"Merry Christmas",date:"December 25, 2009",image:null}}},pathContext:{path:"/merry-christmas"}}}});
+//# sourceMappingURL=path---merry-christmas-5ae15698280f8e63d08c.js.map

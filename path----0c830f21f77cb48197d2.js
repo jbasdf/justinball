@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{97:function(t,a){t.exports={data:{site:{siteMetadata:{description:"Nobody Listens Anyway",companyName:"Atomic Jolt",email:"justinball@gmail.com",author:"Justin Ball",companyUrl:"http://www.atomicjolt.com",title:"Justin Ball",github:"jbasdf",twitter:"jbasdf",linkedin:"jbasdf",facebook:"jbasdf",instagram:"jbasdf"}}},layoutContext:{}}}});
+//# sourceMappingURL=path----0c830f21f77cb48197d2.js.map
