@@ -12,7 +12,7 @@ module.exports = {
     companyUrl: `http://www.atomicjolt.com`,
     companyName: `Atomic Jolt`,
   },
-  pathPrefix: '/justinball',
+  pathPrefix: '/',
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`,
