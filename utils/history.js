@@ -5,7 +5,7 @@ const cheerio = require('cheerio');
 const path = require('path');
 
 const author = 'Justin Ball';
-const outputPath = './drafts';
+const outputPath = '../src/drafts';
 const contents = fs.readFileSync('../data/history.json');
 const { stopWords, parseTitle, parseDescription, parseImages, parseKeywords, frequentWords } = require('./libs/selectors');
 const history = JSON.parse(contents);
@@ -40,14 +40,14 @@ function postPath(title) {
   return `${title.replace(/\s+/g, '-')}`;
 }
 
-function getPostStream(title, dateTime) {
+function getPostStream(title, dateTime, fileName = 'index.md') {
   const datePart = dateTime.toISOString().split('T')[0];
-  const filePath = `${outputPath}/${datePart}-${postPath(title)}/index.md`;
+  const filePath = `${outputPath}/${datePart}-${postPath(title)}/${fileName}`;
   ensureDirectoryExistence(filePath);
   return fs.createWriteStream(filePath);
 }
 
-function writePostFrontMatter(stream, title, image, description, dateTime, tags) {
+function writePostFrontMatter(stream, title, image, description, dateTime, tags, cb) {
   stream.write(`---\n`);
   stream.write(`title: ${title}\n`);
   stream.write(`author: ${author}\n`);
@@ -60,9 +60,12 @@ function writePostFrontMatter(stream, title, image, description, dateTime, tags)
   stream.write(`date: ${dateTime.toISOString()}\n`);
   stream.write(`templateKey: blog-post\n`);
   stream.write(`path: "/${postPath(title)}"\n`);
-  stream.write(`description: ${description}\n`);
+  stream.write(`description: "${description}"\n`);
   if (image) {
     stream.write(`image: ${image}\n`);
+  }
+  if (cb) {
+    cb(stream);
   }
   stream.write(`---\n`);
 }
@@ -93,8 +96,7 @@ function getMetas(responses) {
 
     let images = parseImages($);
     if (images.length <= 0 && url.indexOf('youtube.com/watch') >= 0) {
-      const videoId = url.split('?')[1];
-      images = [`http://img.youtube.com/vi/${videoId}/sddefault.jpg`]
+      images = [`http://img.youtube.com/vi/${videoId(url)}/sddefault.jpg`]
     }
 
     return {
@@ -139,7 +141,7 @@ function consensus(metas, key) {
   return mostCommon(_.flatten(wordGroups)).slice(4);
 }
 
-function outputPosts(sites) {
+function outputPosts(sites, contentCb, frontMatterCb, fileName = 'index.md') {
   sitesData(sites, (responses) => {
     const metas = getMetas(responses);
     const commonWords = consensus(metas, 'frequentWords');
@@ -160,19 +162,58 @@ function outputPosts(sites) {
     const image = _(metas).map('images').flatten().first();
     const description = '';
 
-    const stream = getPostStream(title, dateTime);
-    writePostFrontMatter(stream, title, image, description, dateTime, tags);
-    _.each(metas, (meta) => {
-      stream.write(meta.title);
-      stream.write("\n");
-      stream.write(meta.description);
-      stream.write("\n");
-      stream.write(meta.url);
-      stream.write("\n\n");
-    });
+    const stream = getPostStream(title, dateTime, fileName);
+    writePostFrontMatter(stream, title, image, description, dateTime, tags, frontMatterCb);
+    contentCb(stream, metas);
     stream.end();
   });
 }
 
-// Output pages that match specific patters
-_.each(groupUrls('youtube.com/watch'), outputPosts);
+function videoId(url) {
+  return url.split('?')[1].split('&')[0].replace('v=', '');
+}
+
+function videoUrl(url) {
+  return `https://www.youtube.com/embed/${videoId(url)}`;
+}
+
+function outputYouTubeWatches(sites) {
+  outputPosts(sites, (stream, metas) => {
+    let html = '';
+    _.each(metas, (meta) => {
+      html += `
+  <div id="${videoId(meta.url)}" class="youtube-video">
+    <h2 class="youtube-title">${meta.title}</h2>
+    <iframe src="${videoUrl(meta.url)}" frameborder="0" width="640" height="385" allowfullscreen />
+    <p class="youtube-description">${meta.description}</p>
+  </div>`;
+    });
+    if (metas.length > 1) {
+      html = `<div class="youtube-videos">\n${html}\n</div>`;
+    }
+    stream.write(html);
+  });
+}
+
+function outputYouTubePlaylists(sites) {
+  outputPosts(sites, (stream, metas) => {
+    let html = '';
+    _.each(metas, (meta) => {
+      html += `
+  <div id="${videoId(meta.url)}" class="youtube-playlist">
+    <h2 class="youtube-title">${meta.title}</h2>
+    <iframe src="${videoUrl(meta.url)}" frameborder="0" width="640" height="385" allowfullscreen />
+    <p class="youtube-description">${meta.description}</p>
+  </div>`;
+    });
+    stream.write(html);
+  });
+}
+
+// Output pages that match specific patterns
+_.each(groupUrls('youtube.com/watch'), outputYouTubeWatches);
+_.each(groupUrls('youtube.com/playlist'), outputYouTubePlaylists);
+
+
+
+
