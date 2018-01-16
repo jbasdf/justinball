@@ -6,6 +6,7 @@ import Contact from '../components/Contact'
 import Footer from '../components/Footer'
 
 import '../assets/scss/main.scss'
+import 'prismjs/themes/prism-solarizedlight.css';
 
 class Template extends React.Component {
   constructor(props) {
