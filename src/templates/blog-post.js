@@ -2,83 +2,21 @@ import _ from "lodash";
 import React from "react";
 import Helmet from "react-helmet";
 import Link from "gatsby-link";
-import cheerio from "cheerio";
 import get from "lodash/get";
+import dangerouslyAtomicHtml from 'dangerously-atomic-html';
 import BannerLanding from "../components/BannerLanding";
+import VideoPlayer from "../components/VideoPlayer";
 
 class BlogPostTemplate extends React.Component {
-  constructor() {
-    super();
-    this.state = {
-      currentVideoId: null
-    };
-  }
 
-  playVideo(videoId) {
-    this.setState(() => {
-      currentVideoId: videoId;
-    });
-  }
-
-  renderVideoList(videos) {
-    return _.map(videos, video => {
-      return (
-        <li
-          key={video.attribs.id}
-          onClick={() => {
-            this.setState(() => ({
-              currentVideoId: video.attribs.id
-            }));
-          }}
-        >
-          <img
-            src={`http://img.youtube.com/vi/${video.attribs.id}/default.jpg`}
-          />
-        </li>
-      );
-    });
-  }
-
-  renderVideoViewer(videos) {
-    if (videos.length <= 0) {
-      return;
+  visitor(domNode){
+    if(domNode.className === 'youtube-videos'){
+      return {
+        type: 'node',
+        Component: VideoPlayer,
+        props: { domNode: domNode }
+      }
     }
-
-    if (this.state.currentVideoId) {
-      return (
-        <iframe
-          src={`https://www.youtube.com/embed/${this.state.currentVideoId}`}
-          frameborder="0"
-          width="640"
-          height="385"
-          allowfullscreen
-        />
-      );
-    }
-
-    return (
-      <div>
-        <img
-          src={`http://img.youtube.com/vi/${videos[0].attribs.id}/default.jpg`}
-        />
-        <div className="play" />
-      </div>
-    );
-  }
-
-  renderContent(html) {
-    if (html.indexOf('<div class="youtube-videos">') >= 0) {
-      const $ = cheerio.load(html);
-      const videos = $(".youtube-video");
-      return (
-        <div>
-          {this.renderVideoViewer(videos)}
-          <ul>{this.renderVideoList(videos)}</ul>
-        </div>
-      );
-    }
-
-    return <p dangerouslySetInnerHTML={{ __html: post.html }} />;
   }
 
   render() {
@@ -93,7 +31,9 @@ class BlogPostTemplate extends React.Component {
         </Helmet>
         <BannerLanding post={post} />
         <div id="main">
-          <div className="inner">{this.renderContent(post.html)}</div>
+          <div className="inner">
+            {dangerouslyAtomicHtml(post.html, this.visitor)}
+          </div>
         </div>
       </div>
     );

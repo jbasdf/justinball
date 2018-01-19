@@ -2409,6 +2409,12 @@ d@1:
   dependencies:
     es5-ext "^0.10.9"
 
+dangerously-atomic-html@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/dangerously-atomic-html/-/dangerously-atomic-html-1.1.1.tgz#e7b7f889c9f4575450117e9d660346e854363d60"
+  dependencies:
+    lodash "^4.17.4"
+
 dargs@5.1.0:
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/dargs/-/dargs-5.1.0.tgz#ec7ea50c78564cd36c9d5ec18f66329fade27829"

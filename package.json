@@ -6,6 +6,7 @@
   "dependencies": {
     "bulma": "^0.6.0",
     "cheerio": "^1.0.0-rc.2",
+    "dangerously-atomic-html": "^1.1.1",
     "gatsby": "^1.9.63",
     "gatsby-image": "^1.0.31",
     "gatsby-link": "^1.6.21",
