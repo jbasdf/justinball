@@ -10,7 +10,7 @@ import VideoPlayer from "../components/VideoPlayer";
 class BlogPostTemplate extends React.Component {
 
   visitor(domNode){
-    if(domNode.className === 'youtube-videos'){
+    if(_.includes(domNode.className, 'youtube-videos')){
       return {
         type: 'node',
         Component: VideoPlayer,
@@ -32,7 +32,7 @@ class BlogPostTemplate extends React.Component {
         <BannerLanding post={post} />
         <div id="main">
           <div className="inner">
-            {dangerouslyAtomicHtml(post.html, this.visitor)}
+            {dangerouslyAtomicHtml(post.html.trim(), this.visitor)}
           </div>
         </div>
       </div>

@@ -16,7 +16,7 @@ export default class VideoPlayer extends React.Component {
   }
 
   parseVideos() {
-    return _.map(this.props.domNode, video => {
+    return _.map(this.props.domNode.children, video => {
       const title = video.children.item('h2') ? video.children.item('h2').innerText : '';
       const description = video.children.item('p') ? video.children.item('p').innerText : '';
       return {
@@ -53,24 +53,16 @@ export default class VideoPlayer extends React.Component {
       return;
     }
 
-    if (this.state.currentVideoId) {
-      return (
+    const videoId = this.state.currentVideoId || videos[0].id;
+    return (
+      <div className="video-player video-responsive">
         <iframe
-          src={`https://www.youtube.com/embed/${this.state.currentVideoId}`}
+          src={`https://www.youtube.com/embed/${videoId}`}
           frameborder="0"
           width="640"
           height="385"
           allowfullscreen
-        />
-      );
-    }
-
-    return (
-      <div>
-        <img
-          src={`http://img.youtube.com/vi/${videos[0].id}/default.jpg`}
-        />
-        <div className="play" />
+        ></iframe>
       </div>
     );
   }
@@ -78,7 +70,7 @@ export default class VideoPlayer extends React.Component {
   render() {
     const videos = this.parseVideos();
     return (
-      <div>
+      <div className="video-player-container">
         {this.renderVideoViewer(videos)}
         <ul>{this.renderVideoList(videos)}</ul>
       </div>

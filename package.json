@@ -6,7 +6,7 @@
   "dependencies": {
     "bulma": "^0.6.0",
     "cheerio": "^1.0.0-rc.2",
-    "dangerously-atomic-html": "^1.1.1",
+    "dangerously-atomic-html": "^1.1.2",
     "gatsby": "^1.9.63",
     "gatsby-image": "^1.0.31",
     "gatsby-link": "^1.6.21",
@@ -17,7 +17,6 @@
     "gatsby-remark-copy-linked-files": "^1.5.9",
     "gatsby-remark-images": "^1.5.18",
     "gatsby-remark-prismjs": "^1.2.11",
-    "gatsby-remark-responsive-iframe": "^1.4.16",
     "gatsby-source-filesystem": "^1.5.5",
     "gatsby-transformer-remark": "^1.7.17",
     "gatsby-transformer-sharp": "^1.6.13",

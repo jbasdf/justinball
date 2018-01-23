@@ -1,0 +1,51 @@
+.video-player-container {
+  .video-player {
+
+  }
+
+  ul {
+    list-style-type: none;
+
+    h3 {
+      font: bold 20px/1.5;
+      margin: 0;
+      padding: 0;
+    }
+
+    li img {
+      float: left;
+      margin: 0 15px 0 0;
+    }
+
+    li p {
+      font: 200 12px/1.5;
+      margin: 0;
+      padding: 0;
+    }
+
+    li {
+      padding: 10px;
+      overflow: auto;
+    }
+
+    li:hover {
+      background: #eee;
+      cursor: pointer;
+    }
+  }
+}
+
+.video-responsive {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+
+.video-responsive iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}

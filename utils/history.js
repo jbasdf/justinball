@@ -184,12 +184,14 @@ function outputYouTubeWatches(sites) {
       html += `
   <div id="${videoId(meta.url)}" class="youtube-video">
     <h2 class="youtube-title">${meta.title}</h2>
-    <iframe src="${videoUrl(meta.url)}" frameborder="0" width="640" height="385" allowfullscreen />
+    <iframe src="${videoUrl(meta.url)}" frameborder="0" width="640" height="385" allowfullscreen>
+      <p>Your browser does not support iframes.</p>
+    </iframe>
     <p class="youtube-description">${meta.description}</p>
   </div>`;
     });
     if (metas.length > 1) {
-      html = `<div class="youtube-videos">\n${html}\n</div>`;
+      html = `<div class="youtube-videos video-responsive">\n${html}\n</div>`;
     }
     stream.write(html);
   });
@@ -202,7 +204,9 @@ function outputYouTubePlaylists(sites) {
       html += `
   <div id="${videoId(meta.url)}" class="youtube-playlist">
     <h2 class="youtube-title">${meta.title}</h2>
-    <iframe src="${videoUrl(meta.url)}" frameborder="0" width="640" height="385" allowfullscreen />
+    <iframe src="${videoUrl(meta.url)}" frameborder="0" width="640" height="385" allowfullscreen>
+      <p>Your browser does not support iframes.</p>
+    </iframe>
     <p class="youtube-description">${meta.description}</p>
   </div>`;
     });
