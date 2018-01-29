@@ -3,19 +3,25 @@ import React from "react";
 import Helmet from "react-helmet";
 import Link from "gatsby-link";
 import get from "lodash/get";
-import dangerouslyAtomicHtml from 'dangerously-atomic-html';
+import dangerouslyAtomicHtml from "dangerously-atomic-html";
 import BannerLanding from "../components/BannerLanding";
 import VideoPlayer from "../components/VideoPlayer";
+import VideoPlayList from "../components/VideoPlayList";
 
 class BlogPostTemplate extends React.Component {
-
-  visitor(domNode){
-    if(_.includes(domNode.className, 'youtube-videos')){
+  visitor(domNode) {
+    if (_.includes(domNode.className, "youtube-videos")) {
       return {
-        type: 'node',
+        type: "node",
         Component: VideoPlayer,
         props: { domNode: domNode }
-      }
+      };
+    } else if (_.includes(domNode.className, "youtube-playlist")) {
+      return {
+        type: "node",
+        Component: VideoPlayList,
+        props: { domNode: domNode }
+      };
     }
   }
 
