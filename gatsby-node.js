@@ -16,7 +16,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
               path
               date
               title
-              description
+              imageUrl
               image {
                 childImageSharp {
                   sizes {

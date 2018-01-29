@@ -8,6 +8,8 @@ const Banner = props => {
     props.post.frontmatter.image.childImageSharp &&
     props.post.frontmatter.image.childImageSharp.sizes) {
     style.backgroundImage = `url(${props.post.frontmatter.image.childImageSharp.sizes.src})`
+  } else if(props.post.frontmatter.imageUrl) {
+    style.backgroundImage = `url(${props.post.frontmatter.imageUrl})`
   }
   return (
     <section id="banner" className="major" style={style}>

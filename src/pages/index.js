@@ -27,6 +27,8 @@ export default class IndexPage extends React.Component {
         const style = {}
         if (post.frontmatter.image) {
           style.backgroundImage = `url(${post.frontmatter.image.childImageSharp.sizes.src})`
+        } else if(post.frontmatter.imageUrl) {
+          style.backgroundImage = `url(${post.frontmatter.imageUrl})`
         }
         return (
           <article key={post.id} style={style}>
@@ -121,6 +123,7 @@ export const pageQuery = graphql`
             templateKey
             date(formatString: "MMMM DD, YYYY")
             path
+            imageUrl,
             image {
               childImageSharp {
                 sizes {

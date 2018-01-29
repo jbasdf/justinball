@@ -56,6 +56,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        imageUrl
         image {
           childImageSharp {
             sizes {

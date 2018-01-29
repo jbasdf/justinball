@@ -58,10 +58,10 @@ export default class VideoPlayer extends React.Component {
       <div className="video-player video-responsive">
         <iframe
           src={`https://www.youtube.com/embed/${videoId}`}
-          frameborder="0"
+          frameBorder="0"
           width="640"
           height="385"
-          allowfullscreen
+          allowFullScreen
         ></iframe>
       </div>
     );
