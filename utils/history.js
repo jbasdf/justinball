@@ -61,7 +61,7 @@ function writePostFrontMatter(stream, title, image, description, dateTime, tags,
   stream.write(`author: ${author}\n`);
   stream.write(`layout: post\n`);
   stream.write(`tags:\n`);
-  stream.write(`- Learning\n`);
+  stream.write(`- learning\n`);
   _.each(tags, (tag) => {
     stream.write(`- ${tag.trim()}\n`);
   });
