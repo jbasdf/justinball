@@ -367,7 +367,7 @@ function render(result){
       <h2><a target="_blank" href="http://www.snapsearcher.com">SnapSearcher</a></h2>
       <p><a target="_blank" href="http://gearshop.me/">GearShop.me</a>
       <p><a target="_blank" href="https://github.com/blitzhaven/snapsearcher">SnapSearcher Source on Github</a></p>
-      <iframe width="420" height="315" src="//www.youtube.com/embed/5wCaC_YYMdQ" frameborder="0" allowfullscreen></iframe>
+      <iframe width="420" height="315" src="//www.youtube.com/embed/5wCaC_YYMdQ" frameborder="0" allowFullScreen></iframe>
     </section>
   </section>
 

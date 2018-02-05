@@ -25,6 +25,14 @@ class BlogPostTemplate extends React.Component {
     }
   }
 
+  renderContent(post) {
+    if (typeof window !== `undefined`) {
+      return dangerouslyAtomicHtml(post.html.trim(), this.visitor);
+    } else {
+      return <div dangerouslySetInnerHTML={{ __html: post.html }} />;
+    }
+  }
+
   render() {
     const post = this.props.data.markdownRemark;
     const siteTitle = _.get(this.props, "data.site.siteMetadata.title");
@@ -38,7 +46,7 @@ class BlogPostTemplate extends React.Component {
         <BannerLanding post={post} />
         <div id="main">
           <div className="inner">
-            {dangerouslyAtomicHtml(post.html.trim(), this.visitor)}
+            {this.renderContent(post)}
           </div>
         </div>
       </div>

@@ -39,11 +39,11 @@ Soli continues to be a mind-blowing technology. It's radar on a chip that makes 
 </div>
 
 <div class="post-images">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/FKe3ppAekr0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/FKe3ppAekr0" frameborder="0" allowFullScreen></iframe>
 </div>
 
 <div class="post-images">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/dq8tv0ZhdF0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/dq8tv0ZhdF0" frameborder="0" allowFullScreen></iframe>
 </div>
 
 More videos of Soli:

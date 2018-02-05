@@ -68,7 +68,7 @@ def video_embed(video)
           data-src="//player.vimeo.com/video/#{video.vimeo_id}?api=1&player_id=#{video.id}"
           width="500"
           height="281"
-          frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>}
+          frameborder="0" webkitallowFullScreen mozallowFullScreen allowFullScreen></iframe>}
 end
 </pre></code>
 

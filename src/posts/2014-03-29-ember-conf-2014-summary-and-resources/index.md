@@ -123,8 +123,8 @@ This is a mainly a list of links to notes that others took and a few of my own n
 <p><a href="http://allisonsherenmcmillan.blogspot.com/2014/03/x-foo.html">Notes from Allison Sheren</a></p>
 <div class="well">
   <p><a href="https://twitter.com/ryanflorence">@ryanflorence</a> flies a drone with his {% raw %}{{x-foo}}{% endraw %} component at 2014</p>
-  <iframe width="560" height="315" src="//www.youtube.com/embed/Le0ouVRElrA" frameborder="0" allowfullscreen></iframe>
-  <iframe width="420" height="315" src="//www.youtube.com/embed/oRcfOeHW-Sk" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="//www.youtube.com/embed/Le0ouVRElrA" frameborder="0" allowFullScreen></iframe>
+  <iframe width="420" height="315" src="//www.youtube.com/embed/oRcfOeHW-Sk" frameborder="0" allowFullScreen></iframe>
 </div>
 <ul>
   <li><a href="http://instructure.github.io/ic-ember/">ic components from Instructure</a></li>
