@@ -11,7 +11,7 @@ date: 2018-01-26T17:22:32.000Z
 templateKey: blog-post
 path: "/graphql-radio"
 description: ""
-imageUrl: http://img.youtube.com/vi/IlQl25UeQa8/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/IlQl25UeQa8/sddefault.jpg
 ---
 <p>Found <a href="https://www.youtube.com/channel/UCyjqrS8J8FCtqOtYoYcIqGw">GraphQL Radio on YouTube</a> today. There's not a lot of code but the presenters are all contributors in to core GraphQL projects an so their insights are helpful in understanding the direction of GraphQL</p>
 

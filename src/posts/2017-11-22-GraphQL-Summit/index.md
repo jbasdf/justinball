@@ -10,7 +10,7 @@ date: 2017-11-22T18:39:33.000Z
 templateKey: blog-post
 path: "/GraphQL-Summit"
 description: ""
-imageUrl: http://img.youtube.com/vi/d0xMqeVhlhQ/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/d0xMqeVhlhQ/sddefault.jpg
 ---
 Some good GraphQL talks from GraphQL Summit 2017
 <div class="youtube-videos video-responsive">

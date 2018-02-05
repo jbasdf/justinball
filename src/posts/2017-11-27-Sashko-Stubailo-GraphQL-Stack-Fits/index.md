@@ -10,7 +10,7 @@ date: 2017-11-27T16:31:37.000Z
 templateKey: blog-post
 path: "/Sashko-Stubailo-GraphQL-Stack-Fits"
 description: ""
-imageUrl: http://img.youtube.com/vi/ykp6Za9rM58/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/ykp6Za9rM58/sddefault.jpg
 ---
 Another great GraphQL Summit 2017 presentation
 <div id="ykp6Za9rM58" class="youtube-video">

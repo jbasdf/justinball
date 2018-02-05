@@ -13,7 +13,7 @@ date: 2017-10-31T06:34:32.000Z
 templateKey: blog-post
 path: "/Control-Dmx-Lights-With-Audio-Midi"
 description: ""
-imageUrl: http://img.youtube.com/vi/TlQPGW-gHGE/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/TlQPGW-gHGE/sddefault.jpg
 ---
 
 <div id="TlQPGW-gHGE" class="youtube-video">

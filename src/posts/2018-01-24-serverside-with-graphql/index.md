@@ -14,7 +14,7 @@ date: 2018-01-24T16:37:08.000Z
 templateKey: blog-post
 path: "/serverside-with-graphql"
 description: ""
-imageUrl: http://img.youtube.com/vi/PEckzwggd78/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/PEckzwggd78/sddefault.jpg
 ---
 
 <p>Mostly Elixir but one Node.js presentation on handling GraphQL on the server.</p>

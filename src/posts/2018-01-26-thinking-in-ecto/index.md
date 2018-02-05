@@ -10,7 +10,7 @@ date: 2018-01-26T17:22:32.000Z
 templateKey: blog-post
 path: "/thinking-in-ecto"
 description: ""
-imageUrl: http://img.youtube.com/vi/YQxopjai0CU/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/YQxopjai0CU/sddefault.jpg
 ---
 <p>An Ecto presentation from ElixirConf 2017 that's worth watching a couple of times:</p>
 

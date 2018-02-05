@@ -11,7 +11,7 @@ date: 2017-11-28T16:27:32.000Z
 templateKey: blog-post
 path: "/Adding-GraphQL-to-our-REST-APIs"
 description: ""
-imageUrl: http://img.youtube.com/vi/F329W0PR6ds/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/F329W0PR6ds/sddefault.jpg
 ---
 Rarely do we get to build applications from scratch. Rather, we frequently have to make improvements on existing systems. Coursera has built on their existing REST APIs. Here's how.
 <div id="F329W0PR6ds" class="youtube-video">

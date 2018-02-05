@@ -9,7 +9,7 @@ date: 2017-11-07T19:06:45.000Z
 templateKey: blog-post
 path: "/css-animations"
 description: ""
-imageUrl: http://img.youtube.com/vi/zHUpx90NerM/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/zHUpx90NerM/sddefault.jpg
 ---
 Needed to learn a bit about CSS animations. This is a decent way to do it.
 <div id="zHUpx90NerM" class="youtube-video">

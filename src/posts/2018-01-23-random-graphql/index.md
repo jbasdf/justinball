@@ -11,7 +11,7 @@ date: 2018-01-23T17:11:31.000Z
 templateKey: blog-post
 path: "/random-graphql"
 description: ""
-imageUrl: http://img.youtube.com/vi/aeOzBCbwxUo/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/aeOzBCbwxUo/sddefault.jpg
 ---
 I went through a bunch of videos today on my graphql refresher journey. Half the videos deal with graphql and ruby and the other are from a series that uses graphql with meteor. I'm finding Apollo client 2.0 particularly interesting.
 <div class="youtube-videos video-responsive">

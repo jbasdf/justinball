@@ -11,7 +11,7 @@ date: 2018-01-25T16:54:33.000Z
 templateKey: blog-post
 path: "/GraphQL-Buffet"
 description: ""
-imageUrl: http://img.youtube.com/vi/9czIsWUoQJY/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/9czIsWUoQJY/sddefault.jpg
 ---
 <p>A random cluster of GraphQL videos that I found interesting today.</p>
 <div class="youtube-videos video-responsive">

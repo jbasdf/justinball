@@ -9,7 +9,7 @@ date: 2017-12-01T16:57:18.000Z
 templateKey: blog-post
 path: "/Web-Rtc"
 description: ""
-imageUrl: http://img.youtube.com/vi/7cbD-hFkzY0/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/7cbD-hFkzY0/sddefault.jpg
 ---
 
 <div id="7cbD-hFkzY0" class="youtube-video">

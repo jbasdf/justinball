@@ -11,7 +11,7 @@ date: 2017-11-03T14:58:17.000Z
 templateKey: blog-post
 path: "/relay-or-apollo"
 description: ""
-imageUrl: http://img.youtube.com/vi/7v03BxWnygo/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/7v03BxWnygo/sddefault.jpg
 ---
 For some time I've waffled back and forth on whether to choose Relay Modern or Apollo. I think the answer is still "it depends", but here are a couple of videos that will help in making a choice.
 <div class="youtube-videos video-responsive">
