@@ -13,7 +13,7 @@ imageUrl: http://img.youtube.com/vi/Lq-yKJFHJpk/sddefault.jpg
 ---
 <div class="youtube-videos video-responsive">
 <div id="Lq-yKJFHJpk" class="youtube-video">
-  <h2 class="youtube-title">A Pretty Good Introduction to Pretty Good Privacy - YouTube</h2>
+  <h2 class="youtube-title">A Pretty Good Introduction to Pretty Good Privacy</h2>
   <iframe src="https://www.youtube.com/embed/Lq-yKJFHJpk" frameborder="0" width="640" height="385" allowfullscreen>
     <p>Your browser does not support iframes.</p>
   </iframe>

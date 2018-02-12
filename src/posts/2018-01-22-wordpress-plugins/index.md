@@ -19,7 +19,7 @@ imageUrl: http://img.youtube.com/vi/Z7QfH-s-15s/sddefault.jpg
 </p>
 <div class="youtube-videos video-responsive">
   <div id="Z7QfH-s-15s" class="youtube-video">
-    <h2 class="youtube-title">Create a WordPress Plugin from Scratch - Part 1 - YouTube</h2>
+    <h2 class="youtube-title">Create a WordPress Plugin from Scratch - Part 1</h2>
     <iframe src="https://www.youtube.com/embed/Z7QfH-s-15s" frameborder="0" width="640" height="385" allowfullscreen>
       <p>Your browser does not support iframes.</p>
     </iframe>

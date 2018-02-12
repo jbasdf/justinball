@@ -15,21 +15,21 @@ imageUrl: http://img.youtube.com/vi/7S8RNnTGdzI/sddefault.jpg
 <div class="youtube-videos video-responsive">
 
 <div id="7S8RNnTGdzI" class="youtube-video">
-  <h2 class="youtube-title">Using GraphQL in a Static Site Generator - Kyle Mathews - YouTube</h2>
+  <h2 class="youtube-title">Using GraphQL in a Static Site Generator - Kyle Mathews</h2>
   <iframe src="https://www.youtube.com/embed/7S8RNnTGdzI" frameborder="0" width="640" height="385" allowfullscreen>
     <p>Your browser does not support iframes.</p>
   </iframe>
   <p class="youtube-description">Gatsby is a blazing-fast static site generator for React. Its recent new major release unveiled a new plugin-driven data layer which automatically creates a ...</p>
 </div>
 <div id="9Jr5u1Imbjw" class="youtube-video">
-  <h2 class="youtube-title">GatsbyJS Tutorials #8 - Building Your Static Site - YouTube</h2>
+  <h2 class="youtube-title">GatsbyJS Tutorials #8 - Building Your Static Site</h2>
   <iframe src="https://www.youtube.com/embed/9Jr5u1Imbjw" frameborder="0" width="640" height="385" allowfullscreen>
     <p>Your browser does not support iframes.</p>
   </iframe>
   <p class="youtube-description">Master Figma! The next generation, cross platform, design app. https://goo.gl/UxHPFT Subscribe for more free tutorials https://goo.gl/6ljoFc Support Free Tut...</p>
 </div>
 <div id="Gtd-Ht-D0sg" class="youtube-video">
-  <h2 class="youtube-title">Kyle Mathews: GatsbyJS — How to Create The Fastest Sites In The World — ReactNext 2017 - YouTube</h2>
+  <h2 class="youtube-title">Kyle Mathews: GatsbyJS — How to Create The Fastest Sites In The World — ReactNext 2017</h2>
   <iframe src="https://www.youtube.com/embed/Gtd-Ht-D0sg" frameborder="0" width="640" height="385" allowfullscreen>
     <p>Your browser does not support iframes.</p>
   </iframe>
