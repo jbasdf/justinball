@@ -83,7 +83,8 @@ export default class IndexPage extends React.Component {
               </header>
               <p>
                 Hi, I'm Justin Ball. I'm the CTO and co-founder of{' '}
-                <a href="https://www.atomicjolt.com">Atomic Jolt</a>. I write code, travel, play board games, ride bikes
+                <a href="https://www.atomicjolt.com">Atomic Jolt</a>. I write code,
+                travel, play board games, ride bikes
                 and blog about random topics.
               </p>
               <ul className="actions">
