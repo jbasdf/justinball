@@ -16,5 +16,5 @@ Here's the full GraphQL Summit 2017 playlist. All great presentations that are w
   <iframe src="https://www.youtube.com/embed/list=PLpi1lPB6opQywks7yYYs5jJAIRI3faRTm" frameborder="0" width="640" height="385" allowfullscreen>
     <p>Your browser does not support iframes.</p>
   </iframe>
-  <p class="youtube-description">GraphQL Summit 2017 - YouTube</p>
+  <p class="youtube-description">GraphQL Summit 2017</p>
 </div>
