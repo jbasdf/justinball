@@ -1,5 +1,5 @@
 ---
-title: Thinking in Ecto
+title: Elixir Conf 2017
 author: Justin Ball
 layout: post
 tags:
