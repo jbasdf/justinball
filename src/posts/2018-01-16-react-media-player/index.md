@@ -14,7 +14,7 @@ date: 2018-01-16T17:00:17.000Z
 templateKey: blog-post
 path: "/react-media-player"
 description: ""
-imageUrl: http://img.youtube.com/vi/_awnyW-9aJ8/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/_awnyW-9aJ8/sddefault.jpg
 ---
 <div class="youtube-videos video-responsive">
 <div id="_awnyW-9aJ8" class="youtube-video">

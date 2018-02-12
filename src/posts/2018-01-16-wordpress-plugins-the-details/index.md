@@ -10,7 +10,7 @@ date: 2018-01-16T06:49:03.000Z
 templateKey: blog-post
 path: "/wordpress-plugins-the-details"
 description: ""
-imageUrl: http://img.youtube.com/vi/tSblOUw97Mc/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/tSblOUw97Mc/sddefault.jpg
 ---
 <div class="youtube-videos video-responsive">
   <div id="tSblOUw97Mc" class="youtube-video">

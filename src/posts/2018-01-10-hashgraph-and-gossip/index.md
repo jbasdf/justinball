@@ -9,7 +9,7 @@ date: 2018-01-10T15:52:07.000Z
 templateKey: blog-post
 path: "/hashgraph-and-gossip"
 description: ""
-imageUrl: http://img.youtube.com/vi/IjQkag6VOo0/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/IjQkag6VOo0/sddefault.jpg
 ---
 <div class="youtube-videos video-responsive">
   <div id="IjQkag6VOo0" class="youtube-video">

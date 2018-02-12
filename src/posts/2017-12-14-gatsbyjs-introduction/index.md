@@ -9,7 +9,7 @@ date: 2017-12-14T17:54:22.000Z
 templateKey: blog-post
 path: "/gatsbyjs-introduction"
 description: ""
-imageUrl: http://img.youtube.com/vi/7S8RNnTGdzI/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/7S8RNnTGdzI/sddefault.jpg
 ---
 <p>I'm working on moving my blog over to Gatsbyjs. Here are some intro videos to get going.</p>
 <div class="youtube-videos video-responsive">

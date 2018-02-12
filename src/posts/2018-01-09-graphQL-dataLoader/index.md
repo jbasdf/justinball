@@ -10,7 +10,7 @@ date: 2018-01-09T16:30:24.000Z
 templateKey: blog-post
 path: "/graphql-dataloader"
 description: ""
-imageUrl: http://img.youtube.com/vi/2cSVIWDUSn4/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/2cSVIWDUSn4/sddefault.jpg
 ---
 <div class="youtube-videos video-responsive">
   <div id="2cSVIWDUSn4" class="youtube-video">

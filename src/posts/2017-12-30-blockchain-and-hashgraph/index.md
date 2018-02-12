@@ -10,7 +10,7 @@ date: 2017-12-30T03:56:15.000Z
 templateKey: blog-post
 path: "/blockchain-and-hashgraph"
 description: ""
-imageUrl: http://img.youtube.com/vi/zgrXgEJ0Mwc/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/zgrXgEJ0Mwc/sddefault.jpg
 ---
 <div class="youtube-videos video-responsive">
   <div id="zgrXgEJ0Mwc" class="youtube-video">

@@ -10,7 +10,7 @@ date: 2018-01-22T16:51:53.000Z
 templateKey: blog-post
 path: "/wordpress-plugins"
 description: ""
-imageUrl: http://img.youtube.com/vi/Z7QfH-s-15s/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/Z7QfH-s-15s/sddefault.jpg
 ---
 <p>Talk to most developers about PHP and you'll get an eye roll and a moan.
   It's not the favorite language among the popular developer

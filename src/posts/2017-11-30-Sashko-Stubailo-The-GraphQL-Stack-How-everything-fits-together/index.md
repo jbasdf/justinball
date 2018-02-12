@@ -11,7 +11,7 @@ date: 2017-11-30T16:50:10.000Z
 templateKey: blog-post
 path: "/Sashko-Stubailo-The-GraphQL-Stack-How-everything-fits-together"
 description: ""
-imageUrl: http://img.youtube.com/vi/ykp6Za9rM58/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/ykp6Za9rM58/sddefault.jpg
 ---
 
 <div id="ykp6Za9rM58" class="youtube-video">

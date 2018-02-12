@@ -11,7 +11,7 @@ date: 2017-12-26T16:29:38.000Z
 templateKey: blog-post
 path: "/build-out-your-blog-with-gatsbyjs"
 description: ""
-imageUrl: http://img.youtube.com/vi/BSw05rJaCpA/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/BSw05rJaCpA/sddefault.jpg
 ---
 
 <p>More help with building out your blog with <a href="https://www.gatsbyjs.org/">Gatsby.js</a> mixed with some GraphQL tutorials (since

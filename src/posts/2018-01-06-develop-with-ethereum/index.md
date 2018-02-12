@@ -10,7 +10,7 @@ date: 2018-01-06T00:17:56.000Z
 templateKey: blog-post
 path: "/develop-with-ethereum"
 description: ""
-imageUrl: http://img.youtube.com/vi/xvYX_7iRRI0/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/xvYX_7iRRI0/sddefault.jpg
 ---
 <p>Here's a series of video tutorials that do a good job of introducing how to develop
 applications on the <a href="https://www.ethereum.org/">Ethereum</a> distributed platform using

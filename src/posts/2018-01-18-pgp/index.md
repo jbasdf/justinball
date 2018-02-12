@@ -9,7 +9,7 @@ date: 2018-01-18T17:11:40.000Z
 templateKey: blog-post
 path: "/pgp"
 description: ""
-imageUrl: http://img.youtube.com/vi/Lq-yKJFHJpk/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/Lq-yKJFHJpk/sddefault.jpg
 ---
 <div class="youtube-videos video-responsive">
 <div id="Lq-yKJFHJpk" class="youtube-video">

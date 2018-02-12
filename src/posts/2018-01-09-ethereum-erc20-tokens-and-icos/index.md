@@ -14,7 +14,7 @@ date: 2018-01-09T16:30:24.000Z
 templateKey: blog-post
 path: "/ethereum-erc20-tokens-and-icos"
 description: ""
-imageUrl: http://img.youtube.com/vi/TpZkoTB_1ic/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/TpZkoTB_1ic/sddefault.jpg
 ---
 <div class="youtube-videos video-responsive">
   <div id="TpZkoTB_1ic" class="youtube-video">

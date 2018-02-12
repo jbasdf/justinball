@@ -12,7 +12,7 @@ date: 2017-12-19T16:50:40.000Z
 templateKey: blog-post
 path: "/crypto-ethereum"
 description: ""
-imageUrl: http://img.youtube.com/vi/DGH76Nln9NI/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/DGH76Nln9NI/sddefault.jpg
 ---
 <p>
   Looking into the underbelly of cryptocurrencies. Some of these videos are a bit sketchy, but I think

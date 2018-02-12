@@ -9,7 +9,7 @@ date: 2018-01-12T20:08:15.000Z
 templateKey: blog-post
 path: "/why-the-lucky-stiff-gifts-to-the-ruby-world"
 description: ""
-imageUrl: http://img.youtube.com/vi/Du_RTMmofWM/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/Du_RTMmofWM/sddefault.jpg
 ---
 <p>If you write Ruby you must see these.</p>
 <div class="youtube-videos video-responsive">

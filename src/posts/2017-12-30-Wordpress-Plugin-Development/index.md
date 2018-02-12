@@ -10,7 +10,7 @@ date: 2017-12-30T16:30:41.000Z
 templateKey: blog-post
 path: "/Wordpress-Plugin-Development"
 description: ""
-imageUrl: http://img.youtube.com/vi/KYd3sKJPmU8/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/KYd3sKJPmU8/sddefault.jpg
 ---
 
 <p>Bits an pieces of the Wordpress Plugin Development playlist that I ended up watching today:</p>

@@ -10,7 +10,7 @@ date: 2017-12-20T18:39:56.000Z
 templateKey: blog-post
 path: "/graphql-mixed-with-blockchain"
 description: ""
-imageUrl: http://img.youtube.com/vi/BqfZZ0wDeMU/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/BqfZZ0wDeMU/sddefault.jpg
 ---
 <p>
   Had a bit of a mixed day as I switched back and forth between blockchain and graphQL on the Server.

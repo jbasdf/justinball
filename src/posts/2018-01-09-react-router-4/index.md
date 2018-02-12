@@ -9,7 +9,7 @@ date: 2018-01-09T16:30:24.000Z
 templateKey: blog-post
 path: "/react-router-4"
 description: ""
-imageUrl: http://img.youtube.com/vi/l9eyot_IXLY/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/l9eyot_IXLY/sddefault.jpg
 ---
 <div class="youtube-videos video-responsive">
   <div id="l9eyot_IXLY" class="youtube-video">

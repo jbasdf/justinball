@@ -11,7 +11,7 @@ date: 2018-01-03T17:10:56.000Z
 templateKey: blog-post
 path: "/ethereum-with-javascript"
 description: ""
-imageUrl: http://img.youtube.com/vi/paInEUALg1Y/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/paInEUALg1Y/sddefault.jpg
 ---
 <p>A couple of tutorials showing how to build Ethereum applications including a bit about using React.js</p>
 <div class="youtube-videos video-responsive">

@@ -12,7 +12,7 @@ date: 2017-12-18T19:17:05.000Z
 templateKey: blog-post
 path: "/blockchain-introduction"
 description: ""
-imageUrl: http://img.youtube.com/vi/gSQXq2_j-mw/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/gSQXq2_j-mw/sddefault.jpg
 ---
 <p>A overview of BlockChain technologies from a bunch of different prospectives.</p>
 <div class="youtube-videos video-responsive">

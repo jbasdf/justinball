@@ -10,7 +10,7 @@ date: 2018-01-15T06:10:13.000Z
 templateKey: blog-post
 path: "/Serverless-GraphQL-Architecture-Future-Backend-Development"
 description: ""
-imageUrl: http://img.youtube.com/vi/PTphFRHJ3d0/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/PTphFRHJ3d0/sddefault.jpg
 ---
 
 <div id="PTphFRHJ3d0" class="youtube-video">

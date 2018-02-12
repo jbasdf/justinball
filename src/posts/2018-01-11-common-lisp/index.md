@@ -9,7 +9,7 @@ date: 2018-01-11T18:08:09.000Z
 templateKey: blog-post
 path: "/common-lisp"
 description: ""
-imageUrl: http://img.youtube.com/vi/_iCZrSE26yg/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/_iCZrSE26yg/sddefault.jpg
 ---
 <p>Because eventually everyone has to learn some LISP</p>
 <div class="youtube-videos video-responsive">

@@ -14,7 +14,7 @@ date: 2018-01-16T16:19:51.000Z
 templateKey: blog-post
 path: "/Create-Custom-Image-Uploader-Word-Press"
 description: ""
-imageUrl: http://img.youtube.com/vi/PzzH4ZlNgaM/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/PzzH4ZlNgaM/sddefault.jpg
 ---
 
 <div id="PLIjMj0-5C8TJYSkKnUyHH1VXlIpvZXOMT" class="youtube-playlist">

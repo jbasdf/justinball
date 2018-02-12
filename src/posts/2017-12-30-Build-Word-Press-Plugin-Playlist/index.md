@@ -10,7 +10,7 @@ date: 2017-12-30T16:30:41.000Z
 templateKey: blog-post
 path: "/Build-Word-Press-Plugin"
 description: ""
-imageUrl: http://img.youtube.com/vi/tSblOUw97Mc/sddefault.jpg
+imageUrl: https://img.youtube.com/vi/tSblOUw97Mc/sddefault.jpg
 ---
 
 <p>The best and most complete Wordpress Plugin development tutorial I've found. It will take a while to
