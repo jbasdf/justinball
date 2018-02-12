@@ -23,7 +23,7 @@ imageUrl: https://img.youtube.com/vi/9czIsWUoQJY/sddefault.jpg
   <p class="youtube-description">Adam Kramer, Software Engineer at Facebook, gave this talk at GraphQL Summit 2017. Learn more: summit.graphql.com At Facebook, our GraphQL schema has over 10...</p>
 </div>
 <div id="ykp6Za9rM58" class="youtube-video">
-  <h2 class="youtube-title">Sashko Stubailo - The GraphQL Stack: How everything fits together</h2>
+  <h2 class="youtube-title">Sashko Stubailo - The GraphQL Stack - How everything fits together</h2>
   <iframe src="https://www.youtube.com/embed/ykp6Za9rM58" frameborder="0" width="640" height="385" allowfullscreen>
     <p>Your browser does not support iframes.</p>
   </iframe>
