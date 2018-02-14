@@ -16,10 +16,16 @@ class Template extends React.Component {
       loading: 'is-loading',
     }
     this.handleToggleMenu = this.handleToggleMenu.bind(this)
+    console.log('constructing index and setting is-loading')
+    debugger;
   }
 
   componentDidMount() {
+    debugger;
+    console.log('index did mount')
     this.timeoutId = setTimeout(() => {
+      debugger;
+      console.log('changing loading state')
       this.setState({ loading: '' })
     }, 100)
   }
