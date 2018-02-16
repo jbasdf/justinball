@@ -1248,6 +1248,10 @@
       "path---big-companies-using-ruby-on-rails-6ffab19d337f3e6f9c7f.js",
       "path---big-companies-using-ruby-on-rails-6ffab19d337f3e6f9c7f.js.map"
     ],
+    "path---sovrin-identity-on-blockchain": [
+      "path---sovrin-identity-on-blockchain-5a3e25f0ba3b709ff14f.js",
+      "path---sovrin-identity-on-blockchain-5a3e25f0ba3b709ff14f.js.map"
+    ],
     "path---sustaining-open-content": [
       "path---sustaining-open-content-d8ea7aacd2fb07140023.js",
       "path---sustaining-open-content-d8ea7aacd2fb07140023.js.map"
@@ -1329,8 +1333,8 @@
       "path---walmart-is-not-so-evil-e574b51623111df65bfb.js.map"
     ],
     "path---index": [
-      "path---index-1f4cbef7be52984b98a5.js",
-      "path---index-1f4cbef7be52984b98a5.js.map"
+      "path---index-f4bcaf9fe630889cb943.js",
+      "path---index-f4bcaf9fe630889cb943.js.map"
     ],
     "path---jenna-again": [
       "path---jenna-again-f9bd8153309ea7e8fd49.js",
@@ -1349,8 +1353,8 @@
       "path---checkbox-list-in-ruby-on-rails-using-habtm-16f32a8482153b0c6e6a.js.map"
     ],
     "path---learning": [
-      "path---learning-1f4cbef7be52984b98a5.js",
-      "path---learning-1f4cbef7be52984b98a5.js.map"
+      "path---learning-f4bcaf9fe630889cb943.js",
+      "path---learning-f4bcaf9fe630889cb943.js.map"
     ],
     "path---no-configured-for": [
       "path---no-configured-for-4025997ff88dc59ea2a4.js",
@@ -2113,9 +2117,9 @@
       "path---quick-note-use-rake-to-install-rails-20-9452e189c23b99ec862a.js.map"
     ],
     "app": [
-      "app-184591ee621160992d3b.js",
+      "app-9f96527424d1d11a7a7c.js",
       "build-js-styles.css",
-      "app-184591ee621160992d3b.js.map",
+      "app-9f96527424d1d11a7a7c.js.map",
       "build-js-styles.css.map"
     ],
     "path---graph-ql-summit-2017": [
