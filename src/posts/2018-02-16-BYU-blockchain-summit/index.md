@@ -11,7 +11,7 @@ path: "/byu-blockchain-summit-property-and-real-estate"
 description: ""
 image: BlockchainPropertyAndRealEstate.jpg
 ---
-<h2>Property and Real Estate
+<h2>Property and Real Estate</h2>
 <img src="BlockchainPropertyAndRealEstate.jpg" />
 <p>Challenges of bringing the Real Estate Industry together</p>
 <ul>
