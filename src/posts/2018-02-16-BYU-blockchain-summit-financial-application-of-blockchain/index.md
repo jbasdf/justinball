@@ -7,9 +7,9 @@ tags:
 - blockchain
 date: 2018-02-16T14:18:00.000Z
 templateKey: blog-post
-path: "/byu-blockchain-summit-financial-application-of-blockchain
+path: "/byu-blockchain-summit-financial-application-of-blockchain"
 description: ""
-image:
+image: financial-applications-of-blockchain.jpg
 ---
 <h2>Financial Applications of Blockchain</h2>
 
