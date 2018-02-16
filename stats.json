@@ -253,8 +253,8 @@
       "path---wow-the-internet-archive-4332279234b43bebe4ac.js.map"
     ],
     "path---byu-blockchain-summit-property-and-real-estate": [
-      "path---byu-blockchain-summit-property-and-real-estate-19f0189a144363e082fd.js",
-      "path---byu-blockchain-summit-property-and-real-estate-19f0189a144363e082fd.js.map"
+      "path---byu-blockchain-summit-property-and-real-estate-413e832bf0013f4359d7.js",
+      "path---byu-blockchain-summit-property-and-real-estate-413e832bf0013f4359d7.js.map"
     ],
     "path---joining-the-rails-bandwagon": [
       "path---joining-the-rails-bandwagon-c9fb58ed118bbe829fe2.js",
@@ -1329,8 +1329,8 @@
       "path---walmart-is-not-so-evil-e574b51623111df65bfb.js.map"
     ],
     "path---index": [
-      "path---index-ffb741a5066fa2563f2f.js",
-      "path---index-ffb741a5066fa2563f2f.js.map"
+      "path---index-615b21758d5c527e0748.js",
+      "path---index-615b21758d5c527e0748.js.map"
     ],
     "path---jenna-again": [
       "path---jenna-again-f9bd8153309ea7e8fd49.js",
@@ -1349,8 +1349,8 @@
       "path---checkbox-list-in-ruby-on-rails-using-habtm-16f32a8482153b0c6e6a.js.map"
     ],
     "path---learning": [
-      "path---learning-ffb741a5066fa2563f2f.js",
-      "path---learning-ffb741a5066fa2563f2f.js.map"
+      "path---learning-615b21758d5c527e0748.js",
+      "path---learning-615b21758d5c527e0748.js.map"
     ],
     "path---no-configured-for": [
       "path---no-configured-for-4025997ff88dc59ea2a4.js",
@@ -1631,6 +1631,10 @@
     "path---my-wife-is-pretty-cool": [
       "path---my-wife-is-pretty-cool-a4c12f09218d5cc4be78.js",
       "path---my-wife-is-pretty-cool-a4c12f09218d5cc4be78.js.map"
+    ],
+    "path---byu-blockchain-summit-self-sovereign-identity": [
+      "path---byu-blockchain-summit-self-sovereign-identity-c6148d94d7ced98f263f.js",
+      "path---byu-blockchain-summit-self-sovereign-identity-c6148d94d7ced98f263f.js.map"
     ],
     "path---show-unread-emails-in-gmail": [
       "path---show-unread-emails-in-gmail-9736683b729be340a574.js",
@@ -2109,9 +2113,9 @@
       "path---quick-note-use-rake-to-install-rails-20-9452e189c23b99ec862a.js.map"
     ],
     "app": [
-      "app-44be5b7369e5be08649e.js",
+      "app-71e4c78aa27f9f8c5fa9.js",
       "build-js-styles.css",
-      "app-44be5b7369e5be08649e.js.map",
+      "app-71e4c78aa27f9f8c5fa9.js.map",
       "build-js-styles.css.map"
     ],
     "path---graph-ql-summit-2017": [
