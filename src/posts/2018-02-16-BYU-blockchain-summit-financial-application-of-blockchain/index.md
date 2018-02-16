@@ -32,6 +32,6 @@ Securities laws emerged from the hype of the 1920s that led to the Great Depress
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/greg-pesci-25a189/">Greg Pesci</a>CEO at <a href="https://spera.io/">Spera.io</a>. It is hypocritical for traditional banks, that we trusted and who were to big to fail and who caused the 2008 crash to say that the cryptocurrencies guys are crazy with their hair on fire.
+  <a href="https://www.linkedin.com/in/greg-pesci-25a189/">Greg Pesci</a> CEO at <a href="https://spera.io/">Spera.io</a>. It is hypocritical for traditional banks, that we trusted and who were to big to fail and who caused the 2008 crash to say that the cryptocurrencies guys are crazy with their hair on fire.
   Bitcoin and other cryptocurrencies can't handle large volumes of transactions and that has been a worry since Visa handles 24,000 transactions per second. However, Paypal only handles 200 transactions per second so maybe the transation rate of cryptocurrencies isn't such a big deal.
 </p>
