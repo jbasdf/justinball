@@ -56,3 +56,4 @@ I am frequently asked to join various startups.   I think that genealogy of all 
 I like to spend time with my wife and kids.
 
 When I am not doing the above you will find me wearing silly tight clothes, breathing heavy, headed up a canyon or down long stretches of asphalt on my bike.
+

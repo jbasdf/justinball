@@ -1,4 +1,5 @@
 const path = require('path');
+const createPaginatedPages = require("gatsby-paginate");
 
 exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators;
@@ -35,6 +36,16 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       result.errors.forEach(e => console.error(e.toString()));
       return Promise.reject(result.errors);
     }
+    createPaginatedPages({
+      edges: result.data.allMarkdownRemark.edges,
+      createPage: createPage,
+      pageTemplate: "src/templates/archive.js",
+      pageLength: 20,
+      pathPrefix: "archive",
+      context: {
+        data: result.data,
+      }
+    });
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
       createPage({
         path: node.frontmatter.path,
