@@ -8,7 +8,7 @@ import 'prismjs/themes/prism-solarizedlight.css';
 
 const NavLink = props => {
   if (!props.test) {
-    return <Link to={props.url}>{props.text}</Link>;
+    return <Link to={props.url} className={`button ${props.className}`}>{props.text}</Link>;
   } else {
     return <span>{props.text}</span>;
   }
@@ -35,10 +35,15 @@ class Archive extends React.Component {
       .filter(post => post.node.frontmatter.templateKey === 'blog-post')
       .map(({ node: post }) => {
         const style = {}
-        if (post.frontmatter.image) {
-          style.backgroundImage = `url(${post.frontmatter.image.childImageSharp.sizes.src})`
-        } else if(post.frontmatter.imageUrl) {
-          style.backgroundImage = `url(${post.frontmatter.imageUrl})`
+        try {
+          if (post.frontmatter.image) {
+            style.backgroundImage = `url(${post.frontmatter.image.childImageSharp.sizes.src})`
+          } else if(post.frontmatter.imageUrl) {
+            style.backgroundImage = `url(${post.frontmatter.imageUrl})`
+          }
+        } catch(e) {
+          console.log(post);
+          console.log(e);
         }
         return (
           <article key={post.id} style={style}>
@@ -67,13 +72,13 @@ class Archive extends React.Component {
           <section className="tiles">
             {this.renderArticles(group)}
           </section>
-          <section>
+          <section>`
             <div className="inner">
-              <div className="previousLink">
-                <NavLink test={first} url={previousUrl} text="Go to Previous Page" />
+              <div className="previousLink" style={{display: 'inline-block'}}>
+                <NavLink test={first} url={previousUrl} text="Go to Previous Page" className="previous" />
               </div>
-              <div className="nextLink">
-                <NavLink test={last} url={nextUrl} text="Go to Next Page" />
+              <div className="nextLink" style={{display: 'inline-block', float: 'right'}}>
+                <NavLink test={last} url={nextUrl} text="Go to Next Page" className="next"/>
               </div>
             </div>
           </section>

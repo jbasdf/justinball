@@ -76,6 +76,17 @@ export default class IndexPage extends React.Component {
           <section id="one" className="tiles">
             {this.renderArticles()}
           </section>
+          <section>
+            <div className="inner">
+              <ul className="actions align-right">
+                <li>
+                  <Link to="/archive/2" className="button next">
+                    More
+                  </Link>
+                </li>
+              </ul>
+            </div>
+          </section>
           <section id="two">
             <div className="inner">
               <header className="major">
@@ -85,15 +96,8 @@ export default class IndexPage extends React.Component {
                 Hi, I'm Justin Ball. I'm the CTO and co-founder of{' '}
                 <a href="https://www.atomicjolt.com">Atomic Jolt</a>. I write code,
                 travel, play board games, ride bikes
-                and blog about random topics.
+                and blog about random topics. <Link to="/about">More about me...</Link>
               </p>
-              <ul className="actions">
-                <li>
-                  <Link to="/about" className="button next">
-                    More
-                  </Link>
-                </li>
-              </ul>
             </div>
           </section>
         </div>

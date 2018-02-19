@@ -42,9 +42,6 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       pageTemplate: "src/templates/archive.js",
       pageLength: 20,
       pathPrefix: "archive",
-      context: {
-        data: result.data,
-      }
     });
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
       createPage({
