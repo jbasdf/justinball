@@ -24780,28 +24780,20 @@ var AboutPageTemplate = exports.AboutPageTemplate = function AboutPageTemplate(_
 
   var PageContent = contentComponent || _Content2.default;
   return _react2.default.createElement(
-    'section',
-    { className: 'section section--gradient' },
+    'div',
+    { id: 'main' },
     _react2.default.createElement(
       'div',
-      { className: 'container' },
+      { className: 'content' },
       _react2.default.createElement(
         'div',
-        { className: 'columns' },
+        { className: 'inner' },
         _react2.default.createElement(
-          'div',
-          { className: 'column is-10 is-offset-1' },
-          _react2.default.createElement(
-            'div',
-            { className: 'section' },
-            _react2.default.createElement(
-              'h2',
-              { className: 'title is-size-3 has-text-weight-bold is-bold-light' },
-              title
-            ),
-            _react2.default.createElement(PageContent, { className: 'content', content: content })
-          )
-        )
+          'h2',
+          { className: 'title is-size-3 has-text-weight-bold is-bold-light' },
+          title
+        ),
+        _react2.default.createElement(PageContent, { className: 'content', content: content })
       )
     )
   );
@@ -26947,7 +26939,7 @@ exports.pageQuery = undefined;
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-var _templateObject = _taggedTemplateLiteral(["\n  query BlogPostByPath($path: String!) {\n    site {\n      siteMetadata {\n        title\n        author\n      }\n    }\n    markdownRemark(frontmatter: { path: { eq: $path } }) {\n      id\n      html\n      frontmatter {\n        title\n        date(formatString: \"MMMM DD, YYYY\")\n        imageUrl\n        image {\n          childImageSharp {\n            sizes {\n              src\n            }\n          }\n        }\n      }\n    }\n  }\n"], ["\n  query BlogPostByPath($path: String!) {\n    site {\n      siteMetadata {\n        title\n        author\n      }\n    }\n    markdownRemark(frontmatter: { path: { eq: $path } }) {\n      id\n      html\n      frontmatter {\n        title\n        date(formatString: \"MMMM DD, YYYY\")\n        imageUrl\n        image {\n          childImageSharp {\n            sizes {\n              src\n            }\n          }\n        }\n      }\n    }\n  }\n"]);
+var _templateObject = _taggedTemplateLiteral(["\n  query BlogPostByPath($path: String!) {\n    site {\n      siteMetadata {\n        title\n        author\n      }\n    }\n    markdownRemark(frontmatter: { path: { eq: $path } }) {\n      id\n      html\n      frontmatter {\n        title\n        date(formatString: \"MMMM DD, YYYY\")\n        imageUrl\n        structuredHtml\n        image {\n          childImageSharp {\n            sizes {\n              src\n            }\n          }\n        }\n      }\n    }\n  }\n"], ["\n  query BlogPostByPath($path: String!) {\n    site {\n      siteMetadata {\n        title\n        author\n      }\n    }\n    markdownRemark(frontmatter: { path: { eq: $path } }) {\n      id\n      html\n      frontmatter {\n        title\n        date(formatString: \"MMMM DD, YYYY\")\n        imageUrl\n        structuredHtml\n        image {\n          childImageSharp {\n            sizes {\n              src\n            }\n          }\n        }\n      }\n    }\n  }\n"]);
 
 var _lodash = __webpack_require__(75);
 
@@ -27031,11 +27023,23 @@ var BlogPostTemplate = function (_React$Component) {
       }
     }
   }, {
+    key: "renderStructure",
+    value: function renderStructure(post) {
+      if (post.frontmatter.structuredHtml) {
+        return this.renderContent(post);
+      } else {
+        return _react2.default.createElement(
+          "div",
+          { className: "inner" },
+          this.renderContent(post)
+        );
+      }
+    }
+  }, {
     key: "render",
     value: function render() {
       var post = this.props.data.markdownRemark;
       var siteTitle = _lodash2.default.get(this.props, "data.site.siteMetadata.title");
-
       return _react2.default.createElement(
         "div",
         null,
@@ -27053,11 +27057,7 @@ var BlogPostTemplate = function (_React$Component) {
         _react2.default.createElement(
           "div",
           { id: "main" },
-          _react2.default.createElement(
-            "div",
-            { className: "inner" },
-            this.renderContent(post)
-          )
+          this.renderStructure(post)
         )
       );
     }
