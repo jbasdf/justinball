@@ -1,7 +1,6 @@
 ---
 title: Sovrin Identity On Blockchain
 author: Justin Ball
-layout: post
 tags:
 - sovrin
 - blockchain

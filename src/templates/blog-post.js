@@ -33,10 +33,21 @@ class BlogPostTemplate extends React.Component {
     }
   }
 
+  renderStructure(post) {
+    if (post.frontmatter.structuredHtml) {
+      return this.renderContent(post);
+    } else {
+      return (
+        <div className="inner">
+          {this.renderContent(post)}
+        </div>
+      );
+    }
+  }
+
   render() {
     const post = this.props.data.markdownRemark;
     const siteTitle = _.get(this.props, "data.site.siteMetadata.title");
-
     return (
       <div>
         <Helmet>
@@ -45,9 +56,7 @@ class BlogPostTemplate extends React.Component {
         </Helmet>
         <BannerLanding post={post} />
         <div id="main">
-          <div className="inner">
-            {this.renderContent(post)}
-          </div>
+          {this.renderStructure(post)}
         </div>
       </div>
     );
@@ -71,6 +80,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         imageUrl
+        structuredHtml
         image {
           childImageSharp {
             sizes {
