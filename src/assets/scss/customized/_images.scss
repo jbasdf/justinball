@@ -4,5 +4,8 @@
   justify-content: space-around;
   .post-images {
     flex-basis: 33%;
+    img {
+      width: auto;
+    }
   }
 }
