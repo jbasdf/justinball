@@ -1,0 +1,8 @@
+.image-grid {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  .post-images {
+    flex-basis: 33%;
+  }
+}
