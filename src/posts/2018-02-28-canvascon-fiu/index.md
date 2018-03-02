@@ -29,7 +29,7 @@ image: "./IMG_0519.jpg"
   </div>
   <div class="post-images">
     <img src="./IMG_0462.jpg" alt=""/>
-    <p class="caption">Cruise ship</p>
+    <p class="caption">Container ship</p>
   </div>
   <div class="post-images">
     <img src="./IMG_0465.jpg" alt=""/>
