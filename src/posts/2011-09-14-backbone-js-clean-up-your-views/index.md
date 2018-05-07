@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2011/09/14/backbone-js-clean-up-your-views/"
 tags:
-- Javascript
+  - "Javascript"
 date: '2011-09-14T06:00:00Z'
 templateKey: blog-post
 path: "/backbone-js-clean-up-your-views"

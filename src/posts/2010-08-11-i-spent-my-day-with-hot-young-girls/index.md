@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2010/08/11/i-spent-my-day-with-hot-young-girls/"
 tags:
-- Funny
-- girl's camp
+  - "Funny"
+  - "girl's camp"
 date: '2010-08-11T06:00:00Z'
 templateKey: blog-post
 path: "/i-spent-my-day-with-hot-young-girls"

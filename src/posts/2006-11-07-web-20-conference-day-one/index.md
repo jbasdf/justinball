@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2006/11/07/web-20-conference-day-one/"
 tags:
-- The Web
-- Web2.0
-- web2con2006
+  - "The Web"
+  - "Web2.0"
+  - "web2con2006"
 date: '2006-11-07T07:00:00Z'
 templateKey: blog-post
 path: "/web-20-conference-day-one"

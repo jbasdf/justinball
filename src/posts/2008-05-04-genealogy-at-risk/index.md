@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/05/04/genealogy-at-risk/"
 tags:
-- genealogy
-- ancestry
-- Catholic Church
-- genealogy
-- LDS church
-- records
+  - "genealogy"
+  - "ancestry"
+  - "Catholic Church"
+  - "genealogy"
+  - "LDS church"
+  - "records"
 date: '2008-05-04T06:00:00Z'
 templateKey: blog-post
 path: "/genealogy-at-risk"

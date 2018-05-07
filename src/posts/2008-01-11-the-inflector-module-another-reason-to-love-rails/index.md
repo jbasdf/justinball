@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/11/the-inflector-module-another-reason-to-love-rails/"
 tags:
-- Programming
-- Ruby On Rails
-- Ruby On Rails
+  - "Programming"
+  - "Ruby On Rails"
+  - "Ruby On Rails"
 date: '2008-01-11T07:00:00Z'
 templateKey: blog-post
 path: "/the-inflector-module-another-reason-to-love-rails"

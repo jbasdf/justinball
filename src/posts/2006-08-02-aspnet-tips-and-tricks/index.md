@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2006/08/02/aspnet-tips-and-tricks/"
 tags:
-- ASP.Net
+  - "ASP.Net"
 date: '2006-08-02T06:00:00Z'
 templateKey: blog-post
 path: "/aspnet-tips-and-tricks"

@@ -4,7 +4,7 @@ author: Justin Ball
 title: The Balls Bouncying Around DisneyLand
 date: '2015-09-25T06:00:00Z'
 tags:
-- Travel, Disneyland, LA
+  - "Travel, Disneyland, LA"
 templateKey: blog-post
 path: "/the-balls-bouncying-around-disneyland"
 description: ''

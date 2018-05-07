@@ -3,10 +3,10 @@ title: GraphQL Radio
 author: Justin Ball
 layout: post
 tags:
-- learning
-- graphcool
-- graphql
-- javascript
+  - "learning"
+  - "graphcool"
+  - "graphql"
+  - "javascript"
 date: 2018-01-26T17:22:32.000Z
 templateKey: blog-post
 path: "/graphql-radio"

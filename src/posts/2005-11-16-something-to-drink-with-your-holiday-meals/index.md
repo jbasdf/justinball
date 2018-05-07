@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2005/11/16/something-to-drink-with-your-holiday-meals/"
 tags:
-- Neat Stuff
+  - "Neat Stuff"
 date: '2005-11-16T07:00:00Z'
 templateKey: blog-post
 path: "/something-to-drink-with-your-holiday-meals"

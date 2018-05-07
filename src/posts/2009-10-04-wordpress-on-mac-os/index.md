@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2009/10/04/wordpress-on-mac-os/"
 tags:
-- configuration
-- Mac OSX 10.6
-- php
-- Wordpress
+  - "configuration"
+  - "Mac OSX 10.6"
+  - "php"
+  - "Wordpress"
 date: '2009-10-04T06:00:00Z'
 templateKey: blog-post
 path: "/wordpress-on-mac-os"

@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2007/11/10/my-wife-is-better-than-your-wife/"
 tags:
-- Neat Stuff
-- Funny
-- panasonic plasma
-- tv
-- wife
+  - "Neat Stuff"
+  - "Funny"
+  - "panasonic plasma"
+  - "tv"
+  - "wife"
 date: '2007-11-10T07:00:00Z'
 templateKey: blog-post
 path: "/my-wife-is-better-than-your-wife"

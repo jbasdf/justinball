@@ -4,13 +4,13 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/04/were-all-gonna-die/"
 tags:
-- Interesting
-- Science
-- cosmos
-- death
-- death ray
-- life
-- universe
+  - "Interesting"
+  - "Science"
+  - "cosmos"
+  - "death"
+  - "death ray"
+  - "life"
+  - "universe"
 date: '2008-03-04T07:00:00Z'
 templateKey: blog-post
 path: "/were-all-gonna-die"

@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/05/30/want-to-lose-weight/"
 tags:
-- Cycling
-- Cycling
-- lazy
-- weight loss
+  - "Cycling"
+  - "Cycling"
+  - "lazy"
+  - "weight loss"
 date: '2007-05-30T06:00:00Z'
 templateKey: blog-post
 path: "/want-to-lose-weight"

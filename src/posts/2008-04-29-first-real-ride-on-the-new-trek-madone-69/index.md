@@ -4,15 +4,15 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/29/first-real-ride-on-the-new-trek-madone-69/"
 tags:
-- Cycling
-- 2008 trek madone 6.9
-- 6.9
-- BlackSmith Fork Canyon
-- Cycling
-- madone
-- polar cs600
-- review
-- trek
+  - "Cycling"
+  - "2008 trek madone 6.9"
+  - "6.9"
+  - "BlackSmith Fork Canyon"
+  - "Cycling"
+  - "madone"
+  - "polar cs600"
+  - "review"
+  - "trek"
 date: '2008-04-29T06:00:00Z'
 templateKey: blog-post
 path: "/first-real-ride-on-the-new-trek-madone-69"

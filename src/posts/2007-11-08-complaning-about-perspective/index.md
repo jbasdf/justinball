@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2007/11/08/complaning-about-perspective/"
 tags:
-- Interesting
-- life
+  - "Interesting"
+  - "life"
 date: '2007-11-08T07:00:00Z'
 templateKey: blog-post
 path: "/complaning-about-perspective"

@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/03/17/code-review-of-ozmozr-by-jamis-buck-and-marcel-molina/"
 tags:
-- mtnwestrubyconf
-- jamis buck
-- mtnwestrubyconf
-- ozmozr
+  - "mtnwestrubyconf"
+  - "jamis buck"
+  - "mtnwestrubyconf"
+  - "ozmozr"
 date: '2007-03-17T06:00:00Z'
 templateKey: blog-post
 path: "/code-review-of-ozmozr-by-jamis-buck-and-marcel-molina"

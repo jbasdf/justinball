@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2009/04/29/engineyard-your-new-it-team/"
 tags:
-- engineyard
-- hosting
+  - "engineyard"
+  - "hosting"
 date: '2009-04-29T06:00:00Z'
 templateKey: blog-post
 path: "/engineyard-your-new-it-team"

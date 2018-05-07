@@ -5,8 +5,8 @@ title: Don't miss the '.' - Computed Property that depends on Ember.ArrayControl
   contents
 date: '2013-08-30T06:00:00Z'
 tags:
-- Javascript
-- Ember.js
+  - "Javascript"
+  - "Ember.js"
 templateKey: blog-post
 path: "/dont-forget-your-period-computed-property-that-depends-on-ember_arraycontroller-contents"
 description: ''

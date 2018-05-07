@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2009/04/20/dude-its-420/"
 tags:
-- Family
-- Funny
-- web2con2006
-- 420
-- Funny
+  - "Family"
+  - "Funny"
+  - "web2con2006"
+  - "420"
+  - "Funny"
 date: '2009-04-20T06:00:00Z'
 templateKey: blog-post
 path: "/dude-its-420"

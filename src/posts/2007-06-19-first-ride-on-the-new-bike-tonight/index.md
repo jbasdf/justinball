@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/06/19/first-ride-on-the-new-bike-tonight/"
 tags:
-- Cycling
-- Cycling
-- mountain bike
-- santa cruz blur xc
+  - "Cycling"
+  - "Cycling"
+  - "mountain bike"
+  - "santa cruz blur xc"
 date: '2007-06-19T06:00:00Z'
 templateKey: blog-post
 path: "/first-ride-on-the-new-bike-tonight"

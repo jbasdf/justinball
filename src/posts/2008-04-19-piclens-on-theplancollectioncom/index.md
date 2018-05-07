@@ -4,14 +4,14 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/19/piclens-on-theplancollectioncom/"
 tags:
-- Interesting
-- internet
-- photography
-- The Plan Collection
-- house plans
-- photos
-- piclens
-- theplancollection.com
+  - "Interesting"
+  - "internet"
+  - "photography"
+  - "The Plan Collection"
+  - "house plans"
+  - "photos"
+  - "piclens"
+  - "theplancollection.com"
 date: '2008-04-19T06:00:00Z'
 templateKey: blog-post
 path: "/piclens-on-theplancollectioncom"

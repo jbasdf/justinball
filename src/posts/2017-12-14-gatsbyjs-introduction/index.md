@@ -3,8 +3,8 @@ title: Gatsbyjs Introduction
 author: Justin Ball
 layout: post
 tags:
-- learning
-- gatsbyjs
+  - "learning"
+  - "gatsbyjs"
 date: 2017-12-14T17:54:22.000Z
 templateKey: blog-post
 path: "/gatsbyjs-introduction"

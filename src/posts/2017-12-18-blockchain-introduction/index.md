@@ -3,11 +3,11 @@ title: Blockchain Introduction
 author: Justin Ball
 layout: post
 tags:
-- learning
-- decentralized applications
-- blockchain
-- bitcoin
-- ethereum
+  - "learning"
+  - "decentralized applications"
+  - "blockchain"
+  - "bitcoin"
+  - "ethereum"
 date: 2017-12-18T19:17:05.000Z
 templateKey: blog-post
 path: "/blockchain-introduction"

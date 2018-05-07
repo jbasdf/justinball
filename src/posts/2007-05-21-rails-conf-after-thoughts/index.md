@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2007/05/21/rails-conf-after-thoughts/"
 tags:
-- RailsConf
-- RailsConf07
-- Ruby On Rails
-- RailsConf
-- Ruby On Rails
+  - "RailsConf"
+  - "RailsConf07"
+  - "Ruby On Rails"
+  - "RailsConf"
+  - "Ruby On Rails"
 date: '2007-05-21T06:00:00Z'
 templateKey: blog-post
 path: "/rails-conf-after-thoughts"

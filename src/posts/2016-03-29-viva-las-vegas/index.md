@@ -4,9 +4,9 @@ author: Justin Ball
 title: Viva Las Vegas
 date: '2016-03-29T06:00:00Z'
 tags:
-- Travel
-- Vacation
-- Family
+  - "Travel"
+  - "Vacation"
+  - "Family"
 templateKey: blog-post
 path: "/viva-las-vegas"
 description: ''

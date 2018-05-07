@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2005/11/26/summary-of-questions-for-wileys-course/"
 tags:
-- School
+  - "School"
 date: '2005-11-26T07:00:00Z'
 templateKey: blog-post
 path: "/summary-of-questions-for-wileys-course"

@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/10/17/the-spawn-of-satan/"
 tags:
-- Family
-- Friends
-- friends
-- kids
+  - "Family"
+  - "Friends"
+  - "friends"
+  - "kids"
 date: '2007-10-17T06:00:00Z'
 templateKey: blog-post
 path: "/the-spawn-of-satan"

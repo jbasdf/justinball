@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2010/01/01/undefined-method-assert_no_difference-and-assert_difference/"
 tags:
-- Ruby On Rails
-- tests
+  - "Ruby On Rails"
+  - "tests"
 date: '2010-01-01T07:00:00Z'
 templateKey: blog-post
 path: "/undefined-method-assert_no_difference-and-assert_difference"

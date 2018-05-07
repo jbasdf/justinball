@@ -4,19 +4,19 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/16/journal-writing-sucks-blogging-is-cool/"
 tags:
-- blogging
-- Community
-- family history
-- genealogy
-- Interesting
-- blogging
-- family history
-- friendfeed
-- genealogy
-- lifestream
-- twitter
-- Web2.0
-- Wordpress
+  - "blogging"
+  - "Community"
+  - "family history"
+  - "genealogy"
+  - "Interesting"
+  - "blogging"
+  - "family history"
+  - "friendfeed"
+  - "genealogy"
+  - "lifestream"
+  - "twitter"
+  - "Web2.0"
+  - "Wordpress"
 date: '2008-03-16T06:00:00Z'
 templateKey: blog-post
 path: "/journal-writing-sucks-blogging-is-cool"

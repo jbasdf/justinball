@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/06/24/51weeks-at-icls/"
 tags:
-- Programming
-- Ruby On Rails
-- 51weeks
-- icls2008
-- Ruby On Rails
+  - "Programming"
+  - "Ruby On Rails"
+  - "51weeks"
+  - "icls2008"
+  - "Ruby On Rails"
 date: '2008-06-24T06:00:00Z'
 templateKey: blog-post
 path: "/51weeks-at-icls"

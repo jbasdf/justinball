@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2010/09/03/uploadify-oncomplete-wouldnt-fire-until-i-swore-a-lot/"
 tags:
-- jQuery
-- Ruby On Rails
+  - "jQuery"
+  - "Ruby On Rails"
 date: '2010-09-03T06:00:00Z'
 templateKey: blog-post
 path: "/uploadify-oncomplete-wouldnt-fire-until-i-swore-a-lot"

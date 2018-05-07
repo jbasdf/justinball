@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2006/03/31/my-daughters-are-funny/"
 tags:
-- The Kids
+  - "The Kids"
 date: '2006-03-31T07:00:00Z'
 templateKey: blog-post
 path: "/my-daughters-are-funny"

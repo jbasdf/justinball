@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/21/recreational-cyclists-should-not-ride-like-the-pros/"
 tags:
-- Cycling
-- Cycling
+  - "Cycling"
+  - "Cycling"
 date: '2008-03-21T06:00:00Z'
 templateKey: blog-post
 path: "/recreational-cyclists-should-not-ride-like-the-pros"

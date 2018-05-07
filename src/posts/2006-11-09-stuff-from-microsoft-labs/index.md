@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2006/11/09/stuff-from-microsoft-labs/"
 tags:
-- Web2.0
-- web2con2006
+  - "Web2.0"
+  - "web2con2006"
 date: '2006-11-09T07:00:00Z'
 templateKey: blog-post
 path: "/stuff-from-microsoft-labs"

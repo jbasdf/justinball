@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2006/04/11/jenna-talks-herself-to-sleep/"
 tags:
-- Jenna
-- The Kids
+  - "Jenna"
+  - "The Kids"
 date: '2006-04-11T06:00:00Z'
 templateKey: blog-post
 path: "/jenna-talks-herself-to-sleep"

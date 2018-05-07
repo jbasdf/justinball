@@ -4,7 +4,7 @@ author: Justin Ball
 title: I put on a little fat. It's kinda sexy
 date: '2014-04-10T06:00:00Z'
 tags:
-- Cycling
+  - "Cycling"
 templateKey: blog-post
 path: "/i-put-on-a-little-fat-its-kinda-sexy"
 description: ''

@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2011/01/20/in-javascript-string-replace-doesnt-do-what-you-think-it-does/"
 tags:
-- Javascript
-- global
-- regular expressions
-- replace
+  - "Javascript"
+  - "global"
+  - "regular expressions"
+  - "replace"
 date: '2011-01-20T07:00:00Z'
 templateKey: blog-post
 path: "/in-javascript-string-replace-doesnt-do-what-you-think-it-does"

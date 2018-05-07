@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2009/03/18/count-is-broken-in-rails-232/"
 tags:
-- Funny
-- bug
-- count
-- Ruby On Rails
-- sql
+  - "Funny"
+  - "bug"
+  - "count"
+  - "Ruby On Rails"
+  - "sql"
 date: '2009-03-18T06:00:00Z'
 templateKey: blog-post
 path: "/count-is-broken-in-rails-232"

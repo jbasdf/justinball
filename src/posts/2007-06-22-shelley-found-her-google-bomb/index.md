@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2007/06/22/shelley-found-her-google-bomb/"
 tags:
-- COSL
-- COSL
-- google bomb
+  - "COSL"
+  - "COSL"
+  - "google bomb"
 date: '2007-06-22T06:00:00Z'
 templateKey: blog-post
 path: "/shelley-found-her-google-bomb"

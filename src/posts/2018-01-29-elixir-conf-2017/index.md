@@ -3,9 +3,9 @@ title: Elixir Conf 2017
 author: Justin Ball
 layout: post
 tags:
-- learning
-- elixir
-- ecto
+  - "learning"
+  - "elixir"
+  - "ecto"
 date: 2018-01-26T17:22:32.000Z
 templateKey: blog-post
 path: "/elixirconf-2017"

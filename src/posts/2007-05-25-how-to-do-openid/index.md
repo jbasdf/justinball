@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2007/05/25/how-to-do-openid/"
 tags:
-- OpenID
-- OpenID
+  - "OpenID"
+  - "OpenID"
 date: '2007-05-25T06:00:00Z'
 templateKey: blog-post
 path: "/how-to-do-openid"

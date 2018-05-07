@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2009/03/15/twitter-the-new-borg/"
 tags:
-- Interesting
-- Social Software
-- twitter
-- micro-blogging
-- social media
-- twitter
+  - "Interesting"
+  - "Social Software"
+  - "twitter"
+  - "micro-blogging"
+  - "social media"
+  - "twitter"
 date: '2009-03-15T06:00:00Z'
 templateKey: blog-post
 path: "/twitter-the-new-borg"

@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/05/30/logan-canyon/"
 tags:
-- Cycling
-- canyon
-- Cycling
-- logan
+  - "Cycling"
+  - "canyon"
+  - "Cycling"
+  - "logan"
 date: '2007-05-30T06:00:00Z'
 templateKey: blog-post
 path: "/logan-canyon"

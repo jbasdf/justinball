@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2005/11/18/the-coolest-new-toy-is-bubbles/"
 tags:
-- Neat Stuff
+  - "Neat Stuff"
 date: '2005-11-18T07:00:00Z'
 templateKey: blog-post
 path: "/the-coolest-new-toy-is-bubbles"

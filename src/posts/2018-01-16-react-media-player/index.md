@@ -3,13 +3,13 @@ title: React Media Player
 author: Justin Ball
 layout: post
 tags:
-- learning
-- JavaScript (Programming Language)
-- github
-- graphql
-- graphqlsummit
-- apis
-- open source
+  - "learning"
+  - "JavaScript (Programming Language)"
+  - "github"
+  - "graphql"
+  - "graphqlsummit"
+  - "apis"
+  - "open source"
 date: 2018-01-16T17:00:17.000Z
 templateKey: blog-post
 path: "/react-media-player"

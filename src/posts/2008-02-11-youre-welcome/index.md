@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/11/youre-welcome/"
 tags:
-- Aubrey
-- Family
-- funny kids
+  - "Aubrey"
+  - "Family"
+  - "funny kids"
 date: '2008-02-11T07:00:00Z'
 templateKey: blog-post
 path: "/youre-welcome"

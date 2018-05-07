@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2013/01/16/aloha-stadium-swap-meet-and-waikiki-beach/"
 tags:
-- Travel
-- Hawaii
-- Oahu
+  - "Travel"
+  - "Hawaii"
+  - "Oahu"
 date: '2013-01-16T07:00:00Z'
 templateKey: blog-post
 path: "/aloha-stadium-swap-meet-and-waikiki-beach"

@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2013/02/21/delete-button-back-button/"
 tags:
-- Internet
+  - "Internet"
 date: '2013-02-21T07:00:00Z'
 templateKey: blog-post
 path: "/delete-button-back-button"

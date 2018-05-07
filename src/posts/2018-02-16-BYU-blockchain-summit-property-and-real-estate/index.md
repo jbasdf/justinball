@@ -3,8 +3,8 @@ title: BYU Blockchain Summit - Property and Real Estate
 author: Justin Ball
 layout: post
 tags:
-- conference
-- blockchain
+  - "conference"
+  - "blockchain"
 date: 2018-02-16T09:18:00.000Z
 templateKey: blog-post
 path: "/byu-blockchain-summit-property-and-real-estate"

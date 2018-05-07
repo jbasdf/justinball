@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/11/09/stm-bags-suck/"
 tags:
-- Funny
-- laptop case
-- stm bags
-- stm medium alley
+  - "Funny"
+  - "laptop case"
+  - "stm bags"
+  - "stm medium alley"
 date: '2008-11-09T07:00:00Z'
 templateKey: blog-post
 path: "/stm-bags-suck"

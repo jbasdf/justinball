@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/05/20/what-makes-you-yawn/"
 tags:
-- Aubrey
-- Funny
-- kids
-- Funny
-- homework
-- kids
+  - "Aubrey"
+  - "Funny"
+  - "kids"
+  - "Funny"
+  - "homework"
+  - "kids"
 date: '2008-05-20T06:00:00Z'
 templateKey: blog-post
 path: "/what-makes-you-yawn"

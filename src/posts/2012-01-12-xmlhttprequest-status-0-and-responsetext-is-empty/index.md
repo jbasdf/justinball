@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2012/01/12/xmlhttprequest-status-0-and-responsetext-is-empty/"
 tags:
-- Funny
+  - "Funny"
 date: '2012-01-12T07:00:00Z'
 templateKey: blog-post
 path: "/xmlhttprequest-status-0-and-responsetext-is-empty"

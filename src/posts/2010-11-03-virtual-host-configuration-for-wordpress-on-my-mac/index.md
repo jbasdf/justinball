@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2010/11/03/virtual-host-configuration-for-wordpress-on-my-mac/"
 tags:
-- apache
-- configuration
-- virtual hosts
-- Wordpress
+  - "apache"
+  - "configuration"
+  - "virtual hosts"
+  - "Wordpress"
 date: '2010-11-03T06:00:00Z'
 templateKey: blog-post
 path: "/virtual-host-configuration-for-wordpress-on-my-mac"

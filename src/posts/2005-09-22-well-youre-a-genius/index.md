@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2005/09/22/well-youre-a-genius/"
 tags:
-- Funny
-- Interesting
-- genius
+  - "Funny"
+  - "Interesting"
+  - "genius"
 date: '2005-09-22T06:00:00Z'
 templateKey: blog-post
 path: "/well-youre-a-genius"

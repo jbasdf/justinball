@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/25/weddings-so-totally-suck/"
 tags:
-- Family
-- Funny
-- rant
-- marriage
-- rant
-- weddings
+  - "Family"
+  - "Funny"
+  - "rant"
+  - "marriage"
+  - "rant"
+  - "weddings"
 date: '2008-02-25T07:00:00Z'
 templateKey: blog-post
 path: "/weddings-so-totally-suck"

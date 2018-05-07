@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2007/10/27/just-funny/"
 tags:
-- Funny
+  - "Funny"
 date: '2007-10-27T06:00:00Z'
 templateKey: blog-post
 path: "/just-funny"

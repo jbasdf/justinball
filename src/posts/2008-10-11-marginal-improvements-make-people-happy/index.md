@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2008/10/11/marginal-improvements-make-people-happy/"
 tags:
-- Interesting
-- marginal changes
+  - "Interesting"
+  - "marginal changes"
 date: '2008-10-11T06:00:00Z'
 templateKey: blog-post
 path: "/marginal-improvements-make-people-happy"

@@ -4,10 +4,10 @@ author: Justin Ball
 title: Vector Programming and Reactive Javascript
 date: '2014-03-17T06:00:00Z'
 tags:
-- Mountain West Javascript
-- mwjs
-- Javascript
-- Reactive
+  - "Mountain West Javascript"
+  - "mwjs"
+  - "Javascript"
+  - "Reactive"
 templateKey: blog-post
 path: "/vector-programming-and-reactive-javascript"
 description: ''

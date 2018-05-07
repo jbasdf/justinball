@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2005/09/20/who-knew/"
 tags:
-- Funny
-- idaho
-- insane
-- The Japanese Mafia is controlling the weather
-- weather
+  - "Funny"
+  - "idaho"
+  - "insane"
+  - "The Japanese Mafia is controlling the weather"
+  - "weather"
 date: '2005-09-20T06:00:00Z'
 templateKey: blog-post
 path: "/who-knew"

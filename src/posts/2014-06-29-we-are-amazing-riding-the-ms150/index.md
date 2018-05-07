@@ -5,7 +5,7 @@ title: We are amazing. Riding the MS150
 date: '2014-06-29T06:00:00Z'
 image: 2014-06-28.jpg
 tags:
-- Cycling
+  - "Cycling"
 templateKey: blog-post
 path: "/we-are-amazing-riding-the-ms150"
 description: ''

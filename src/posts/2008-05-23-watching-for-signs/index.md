@@ -4,13 +4,13 @@ author: Justin Ball
 layout: post
 permalink: "/2008/05/23/watching-for-signs/"
 tags:
-- Family
-- Funny
-- Family
-- Funny
-- gardens
-- thanksgiving point
-- trip
+  - "Family"
+  - "Funny"
+  - "Family"
+  - "Funny"
+  - "gardens"
+  - "thanksgiving point"
+  - "trip"
 date: '2008-05-23T06:00:00Z'
 templateKey: blog-post
 path: "/watching-for-signs"

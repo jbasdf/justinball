@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/10/do-we-need-help-with-elections/"
 tags:
-- Interesting
-- elections
-- politics
+  - "Interesting"
+  - "elections"
+  - "politics"
 date: '2008-01-10T07:00:00Z'
 templateKey: blog-post
 path: "/do-we-need-help-with-elections"

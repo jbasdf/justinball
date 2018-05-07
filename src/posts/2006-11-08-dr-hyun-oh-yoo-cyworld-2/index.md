@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2006/11/08/dr-hyun-oh-yoo-cyworld-2/"
 tags:
-- Web2.0
-- web2con2006
+  - "Web2.0"
+  - "web2con2006"
 date: '2006-11-08T07:00:00Z'
 templateKey: blog-post
 path: "/dr-hyun-oh-yoo-cyworld-2"

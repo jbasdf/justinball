@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/09/15/764/"
 tags:
-- Ruby On Rails
-- Ruby On Rails
-- social networking
-- software
+  - "Ruby On Rails"
+  - "Ruby On Rails"
+  - "social networking"
+  - "software"
 date: '2008-09-15T06:00:00Z'
 templateKey: blog-post
 path: "/764"

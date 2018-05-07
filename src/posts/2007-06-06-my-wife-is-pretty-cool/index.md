@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/06/06/my-wife-is-pretty-cool/"
 tags:
-- Interesting
-- Waste of Time
-- plasma tv
-- wife
+  - "Interesting"
+  - "Waste of Time"
+  - "plasma tv"
+  - "wife"
 date: '2007-06-06T06:00:00Z'
 templateKey: blog-post
 path: "/my-wife-is-pretty-cool"

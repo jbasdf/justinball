@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2007/10/18/olympic-cycling-considering-move-to-ogden/"
 tags:
-- Cycling
-- Cycling
+  - "Cycling"
+  - "Cycling"
 date: '2007-10-18T06:00:00Z'
 templateKey: blog-post
 path: "/olympic-cycling-considering-move-to-ogden"

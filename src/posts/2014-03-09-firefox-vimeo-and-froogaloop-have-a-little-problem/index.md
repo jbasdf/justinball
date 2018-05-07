@@ -4,9 +4,9 @@ author: Justin Ball
 title: Firefox, Vimeo and Froogaloop Have a Little Problem
 date: '2014-03-09T07:00:00Z'
 tags:
-- Programming
-- Javascript
-- Ruby
+  - "Programming"
+  - "Javascript"
+  - "Ruby"
 templateKey: blog-post
 path: "/firefox-vimeo-and-froogaloop-have-a-little-problem"
 description: ''

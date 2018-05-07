@@ -4,13 +4,13 @@ author: Justin Ball
 layout: post
 permalink: "/2009/01/02/i-got-older/"
 tags:
-- Alyssa
-- Aubrey
-- Devin
-- Family
-- Jenna
-- birthday.
-- Family
+  - "Alyssa"
+  - "Aubrey"
+  - "Devin"
+  - "Family"
+  - "Jenna"
+  - "birthday."
+  - "Family"
 date: '2009-01-02T07:00:00Z'
 templateKey: blog-post
 path: "/i-got-older"

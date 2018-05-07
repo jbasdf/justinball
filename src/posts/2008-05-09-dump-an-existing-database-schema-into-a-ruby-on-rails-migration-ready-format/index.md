@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/05/09/dump-an-existing-database-schema-into-a-ruby-on-rails-migration-ready-format/"
 tags:
-- Ruby On Rails
-- database
-- migrations
-- Ruby On Rails
+  - "Ruby On Rails"
+  - "database"
+  - "migrations"
+  - "Ruby On Rails"
 date: '2008-05-09T06:00:00Z'
 templateKey: blog-post
 path: "/dump-an-existing-database-schema-into-a-ruby-on-rails-migration-ready-format"

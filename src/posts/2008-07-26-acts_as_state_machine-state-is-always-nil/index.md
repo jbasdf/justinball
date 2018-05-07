@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/07/26/acts_as_state_machine-state-is-always-nil/"
 tags:
-- Ruby On Rails
-- acts_as_state_machine
-- bugs
-- Ruby On Rails
+  - "Ruby On Rails"
+  - "acts_as_state_machine"
+  - "bugs"
+  - "Ruby On Rails"
 date: '2008-07-26T06:00:00Z'
 templateKey: blog-post
 path: "/acts_as_state_machine-state-is-always-nil"

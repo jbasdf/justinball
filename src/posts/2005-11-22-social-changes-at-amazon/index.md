@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2005/11/22/social-changes-at-amazon/"
 tags:
-- Social Software
+  - "Social Software"
 date: '2005-11-22T07:00:00Z'
 templateKey: blog-post
 path: "/social-changes-at-amazon"

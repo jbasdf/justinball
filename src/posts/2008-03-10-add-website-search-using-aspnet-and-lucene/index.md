@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/10/add-website-search-using-aspnet-and-lucene/"
 tags:
-- House Stuff
-- ASP.Net
-- lucene
-- lucene.net
-- search
+  - "House Stuff"
+  - "ASP.Net"
+  - "lucene"
+  - "lucene.net"
+  - "search"
 date: '2008-03-10T06:00:00Z'
 templateKey: blog-post
 path: "/add-website-search-using-aspnet-and-lucene"

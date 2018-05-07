@@ -4,9 +4,9 @@ author: Justin Ball
 title: Refactoring and Making Promises
 date: '2014-03-16T06:00:00Z'
 tags:
-- Javascript
-- Ember
-- Programming
+  - "Javascript"
+  - "Ember"
+  - "Programming"
 templateKey: blog-post
 path: "/refactoring-and-making-promises"
 description: ''

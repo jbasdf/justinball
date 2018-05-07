@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/06/15/eat-and-ride/"
 tags:
-- Cycling
-- BlackSmith Fork Canyon
-- Cycling
+  - "Cycling"
+  - "BlackSmith Fork Canyon"
+  - "Cycling"
 date: '2008-06-15T06:00:00Z'
 templateKey: blog-post
 path: "/eat-and-ride"

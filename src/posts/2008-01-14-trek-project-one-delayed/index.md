@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/14/trek-project-one-delayed/"
 tags:
-- Cycling
-- Cycling
-- project one
-- trek
+  - "Cycling"
+  - "Cycling"
+  - "project one"
+  - "trek"
 date: '2008-01-14T07:00:00Z'
 templateKey: blog-post
 path: "/trek-project-one-delayed"

@@ -4,8 +4,8 @@ author: Justin Ball
 title: Testing Software Bugs Me
 date: '2015-02-06T07:00:00Z'
 tags:
-- Software
-- Testing
+  - "Software"
+  - "Testing"
 templateKey: blog-post
 path: "/testing-software-bugs-me"
 description: ''

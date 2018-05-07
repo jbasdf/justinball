@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2009/05/14/none-of-us-is-as-dumb-as-all-of-us/"
 tags:
-- Interesting
-- rant
-- group work
-- psychology
-- research
+  - "Interesting"
+  - "rant"
+  - "group work"
+  - "psychology"
+  - "research"
 date: '2009-05-14T06:00:00Z'
 templateKey: blog-post
 path: "/none-of-us-is-as-dumb-as-all-of-us"

@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/09/30/amazon-s3-jungle-disk-and-the-new-way-to-backup/"
 tags:
-- Computers
-- amazon s3
-- backups
-- jungle disk
+  - "Computers"
+  - "amazon s3"
+  - "backups"
+  - "jungle disk"
 date: '2008-09-30T06:00:00Z'
 templateKey: blog-post
 path: "/amazon-s3-jungle-disk-and-the-new-way-to-backup"

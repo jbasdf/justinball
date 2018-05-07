@@ -4,15 +4,15 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/10/this-clears-things-up-a-bit/"
 tags:
-- Neat Stuff
-- Programming
-- The Web
-- Wordpress
-- facebook
-- social graph
-- Social Software
-- Wordpress
-- wpmu
+  - "Neat Stuff"
+  - "Programming"
+  - "The Web"
+  - "Wordpress"
+  - "facebook"
+  - "social graph"
+  - "Social Software"
+  - "Wordpress"
+  - "wpmu"
 date: '2008-03-10T06:00:00Z'
 templateKey: blog-post
 path: "/this-clears-things-up-a-bit"

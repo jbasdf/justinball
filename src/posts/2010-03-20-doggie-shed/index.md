@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2010/03/20/doggie-shed/"
 tags:
-- Devin
-- Family
-- Funny
+  - "Devin"
+  - "Family"
+  - "Funny"
 date: '2010-03-20T06:00:00Z'
 templateKey: blog-post
 path: "/doggie-shed"

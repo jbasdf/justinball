@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2011/05/06/oer-glue-goes-boom/"
 tags:
-- business
-- OER
+  - "business"
+  - "OER"
 date: '2011-05-06T06:00:00Z'
 templateKey: blog-post
 path: "/oer-glue-goes-boom"

@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2006/06/13/i-hate-radrails/"
 tags:
-- Ruby On Rails
+  - "Ruby On Rails"
 date: '2006-06-13T06:00:00Z'
 templateKey: blog-post
 path: "/i-hate-radrails"

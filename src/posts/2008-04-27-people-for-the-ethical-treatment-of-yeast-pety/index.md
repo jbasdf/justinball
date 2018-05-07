@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/27/people-for-the-ethical-treatment-of-yeast-pety/"
 tags:
-- Funny
-- bread
-- pety
-- yeast
+  - "Funny"
+  - "bread"
+  - "pety"
+  - "yeast"
 date: '2008-04-27T06:00:00Z'
 templateKey: blog-post
 path: "/people-for-the-ethical-treatment-of-yeast-pety"

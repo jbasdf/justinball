@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2010/08/09/jquery-ajax-requests-are-html-not-js/"
 tags:
-- jQuery
-- ajax
-- jQuery
-- Ruby On Rails
+  - "jQuery"
+  - "ajax"
+  - "jQuery"
+  - "Ruby On Rails"
 date: '2010-08-09T06:00:00Z'
 templateKey: blog-post
 path: "/jquery-ajax-requests-are-html-not-js"

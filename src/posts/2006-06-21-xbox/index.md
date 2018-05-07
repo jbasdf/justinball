@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2006/06/21/xbox/"
 tags:
-- Waste of Time
+  - "Waste of Time"
 date: '2006-06-21T06:00:00Z'
 templateKey: blog-post
 path: "/xbox"

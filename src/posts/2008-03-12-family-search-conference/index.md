@@ -4,13 +4,13 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/12/family-search-conference/"
 tags:
-- Family
-- Funny
-- family search
-- familysearch.org
-- genealogy
-- LDS church
-- Social Software
+  - "Family"
+  - "Funny"
+  - "family search"
+  - "familysearch.org"
+  - "genealogy"
+  - "LDS church"
+  - "Social Software"
 date: '2008-03-12T06:00:00Z'
 templateKey: blog-post
 path: "/family-search-conference"

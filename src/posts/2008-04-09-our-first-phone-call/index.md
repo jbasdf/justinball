@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/09/our-first-phone-call/"
 tags:
-- Aubrey
-- Family
-- Funny
-- Funny
-- School
+  - "Aubrey"
+  - "Family"
+  - "Funny"
+  - "Funny"
+  - "School"
 date: '2008-04-09T06:00:00Z'
 templateKey: blog-post
 path: "/our-first-phone-call"

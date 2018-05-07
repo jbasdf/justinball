@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/04/content-connected-to-geography/"
 tags:
-- Interesting
-- Programming
-- Web2.0
-- geocaching
-- gps
-- whereigo
+  - "Interesting"
+  - "Programming"
+  - "Web2.0"
+  - "geocaching"
+  - "gps"
+  - "whereigo"
 date: '2008-03-04T07:00:00Z'
 templateKey: blog-post
 path: "/content-connected-to-geography"

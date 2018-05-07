@@ -4,14 +4,14 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/20/how-mortgages-and-housing-hurt-the-economy/"
 tags:
-- economy
-- House Stuff
-- Interesting
-- economy
-- house plans
-- housing
-- loans
-- mortgage
+  - "economy"
+  - "House Stuff"
+  - "Interesting"
+  - "economy"
+  - "house plans"
+  - "housing"
+  - "loans"
+  - "mortgage"
 date: '2008-03-20T06:00:00Z'
 templateKey: blog-post
 path: "/how-mortgages-and-housing-hurt-the-economy"

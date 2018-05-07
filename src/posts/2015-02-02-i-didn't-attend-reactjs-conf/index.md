@@ -4,9 +4,9 @@ author: Justin Ball
 title: I Didn't Attend React.js Conf
 date: '2015-02-02T07:00:00Z'
 tags:
-- Javascript
-- React.js
-- Programming
+  - "Javascript"
+  - "React.js"
+  - "Programming"
 templateKey: blog-post
 path: "/i-didn't-attend-react.js-conf"
 description: ''

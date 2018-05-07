@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2006/11/08/vinton-g-cerf-and-robert-pepper-net-neutrality-debatevinton-g-cerf-and-robert-pepper-net-neutrality-debate.html"
 tags:
-- Web2.0
-- web2con2006
+  - "Web2.0"
+  - "web2con2006"
 date: '2006-11-08T07:00:00Z'
 templateKey: blog-post
 path: "/vinton-g-cerf-and-robert-pepper-net-neutrality-debate"

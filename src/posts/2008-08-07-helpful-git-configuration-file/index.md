@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2008/08/07/helpful-git-configuration-file/"
 tags:
-- Programming
-- git
+  - "Programming"
+  - "git"
 date: '2008-08-07T06:00:00Z'
 templateKey: blog-post
 path: "/helpful-git-configuration-file"

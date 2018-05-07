@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/06/22/social-software-is-for-the-young/"
 tags:
-- Social Software
-- Web2.0
-- Social Software
-- Web2.0
+  - "Social Software"
+  - "Web2.0"
+  - "Social Software"
+  - "Web2.0"
 date: '2007-06-22T06:00:00Z'
 templateKey: blog-post
 path: "/social-software-is-for-the-young"

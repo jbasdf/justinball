@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/06/06/i-can-feel-the-fat-finding-its-way-back-to-my-waste/"
 tags:
-- Cycling
-- Cycling
-- fat
-- health
+  - "Cycling"
+  - "Cycling"
+  - "fat"
+  - "health"
 date: '2007-06-06T06:00:00Z'
 templateKey: blog-post
 path: "/i-can-feel-the-fat-finding-its-way-back-to-my-waste"

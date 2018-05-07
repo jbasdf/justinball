@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2006/11/08/jeff-jonas-cops-and-robbers-las-vegas-style/"
 tags:
-- Web2.0
-- web2con2006
+  - "Web2.0"
+  - "web2con2006"
 date: '2006-11-08T07:00:00Z'
 templateKey: blog-post
 path: "/jeff-jonas-cops-and-robbers-las-vegas-style"

@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2009/01/08/snow-and-rain/"
 tags:
-- Funny
-- Family
-- life
-- weather
+  - "Funny"
+  - "Family"
+  - "life"
+  - "weather"
 date: '2009-01-08T07:00:00Z'
 templateKey: blog-post
 path: "/snow-and-rain"

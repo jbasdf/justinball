@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2011/03/11/get-jquery-working-with-ruby-on-rails-3/"
 tags:
-- jQuery
-- Ruby On Rails
-- jQuery
-- Ruby On Rails
+  - "jQuery"
+  - "Ruby On Rails"
+  - "jQuery"
+  - "Ruby On Rails"
 date: '2011-03-11T07:00:00Z'
 templateKey: blog-post
 path: "/get-jquery-working-with-ruby-on-rails-3"

@@ -3,9 +3,9 @@ title: Developing With Ethereum
 author: Justin Ball
 layout: post
 tags:
-- learning
-- ethereum
-- solidity
+  - "learning"
+  - "ethereum"
+  - "solidity"
 date: 2018-01-06T00:17:56.000Z
 templateKey: blog-post
 path: "/develop-with-ethereum"

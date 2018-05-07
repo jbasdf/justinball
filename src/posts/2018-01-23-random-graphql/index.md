@@ -3,10 +3,10 @@ title: Random GraphQL
 author: Justin Ball
 layout: post
 tags:
-- learning
-- graphql
-- apollo client
-- ruby
+  - "learning"
+  - "graphql"
+  - "apollo client"
+  - "ruby"
 date: 2018-01-23T17:11:31.000Z
 templateKey: blog-post
 path: "/random-graphql"

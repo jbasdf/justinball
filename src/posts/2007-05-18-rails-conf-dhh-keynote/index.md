@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/05/18/rails-conf-dhh-keynote/"
 tags:
-- RailsConf
-- RailsConf07
-- RailsConf07
-- Ruby On Rails
+  - "RailsConf"
+  - "RailsConf07"
+  - "RailsConf07"
+  - "Ruby On Rails"
 date: '2007-05-18T06:00:00Z'
 templateKey: blog-post
 path: "/rails-conf-dhh-keynote"

@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2007/06/07/my-delicious-bookmarks-for-june-7th/"
 tags:
-- Cycling
+  - "Cycling"
 date: '2007-06-07T06:00:00Z'
 templateKey: blog-post
 path: "/my-delicious-bookmarks-for-june-7th"

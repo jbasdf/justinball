@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/08/wordpress-multiuser-extensions/"
 tags:
-- internet
-- Programming
+  - "internet"
+  - "Programming"
 date: '2008-02-08T07:00:00Z'
 templateKey: blog-post
 path: "/wordpress-multiuser-extensions"

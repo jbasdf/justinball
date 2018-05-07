@@ -3,8 +3,8 @@ title: BYU Blockchain Summit - Self-Sovereign Identity
 author: Justin Ball
 layout: post
 tags:
-- conference
-- blockchain
+  - "conference"
+  - "blockchain"
 date: 2018-02-16T13:18:00.000Z
 templateKey: blog-post
 path: "/byu-blockchain-summit-self-sovereign-identity"

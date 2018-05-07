@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2009/02/08/uninspired/"
 tags:
-- Community
-- air quality
-- cache valley
-- Cycling
-- sarah sample
+  - "Community"
+  - "air quality"
+  - "cache valley"
+  - "Cycling"
+  - "sarah sample"
 date: '2009-02-08T07:00:00Z'
 templateKey: blog-post
 path: "/uninspired"

@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2010/03/19/its-not-child-rearing-its-crowd-control/"
 tags:
-- Alyssa
-- Aubrey
-- Devin
-- Family
+  - "Alyssa"
+  - "Aubrey"
+  - "Devin"
+  - "Family"
 date: '2010-03-19T06:00:00Z'
 templateKey: blog-post
 path: "/its-not-child-rearing-its-crowd-control"

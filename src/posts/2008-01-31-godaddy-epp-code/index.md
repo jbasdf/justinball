@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/31/godaddy-epp-code/"
 tags:
-- internet
-- domain name
-- epp
-- godaddy
-- transfer
+  - "internet"
+  - "domain name"
+  - "epp"
+  - "godaddy"
+  - "transfer"
 date: '2008-01-31T07:00:00Z'
 templateKey: blog-post
 path: "/godaddy-epp-code"

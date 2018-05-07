@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/27/cache-county-library-system/"
 tags:
-- Community
-- cache county
-- library
+  - "Community"
+  - "cache county"
+  - "library"
 date: '2008-02-27T07:00:00Z'
 templateKey: blog-post
 path: "/cache-county-library-system"

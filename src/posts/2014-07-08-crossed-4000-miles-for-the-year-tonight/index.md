@@ -4,7 +4,7 @@ author: Justin Ball
 title: Crossed 4000 miles for the year tonight
 date: '2014-07-08T06:00:00Z'
 tags:
-- Cycling
+  - "Cycling"
 templateKey: blog-post
 path: "/crossed-4000-miles-for-the-year-tonight"
 description: ''

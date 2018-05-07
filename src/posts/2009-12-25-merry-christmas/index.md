@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2009/12/25/merry-christmas/"
 tags:
-- Funny
+  - "Funny"
 date: '2009-12-25T07:00:00Z'
 templateKey: blog-post
 path: "/merry-christmas"

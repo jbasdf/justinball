@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/06/12/ride-your-bike-to-work-and-get-paid/"
 tags:
-- Cycling
-- commuting
-- Cycling
-- legislation
+  - "Cycling"
+  - "commuting"
+  - "Cycling"
+  - "legislation"
 date: '2007-06-12T06:00:00Z'
 templateKey: blog-post
 path: "/ride-your-bike-to-work-and-get-paid"

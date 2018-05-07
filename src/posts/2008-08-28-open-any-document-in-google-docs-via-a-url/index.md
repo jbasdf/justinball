@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/08/28/open-any-document-in-google-docs-via-a-url/"
 tags:
-- Interesting
-- Programming
-- Projects
-- Ruby On Rails
-- google docs
-- google hacks
+  - "Interesting"
+  - "Programming"
+  - "Projects"
+  - "Ruby On Rails"
+  - "google docs"
+  - "google hacks"
 date: '2008-08-28T06:00:00Z'
 templateKey: blog-post
 path: "/open-any-document-in-google-docs-via-a-url"

@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2006/07/17/aspnet-is-fun-again/"
 tags:
-- ASP.Net
-- Ruby On Rails
+  - "ASP.Net"
+  - "Ruby On Rails"
 date: '2006-07-17T06:00:00Z'
 templateKey: blog-post
 path: "/aspnet-is-fun-again"

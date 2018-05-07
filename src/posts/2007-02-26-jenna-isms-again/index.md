@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2007/02/26/jenna-isms-again/"
 tags:
-- Jenna
+  - "Jenna"
 date: '2007-02-26T07:00:00Z'
 templateKey: blog-post
 path: "/jenna-isms-again"

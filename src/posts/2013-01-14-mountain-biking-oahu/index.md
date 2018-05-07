@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2013/01/14/mountain-biking-oahu/"
 tags:
-- Cycling
-- Oahu
-- Hawaii
+  - "Cycling"
+  - "Oahu"
+  - "Hawaii"
 date: '2013-01-14T07:00:00Z'
 templateKey: blog-post
 path: "/mountain-biking-oahu"

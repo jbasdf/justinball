@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/18/automatically-geotag-photos/"
 tags:
-- Interesting
-- internet
-- photography
-- geotagging
-- gps
-- photography
+  - "Interesting"
+  - "internet"
+  - "photography"
+  - "geotagging"
+  - "gps"
+  - "photography"
 date: '2008-03-18T06:00:00Z'
 templateKey: blog-post
 path: "/automatically-geotag-photos"

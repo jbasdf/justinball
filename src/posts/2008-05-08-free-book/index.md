@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/05/08/free-book/"
 tags:
-- friends
-- books
-- free book
-- marion
+  - "friends"
+  - "books"
+  - "free book"
+  - "marion"
 date: '2008-05-08T06:00:00Z'
 templateKey: blog-post
 path: "/free-book"

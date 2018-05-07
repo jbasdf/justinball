@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2007/06/18/seo-rip-offs-r-us/"
 tags:
-- The Web
-- SEO
+  - "The Web"
+  - "SEO"
 date: '2007-06-18T06:00:00Z'
 templateKey: blog-post
 path: "/seo-rip-offs-r-us"

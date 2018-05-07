@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2013/02/10/kids-these-days/"
 tags:
-- Family
-- Funny
+  - "Family"
+  - "Funny"
 date: '2013-02-10T07:00:00Z'
 templateKey: blog-post
 path: "/kids-these-days"

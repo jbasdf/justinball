@@ -3,10 +3,10 @@ title: Relay or Apollo
 author: Justin Ball
 layout: post
 tags:
-- learning
-- react
-- relay
-- apollo
+  - "learning"
+  - "react"
+  - "relay"
+  - "apollo"
 date: 2017-11-03T14:58:17.000Z
 templateKey: blog-post
 path: "/relay-or-apollo"

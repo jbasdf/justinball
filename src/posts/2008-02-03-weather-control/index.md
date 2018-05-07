@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/03/weather-control/"
 tags:
-- Interesting
-- olympics
-- weather
+  - "Interesting"
+  - "olympics"
+  - "weather"
 date: '2008-02-03T07:00:00Z'
 templateKey: blog-post
 path: "/weather-control"

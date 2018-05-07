@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2007/11/06/visited-the-tetons/"
 tags:
-- Family
-- Fun Stuff
-- grand-teton-national-park
-- jackson-hole
-- realestate
+  - "Family"
+  - "Fun Stuff"
+  - "grand-teton-national-park"
+  - "jackson-hole"
+  - "realestate"
 date: '2007-11-06T07:00:00Z'
 templateKey: blog-post
 path: "/visited-the-tetons"

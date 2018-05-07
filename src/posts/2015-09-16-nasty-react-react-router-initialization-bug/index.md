@@ -4,8 +4,8 @@ author: Justin Ball
 title: Nasty React React-Router initialization bug
 date: '2015-09-16T06:00:00Z'
 tags:
-- Programming
-- React
+  - "Programming"
+  - "React"
 templateKey: blog-post
 path: "/nasty-react-react-router-initialization-bug"
 description: ''

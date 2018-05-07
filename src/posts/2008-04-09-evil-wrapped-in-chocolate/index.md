@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/09/evil-wrapped-in-chocolate/"
 tags:
-- food
-- oreos
-- recipe
-- truffles
+  - "food"
+  - "oreos"
+  - "recipe"
+  - "truffles"
 date: '2008-04-09T06:00:00Z'
 templateKey: blog-post
 path: "/evil-wrapped-in-chocolate"

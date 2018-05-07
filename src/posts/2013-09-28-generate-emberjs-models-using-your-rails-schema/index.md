@@ -4,8 +4,8 @@ author: Justin Ball
 title: Generate Ember.js models using your Rails Schema
 date: '2013-09-28T06:00:00Z'
 tags:
-- Ruby on Rails
-- Ember.js
+  - "Ruby on Rails"
+  - "Ember.js"
 templateKey: blog-post
 path: "/generate-ember.js-models-using-your-rails-schema"
 description: ''

@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2009/10/26/amazon-wishlist-rss/"
 tags:
-- Programming
-- amazon.com
-- rss
-- wishlist
+  - "Programming"
+  - "amazon.com"
+  - "rss"
+  - "wishlist"
 date: '2009-10-26T06:00:00Z'
 templateKey: blog-post
 path: "/amazon-wishlist-rss"

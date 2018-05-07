@@ -4,9 +4,9 @@ author: Justin Ball
 title: Using Chosen with Ember.js
 date: '2013-10-07T06:00:00Z'
 tags:
-- Ember.js
-- Javascript
-- Programming
+  - "Ember.js"
+  - "Javascript"
+  - "Programming"
 templateKey: blog-post
 path: "/using-chosen-with-ember.js"
 description: ''

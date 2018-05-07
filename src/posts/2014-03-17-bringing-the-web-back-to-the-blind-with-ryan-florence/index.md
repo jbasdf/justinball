@@ -4,10 +4,10 @@ author: Justin Ball
 title: Bringing the Web Back to the Blind with Ryan Florence
 date: '2014-03-17T06:00:00Z'
 tags:
-- Mountain West Javascript
-- mwjs
-- Programming
-- accessibility
+  - "Mountain West Javascript"
+  - "mwjs"
+  - "Programming"
+  - "accessibility"
 templateKey: blog-post
 path: "/bringing-the-web-back-to-the-blind-with-ryan-florence"
 description: ''

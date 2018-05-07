@@ -4,18 +4,18 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/06/social-wordpress/"
 tags:
-- Interesting
-- internet
-- Programming
-- Social Software
-- Wordpress
-- DiSo
-- Oauth
-- OpenID
-- Social Software
-- Teachers Without Borders
-- Wordpress
-- wpmu
+  - "Interesting"
+  - "internet"
+  - "Programming"
+  - "Social Software"
+  - "Wordpress"
+  - "DiSo"
+  - "Oauth"
+  - "OpenID"
+  - "Social Software"
+  - "Teachers Without Borders"
+  - "Wordpress"
+  - "wpmu"
 date: '2008-03-06T07:00:00Z'
 templateKey: blog-post
 path: "/social-wordpress"

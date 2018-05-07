@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2009/05/30/ruby-gems-and-couldnt-get-release_id-upload-failed/"
 tags:
-- Funny
-- gem
-- jeweler
+  - "Funny"
+  - "gem"
+  - "jeweler"
 date: '2009-05-30T06:00:00Z'
 templateKey: blog-post
 path: "/ruby-gems-and-couldnt-get-release_id-upload-failed"

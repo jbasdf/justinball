@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2006/11/07/whose-data-is-it/"
 tags:
-- Web2.0
-- web2con2006
+  - "Web2.0"
+  - "web2con2006"
 date: '2006-11-07T07:00:00Z'
 templateKey: blog-post
 path: "/whose-data-is-it"

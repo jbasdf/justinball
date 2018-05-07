@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2006/08/29/tired-again/"
 tags:
-- Cycling
-- The Plan Collection
+  - "Cycling"
+  - "The Plan Collection"
 date: '2006-08-29T06:00:00Z'
 templateKey: blog-post
 path: "/tired-again"

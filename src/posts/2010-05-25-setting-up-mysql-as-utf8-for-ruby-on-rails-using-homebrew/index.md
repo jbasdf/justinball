@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2010/05/25/setting-up-mysql-as-utf8-for-ruby-on-rails-using-homebrew/"
 tags:
-- homebrew
-- mysql
-- mysql gem
-- Ruby On Rails
-- utf8
+  - "homebrew"
+  - "mysql"
+  - "mysql gem"
+  - "Ruby On Rails"
+  - "utf8"
 date: '2010-05-25T06:00:00Z'
 templateKey: blog-post
 path: "/setting-up-mysql-as-utf8-for-ruby-on-rails-using-homebrew"

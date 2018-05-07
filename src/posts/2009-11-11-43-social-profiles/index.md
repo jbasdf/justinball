@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2009/11/11/43-social-profiles/"
 tags:
-- Interesting
-- Programming
-- Projects
-- Social Software
-- The Web
+  - "Interesting"
+  - "Programming"
+  - "Projects"
+  - "Social Software"
+  - "The Web"
 date: '2009-11-11T07:00:00Z'
 templateKey: blog-post
 path: "/43-social-profiles"

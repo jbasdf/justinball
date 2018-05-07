@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/08/18/using-starling-workling-with-ruby-on-rails/"
 tags:
-- Programming
-- Ruby On Rails
-- asyncronous processing
-- Ruby On Rails
-- starling
-- workling
+  - "Programming"
+  - "Ruby On Rails"
+  - "asyncronous processing"
+  - "Ruby On Rails"
+  - "starling"
+  - "workling"
 date: '2008-08-18T06:00:00Z'
 templateKey: blog-post
 path: "/using-starling-workling-with-ruby-on-rails"

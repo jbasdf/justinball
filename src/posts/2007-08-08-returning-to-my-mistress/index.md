@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2007/08/08/returning-to-my-mistress/"
 tags:
-- Cycling
-- Cycling
+  - "Cycling"
+  - "Cycling"
 date: '2007-08-08T06:00:00Z'
 templateKey: blog-post
 path: "/returning-to-my-mistress"

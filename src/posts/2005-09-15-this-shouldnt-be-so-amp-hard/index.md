@@ -4,13 +4,13 @@ author: Justin Ball
 layout: post
 permalink: "/2005/09/15/this-shouldnt-be-so-amp-hard/"
 tags:
-- Programming
-- complex
-- home building
-- home improvement
-- scorm
-- simple
-- software
+  - "Programming"
+  - "complex"
+  - "home building"
+  - "home improvement"
+  - "scorm"
+  - "simple"
+  - "software"
 date: '2005-09-15T06:00:00Z'
 templateKey: blog-post
 path: "/this-shouldnt-be-so-amp-hard"

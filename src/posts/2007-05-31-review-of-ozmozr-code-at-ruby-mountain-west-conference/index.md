@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2007/05/31/review-of-ozmozr-code-at-ruby-mountain-west-conference/"
 tags:
-- COSL
-- Ruby On Rails
-- mountain west ruby conference
-- ozmozr
-- ruby
+  - "COSL"
+  - "Ruby On Rails"
+  - "mountain west ruby conference"
+  - "ozmozr"
+  - "ruby"
 date: '2007-05-31T06:00:00Z'
 templateKey: blog-post
 path: "/review-of-ozmozr-code-at-ruby-mountain-west-conference"

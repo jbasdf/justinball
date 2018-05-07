@@ -2,8 +2,8 @@
 title: BYU Blockchain Summit - Financial Applications of Blockchain
 author: Justin Ball
 tags:
-- conference
-- blockchain
+  - "conference"
+  - "blockchain"
 date: 2018-02-16T14:18:00.000Z
 templateKey: blog-post
 path: "/byu-blockchain-summit-financial-application-of-blockchain"

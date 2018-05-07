@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/08/07/sarah-sample/"
 tags:
-- Fun Stuff
-- cache valley
-- music
-- sarah sample
+  - "Fun Stuff"
+  - "cache valley"
+  - "music"
+  - "sarah sample"
 date: '2007-08-07T06:00:00Z'
 templateKey: blog-post
 path: "/sarah-sample"

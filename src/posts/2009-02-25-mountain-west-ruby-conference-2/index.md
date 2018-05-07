@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2009/02/25/mountain-west-ruby-conference-2/"
 tags:
-- mtnwestrubyconf
-- Ruby On Rails
-- conference
-- Mountain West Ruby
-- ruby
-- Ruby On Rails
+  - "mtnwestrubyconf"
+  - "Ruby On Rails"
+  - "conference"
+  - "Mountain West Ruby"
+  - "ruby"
+  - "Ruby On Rails"
 date: '2009-02-25T07:00:00Z'
 templateKey: blog-post
 path: "/mountain-west-ruby-conference-2"

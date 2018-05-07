@@ -3,9 +3,9 @@ title: Wordpress Plugins The Details
 author: Justin Ball
 layout: post
 tags:
-- learning
-- wordpress
-- plugins
+  - "learning"
+  - "wordpress"
+  - "plugins"
 date: 2018-01-16T06:49:03.000Z
 templateKey: blog-post
 path: "/wordpress-plugins-the-details"

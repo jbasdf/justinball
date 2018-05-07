@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/11/10/working-on-second-facebook-application/"
 tags:
-- Programming
-- Ruby On Rails
-- application
-- facebook
+  - "Programming"
+  - "Ruby On Rails"
+  - "application"
+  - "facebook"
 date: '2007-11-10T07:00:00Z'
 templateKey: blog-post
 path: "/working-on-second-facebook-application"

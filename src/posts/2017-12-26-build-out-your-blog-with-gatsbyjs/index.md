@@ -3,10 +3,10 @@ title: Build Out Your Blog With Gatsbyjs
 author: Justin Ball
 layout: post
 tags:
-- learning
-- javascript
-- gatsbyjs
-- blog
+  - "learning"
+  - "javascript"
+  - "gatsbyjs"
+  - "blog"
 date: 2017-12-26T16:29:38.000Z
 templateKey: blog-post
 path: "/build-out-your-blog-with-gatsbyjs"

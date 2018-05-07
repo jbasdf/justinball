@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/12/20/the-binding-argument-of-concat-is-no-longer-needed/"
 tags:
-- Funny
-- Ruby On Rails
-- upgrades
+  - "Funny"
+  - "Ruby On Rails"
+  - "upgrades"
 date: '2008-12-20T07:00:00Z'
 templateKey: blog-post
 path: "/the-binding-argument-of-concat-is-no-longer-needed"

@@ -4,8 +4,8 @@ author: Justin Ball
 title: If PostGreSQL Won't Start Remember This
 date: '2013-12-26T07:00:00Z'
 tags:
-- PostGresSQL
-- Mac
+  - "PostGresSQL"
+  - "Mac"
 templateKey: blog-post
 path: "/if-postgresql-won't-start-remember-this"
 description: ''

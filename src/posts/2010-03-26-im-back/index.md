@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2010/03/26/im-back/"
 tags:
-- hosting
+  - "hosting"
 date: '2010-03-26T06:00:00Z'
 templateKey: blog-post
 path: "/im-back"

@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2008/08/14/relativity/"
 tags:
-- Funny
-- timr
+  - "Funny"
+  - "timr"
 date: '2008-08-14T06:00:00Z'
 templateKey: blog-post
 path: "/relativity"

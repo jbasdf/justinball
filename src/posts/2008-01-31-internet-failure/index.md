@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/31/internet-failure/"
 tags:
-- Interesting
-- failure
-- internet
+  - "Interesting"
+  - "failure"
+  - "internet"
 date: '2008-01-31T07:00:00Z'
 templateKey: blog-post
 path: "/internet-failure"

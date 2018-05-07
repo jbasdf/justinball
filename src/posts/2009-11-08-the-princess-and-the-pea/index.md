@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2009/11/08/the-princess-and-the-pea/"
 tags:
-- Alyssa
-- Family
+  - "Alyssa"
+  - "Family"
 date: '2009-11-08T07:00:00Z'
 templateKey: blog-post
 path: "/the-princess-and-the-pea"

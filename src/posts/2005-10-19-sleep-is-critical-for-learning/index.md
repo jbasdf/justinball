@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2005/10/19/sleep-is-critical-for-learning/"
 tags:
-- School
+  - "School"
 date: '2005-10-19T06:00:00Z'
 templateKey: blog-post
 path: "/sleep-is-critical-for-learning"

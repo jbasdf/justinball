@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/23/a-late-night-updating-house-plans-on-theplancollectioncom/"
 tags:
-- The Plan Collection
-- ASP.Net
-- house plans
-- image processing
-- Programming
-- The Plan Collection
+  - "The Plan Collection"
+  - "ASP.Net"
+  - "house plans"
+  - "image processing"
+  - "Programming"
+  - "The Plan Collection"
 date: '2008-01-23T07:00:00Z'
 templateKey: blog-post
 path: "/a-late-night-updating-house-plans-on-theplancollectioncom"

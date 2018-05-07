@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2005/12/13/cool-magnets-that-can-break-your-arm/"
 tags:
-- Neat Stuff
-- Science
+  - "Neat Stuff"
+  - "Science"
 date: '2005-12-13T07:00:00Z'
 templateKey: blog-post
 path: "/cool-magnets-that-can-break-your-arm"

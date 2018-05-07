@@ -4,10 +4,10 @@ author: Justin Ball
 title: ActiveRecord has_many through multiple models
 date: '2014-03-24T06:00:00Z'
 tags:
-- Rails
-- ActiveRecord
-- has_many
-- Programming
+  - "Rails"
+  - "ActiveRecord"
+  - "has_many"
+  - "Programming"
 templateKey: blog-post
 path: "/activerecord-has_many-through-multiple-models"
 description: ''

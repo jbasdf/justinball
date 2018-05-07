@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/09/20/trek-project-one-launched/"
 tags:
-- Cycling
-- Cycling
-- madonne
-- trek project one
+  - "Cycling"
+  - "Cycling"
+  - "madonne"
+  - "trek project one"
 date: '2008-09-20T06:00:00Z'
 templateKey: blog-post
 path: "/trek-project-one-launched"

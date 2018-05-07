@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2010/08/03/get-apple-time-capsule-to-work-with-comcast/"
 tags:
-- Apple Time Capsule
-- Comcast
+  - "Apple Time Capsule"
+  - "Comcast"
 date: '2010-08-03T06:00:00Z'
 templateKey: blog-post
 path: "/get-apple-time-capsule-to-work-with-comcast"

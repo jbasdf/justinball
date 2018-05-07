@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/11/wordpress-makes-me-happy/"
 tags:
-- Programming
-- Wordpress
+  - "Programming"
+  - "Wordpress"
 date: '2008-02-11T07:00:00Z'
 templateKey: blog-post
 path: "/wordpress-makes-me-happy"

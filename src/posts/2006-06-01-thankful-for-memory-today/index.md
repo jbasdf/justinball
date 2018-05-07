@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2006/06/01/thankful-for-memory-today/"
 tags:
-- Interesting
+  - "Interesting"
 date: '2006-06-01T06:00:00Z'
 templateKey: blog-post
 path: "/thankful-for-memory-today"

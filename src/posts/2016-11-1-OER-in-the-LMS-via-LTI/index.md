@@ -4,9 +4,9 @@ author: Justin Ball
 title: OER in the LMS via LTI
 date: '2016-11-01T06:00:00Z'
 tags:
-- OER
-- LMS
-- LTI
+  - "OER"
+  - "LMS"
+  - "LTI"
 templateKey: blog-post
 path: "/OER-in-the-LMS-via-LTI"
 description: ''

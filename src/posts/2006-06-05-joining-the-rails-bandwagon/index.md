@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2006/06/05/joining-the-rails-bandwagon/"
 tags:
-- ASP.Net
-- Ruby On Rails
+  - "ASP.Net"
+  - "Ruby On Rails"
 date: '2006-06-05T06:00:00Z'
 templateKey: blog-post
 path: "/joining-the-rails-bandwagon"

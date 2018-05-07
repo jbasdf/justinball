@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2010/03/15/launchup-org/"
 tags:
-- business
-- launchup.org
+  - "business"
+  - "launchup.org"
 date: '2010-03-15T06:00:00Z'
 templateKey: blog-post
 path: "/launchup-org"

@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2005/11/17/some-interesting-a-somewhat-risky-physics/"
 tags:
-- Neat Stuff
+  - "Neat Stuff"
 date: '2005-11-17T07:00:00Z'
 templateKey: blog-post
 path: "/some-interesting-a-somewhat-risky-physics"

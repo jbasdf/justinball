@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2012/09/27/logan-river-trail/"
 tags:
-- Autumn
-- Cycling
-- Cyclocross
+  - "Autumn"
+  - "Cycling"
+  - "Cyclocross"
 date: '2012-09-27T06:00:00Z'
 templateKey: blog-post
 path: "/logan-river-trail"

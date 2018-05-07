@@ -4,13 +4,13 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/05/connected-communities/"
 tags:
-- Community
-- Web2.0
-- Wordpress
-- Community
-- digg
-- Social Software
-- Wordpress
+  - "Community"
+  - "Web2.0"
+  - "Wordpress"
+  - "Community"
+  - "digg"
+  - "Social Software"
+  - "Wordpress"
 date: '2008-03-05T07:00:00Z'
 templateKey: blog-post
 path: "/connected-communities"

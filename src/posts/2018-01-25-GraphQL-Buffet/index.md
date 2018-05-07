@@ -3,10 +3,10 @@ title: GraphQL-Buffet
 author: Justin Ball
 layout: post
 tags:
-- learning
-- graphql
-- Relay
-- elixir
+  - "learning"
+  - "graphql"
+  - "Relay"
+  - "elixir"
 date: 2018-01-25T16:54:33.000Z
 templateKey: blog-post
 path: "/GraphQL-Buffet"

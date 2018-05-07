@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2010/07/25/cervelo-eride-came-to-logan/"
 tags:
-- cervelo
-- Cycling
-- eride
+  - "cervelo"
+  - "Cycling"
+  - "eride"
 date: '2010-07-25T06:00:00Z'
 templateKey: blog-post
 path: "/cervelo-eride-came-to-logan"

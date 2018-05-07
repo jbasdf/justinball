@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2010/08/05/increment-mysql-error/"
 tags:
-- Ruby on Rails
+  - "Ruby on Rails"
 date: '2010-08-05T06:00:00Z'
 templateKey: blog-post
 path: "/increment-mysql-error"

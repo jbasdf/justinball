@@ -4,13 +4,13 @@ author: Justin Ball
 layout: post
 permalink: "/2008/10/04/error-while-executing-gem-argumenterror-illformed-requirement/"
 tags:
-- Ruby On Rails
-- bugs
-- errors
-- gems
-- morph
-- morph exchange
-- Ruby On Railst
+  - "Ruby On Rails"
+  - "bugs"
+  - "errors"
+  - "gems"
+  - "morph"
+  - "morph exchange"
+  - "Ruby On Railst"
 date: '2008-10-04T06:00:00Z'
 templateKey: blog-post
 path: "/error-while-executing-gem-argumenterror-illformed-requirement"

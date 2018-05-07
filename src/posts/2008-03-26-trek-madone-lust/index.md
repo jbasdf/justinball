@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/26/trek-madone-lust/"
 tags:
-- Cycling
-- 2008 Madone
-- madone
-- trek
+  - "Cycling"
+  - "2008 Madone"
+  - "madone"
+  - "trek"
 date: '2008-03-26T06:00:00Z'
 templateKey: blog-post
 path: "/trek-madone-lust"

@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2006/09/02/everything-you-didnt-want-to-know/"
 tags:
-- Science
+  - "Science"
 date: '2006-09-02T06:00:00Z'
 templateKey: blog-post
 path: "/everything-you-didnt-want-to-know"

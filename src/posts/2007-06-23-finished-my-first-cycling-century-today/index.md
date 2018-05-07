@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2007/06/23/finished-my-first-cycling-century-today/"
 tags:
-- COSL
-- Cycling
-- cache valley
-- Cycling
-- MS150
+  - "COSL"
+  - "Cycling"
+  - "cache valley"
+  - "Cycling"
+  - "MS150"
 date: '2007-06-23T06:00:00Z'
 templateKey: blog-post
 path: "/finished-my-first-cycling-century-today"

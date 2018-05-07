@@ -5,7 +5,7 @@ excerpt: ruby on rails, nested forms, custom form builder
 layout: post
 permalink: "/2009/04/16/rails-23-nested-forms-and-wrong-constant-name-userbillingattributes/"
 tags:
-- Ruby On Rails
+  - "Ruby On Rails"
 date: '2009-04-16T06:00:00Z'
 templateKey: blog-post
 path: "/rails-23-nested-forms-and-wrong-constant-name-userbillingattributes"

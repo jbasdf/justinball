@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/19/maddox/"
 tags:
-- Fun Stuff
-- The Kids
-- restaurant
+  - "Fun Stuff"
+  - "The Kids"
+  - "restaurant"
 date: '2008-01-19T07:00:00Z'
 templateKey: blog-post
 path: "/maddox"

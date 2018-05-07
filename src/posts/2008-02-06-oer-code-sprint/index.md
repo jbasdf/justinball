@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/06/oer-code-sprint/"
 tags:
-- Programming
-- code sprint
-- OER
-- Programming
-- Ruby On Rails
+  - "Programming"
+  - "code sprint"
+  - "OER"
+  - "Programming"
+  - "Ruby On Rails"
 date: '2008-02-06T07:00:00Z'
 templateKey: blog-post
 path: "/oer-code-sprint"

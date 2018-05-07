@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2007/08/08/rode-blacksmith-fork-canyon-tonight/"
 tags:
-- Cycling
-- Fun Stuff
-- Cycling
+  - "Cycling"
+  - "Fun Stuff"
+  - "Cycling"
 date: '2007-08-08T06:00:00Z'
 templateKey: blog-post
 path: "/rode-blacksmith-fork-canyon-tonight"

@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/07/23/igagus-updated/"
 tags:
-- iPhone
-- Web2.0
-- iPhone
-- Web2.0
+  - "iPhone"
+  - "Web2.0"
+  - "iPhone"
+  - "Web2.0"
 date: '2007-07-23T06:00:00Z'
 templateKey: blog-post
 path: "/igagus-updated"

@@ -5,9 +5,9 @@ author: Justin Ball
 layout: post
 permalink: "/2009/06/26/implicit-multipart-emails-using-ruby-on-rails-and-actionmailer-wont-work/"
 tags:
-- Funny
-- email
-- Ruby On Rails
+  - "Funny"
+  - "email"
+  - "Ruby On Rails"
 date: '2009-06-26T06:00:00Z'
 templateKey: blog-post
 path: "/implicit-multipart-emails-using-ruby-on-rails-and-actionmailer-wont-work"

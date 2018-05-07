@@ -4,14 +4,14 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/10/indulgences/"
 tags:
-- Community
-- Fun Stuff
-- Interesting
-- Programming
-- application
-- facebook
-- Funny
-- induglences
+  - "Community"
+  - "Fun Stuff"
+  - "Interesting"
+  - "Programming"
+  - "application"
+  - "facebook"
+  - "Funny"
+  - "induglences"
 date: '2008-01-10T07:00:00Z'
 templateKey: blog-post
 path: "/indulgences"

@@ -4,9 +4,9 @@ author: Justin Ball
 title: Course Setup Using Google Docs and the Canvas API
 date: '2015-06-17T06:00:00Z'
 tags:
-- Atomic Jolt
-- Canvas
-- Programming
+  - "Atomic Jolt"
+  - "Canvas"
+  - "Programming"
 templateKey: blog-post
 path: "/course-setup-using-google-docs-and-the-canvas-api"
 description: ''

@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/06/iphone-sdk/"
 tags:
-- iPhone
-- iPhone
+  - "iPhone"
+  - "iPhone"
 date: '2008-03-06T07:00:00Z'
 templateKey: blog-post
 path: "/iphone-sdk"

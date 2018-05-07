@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/13/2008-trek-madonne-disappoints-big-time/"
 tags:
-- Cycling
-- 2008 madonne
-- Cycling
-- trek
+  - "Cycling"
+  - "2008 madonne"
+  - "Cycling"
+  - "trek"
 date: '2008-02-13T07:00:00Z'
 templateKey: blog-post
 path: "/2008-trek-madonne-disappoints-big-time"

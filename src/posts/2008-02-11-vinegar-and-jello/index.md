@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/11/vinegar-and-jello/"
 tags:
-- food
-- cows
-- food
-- gelatin
-- gross
-- vinegar
+  - "food"
+  - "cows"
+  - "food"
+  - "gelatin"
+  - "gross"
+  - "vinegar"
 date: '2008-02-11T07:00:00Z'
 templateKey: blog-post
 path: "/vinegar-and-jello"

@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2009/03/01/black-cherry-vanilla-coke/"
 tags:
-- Waste of Time
-- black cherry vanilla coke
-- coke
+  - "Waste of Time"
+  - "black cherry vanilla coke"
+  - "coke"
 date: '2009-03-01T07:00:00Z'
 templateKey: blog-post
 path: "/black-cherry-vanilla-coke"

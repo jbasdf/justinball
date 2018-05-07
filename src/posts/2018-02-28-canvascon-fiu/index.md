@@ -2,7 +2,7 @@
 title: CanvasCon at FIU
 author: Justin Ball
 tags:
-- canvas
+  - "canvas"
 date: 2018-02-28T10:00:00.000Z
 templateKey: blog-post
 path: "/canvascon-fiu"

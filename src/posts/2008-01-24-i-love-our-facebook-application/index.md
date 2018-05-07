@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/24/i-love-our-facebook-application/"
 tags:
-- The Plan Collection
-- facebook
-- house plans
-- theplancollection
+  - "The Plan Collection"
+  - "facebook"
+  - "house plans"
+  - "theplancollection"
 date: '2008-01-24T07:00:00Z'
 templateKey: blog-post
 path: "/i-love-our-facebook-application"

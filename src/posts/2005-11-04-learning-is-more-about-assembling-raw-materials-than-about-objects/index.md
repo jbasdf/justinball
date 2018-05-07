@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2005/11/04/learning-is-more-about-assembling-raw-materials-than-about-objects/"
 tags:
-- School
+  - "School"
 date: '2005-11-04T07:00:00Z'
 templateKey: blog-post
 path: "/learning-is-more-about-assembling-raw-materials-than-about-objects"

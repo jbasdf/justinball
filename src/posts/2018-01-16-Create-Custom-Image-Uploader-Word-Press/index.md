@@ -3,13 +3,13 @@ title: Create Custom Image Uploader Word Press
 author: Justin Ball
 layout: post
 tags:
-- learning
-- with
-- create
-- image
-- uploader
-- word press
-- queue
+  - "learning"
+  - "with"
+  - "create"
+  - "image"
+  - "uploader"
+  - "word press"
+  - "queue"
 date: 2018-01-16T16:19:51.000Z
 templateKey: blog-post
 path: "/Create-Custom-Image-Uploader-Word-Press"

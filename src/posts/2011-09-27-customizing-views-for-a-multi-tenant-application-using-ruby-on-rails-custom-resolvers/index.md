@@ -5,7 +5,7 @@ author: Justin Ball
 layout: post
 permalink: "/2011/09/27/customizing-views-for-a-multi-tenant-application-using-ruby-on-rails-custom-resolvers/"
 tags:
-- Ruby On Rails
+  - "Ruby On Rails"
 date: '2011-09-27T06:00:00Z'
 templateKey: blog-post
 path: "/customizing-views-for-a-multi-tenant-application-using-ruby-on-rails-custom-resolvers"

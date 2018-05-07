@@ -4,9 +4,9 @@ author: Justin Ball
 title: Canvas install error
 date: '2016-08-30T06:00:00Z'
 tags:
-- Canvas
-- Instructure
-- Programming
+  - "Canvas"
+  - "Instructure"
+  - "Programming"
 templateKey: blog-post
 path: "/Canvas-install-error"
 description: ''

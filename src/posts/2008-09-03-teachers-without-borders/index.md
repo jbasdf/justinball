@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/09/03/teachers-without-borders/"
 tags:
-- internet
-- Programming
-- Ruby On Rails
-- luvfoo
-- Ruby On Rails
-- Teachers Without Borders
+  - "internet"
+  - "Programming"
+  - "Ruby On Rails"
+  - "luvfoo"
+  - "Ruby On Rails"
+  - "Teachers Without Borders"
 date: '2008-09-03T06:00:00Z'
 templateKey: blog-post
 path: "/teachers-without-borders"

@@ -4,11 +4,11 @@ author: Justin Ball
 title: Cancun Mexico
 date: '2017-02-05T07:00:00Z'
 tags:
-- Vacation
-- Mexico
-- Cancun
-- Playa Del Carmen
-- No Programming
+  - "Vacation"
+  - "Mexico"
+  - "Cancun"
+  - "Playa Del Carmen"
+  - "No Programming"
 templateKey: blog-post
 path: "/cancun-mexico"
 description: ''

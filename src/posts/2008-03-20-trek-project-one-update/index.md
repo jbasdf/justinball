@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/20/trek-project-one-update/"
 tags:
-- Cycling
-- 2008 Madone
-- Cycling
-- madone
-- project one
-- trek
+  - "Cycling"
+  - "2008 Madone"
+  - "Cycling"
+  - "madone"
+  - "project one"
+  - "trek"
 date: '2008-03-20T06:00:00Z'
 templateKey: blog-post
 path: "/trek-project-one-update"

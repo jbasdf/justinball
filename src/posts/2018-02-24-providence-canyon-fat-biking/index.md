@@ -2,9 +2,9 @@
 title: Providence Canyon Fat Biking
 author: Justin Ball
 tags:
-- biking
-- snow
-- providence canyon
+  - "biking"
+  - "snow"
+  - "providence canyon"
 date: 2018-02-24T10:00:00.000Z
 templateKey: blog-post
 path: "/providence-canyon-fat-biking"

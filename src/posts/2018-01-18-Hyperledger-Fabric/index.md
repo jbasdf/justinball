@@ -3,9 +3,9 @@ title: Hyperledger Fabric
 author: Justin Ball
 layout: post
 tags:
-- learning
-- hyperledger
-- blockchain
+  - "learning"
+  - "hyperledger"
+  - "blockchain"
 date: 2018-01-18T15:25:48.000Z
 templateKey: blog-post
 path: "/Hyperledger-Fabric"

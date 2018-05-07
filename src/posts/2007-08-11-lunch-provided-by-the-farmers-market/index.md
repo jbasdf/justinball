@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2007/08/11/lunch-provided-by-the-farmers-market/"
 tags:
-- Community
-- Community
-- farmers market
-- food
-- society2.0
+  - "Community"
+  - "Community"
+  - "farmers market"
+  - "food"
+  - "society2.0"
 date: '2007-08-11T06:00:00Z'
 templateKey: blog-post
 path: "/lunch-provided-by-the-farmers-market"

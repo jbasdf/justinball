@@ -3,8 +3,8 @@ title: Common Lisp
 author: Justin Ball
 layout: post
 tags:
-- learning
-- Common Lisp
+  - "learning"
+  - "Common Lisp"
 date: 2018-01-11T18:08:09.000Z
 templateKey: blog-post
 path: "/common-lisp"

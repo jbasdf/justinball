@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/08/18/something-to-think-about/"
 tags:
-- Interesting
-- driving
-- sign language
+  - "Interesting"
+  - "driving"
+  - "sign language"
 date: '2008-08-18T06:00:00Z'
 templateKey: blog-post
 path: "/something-to-think-about"

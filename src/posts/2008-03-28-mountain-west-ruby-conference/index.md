@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/28/mountain-west-ruby-conference/"
 tags:
-- mtnwestrubyconf
-- Ruby On Rails
-- merb
-- mtnwestrubyconf
-- Ruby On Rails
+  - "mtnwestrubyconf"
+  - "Ruby On Rails"
+  - "merb"
+  - "mtnwestrubyconf"
+  - "Ruby On Rails"
 date: '2008-03-28T06:00:00Z'
 templateKey: blog-post
 path: "/mountain-west-ruby-conference"

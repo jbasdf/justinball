@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2010/11/22/sql2005-or-higher-is-required-for-sp_expressmaint/"
 tags:
-- sql server
-- sql server 2008 express
+  - "sql server"
+  - "sql server 2008 express"
 date: '2010-11-22T07:00:00Z'
 templateKey: blog-post
 path: "/sql2005-or-higher-is-required-for-sp_expressmaint"

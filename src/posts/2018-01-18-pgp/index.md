@@ -3,8 +3,8 @@ title: PGP
 author: Justin Ball
 layout: post
 tags:
-- learning
-- PGP
+  - "learning"
+  - "PGP"
 date: 2018-01-18T17:11:40.000Z
 templateKey: blog-post
 path: "/pgp"

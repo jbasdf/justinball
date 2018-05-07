@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2009/03/11/familysearch-conference/"
 tags:
-- familysearch
-- genealogy
-- Phil Windley
+  - "familysearch"
+  - "genealogy"
+  - "Phil Windley"
 date: '2009-03-11T06:00:00Z'
 templateKey: blog-post
 path: "/familysearch-conference"

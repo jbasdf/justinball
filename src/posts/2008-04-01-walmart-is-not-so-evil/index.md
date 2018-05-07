@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/01/walmart-is-not-so-evil/"
 tags:
-- business
-- economy
-- business
-- economy
-- government
-- walmart
+  - "business"
+  - "economy"
+  - "business"
+  - "economy"
+  - "government"
+  - "walmart"
 date: '2008-04-01T06:00:00Z'
 templateKey: blog-post
 path: "/walmart-is-not-so-evil"

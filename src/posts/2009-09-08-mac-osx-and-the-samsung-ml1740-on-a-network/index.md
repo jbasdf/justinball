@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2009/09/08/mac-osx-and-the-samsung-ml1740-on-a-network/"
 tags:
-- Computers
-- mac
-- osx
-- samsung ml1740
+  - "Computers"
+  - "mac"
+  - "osx"
+  - "samsung ml1740"
 date: '2009-09-08T06:00:00Z'
 templateKey: blog-post
 path: "/mac-osx-and-the-samsung-ml1740-on-a-network"

@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2009/10/04/configure-your-wp-config-php-for-database-access-on-mac-osx-10-6/"
 tags:
-- database
-- Mac OSX 10.6
-- mysql
-- Wordpress
+  - "database"
+  - "Mac OSX 10.6"
+  - "mysql"
+  - "Wordpress"
 date: '2009-10-04T06:00:00Z'
 templateKey: blog-post
 path: "/configure-your-wp-config-php-for-database-access-on-mac-osx-10-6"

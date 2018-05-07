@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2009/05/30/newgem/"
 tags:
-- Ruby On Rails
-- babelphish
-- gems
-- newgem
-- ruby
+  - "Ruby On Rails"
+  - "babelphish"
+  - "gems"
+  - "newgem"
+  - "ruby"
 date: '2009-05-30T06:00:00Z'
 templateKey: blog-post
 path: "/newgem"

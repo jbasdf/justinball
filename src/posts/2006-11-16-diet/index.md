@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2006/11/16/diet/"
 tags:
-- Cycling
-- Science
+  - "Cycling"
+  - "Science"
 date: '2006-11-16T07:00:00Z'
 templateKey: blog-post
 path: "/diet"

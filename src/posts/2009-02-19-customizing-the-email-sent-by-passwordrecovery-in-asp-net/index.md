@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2009/02/19/customizing-the-email-sent-by-passwordrecovery-in-asp-net/"
 tags:
-- ASP.Net
-- Ruby On Rails
-- ASP.Net
-- password recovery
-- Ruby On Rails
+  - "ASP.Net"
+  - "Ruby On Rails"
+  - "ASP.Net"
+  - "password recovery"
+  - "Ruby On Rails"
 date: '2009-02-19T07:00:00Z'
 templateKey: blog-post
 path: "/customizing-the-email-sent-by-passwordrecovery-in-asp-net"

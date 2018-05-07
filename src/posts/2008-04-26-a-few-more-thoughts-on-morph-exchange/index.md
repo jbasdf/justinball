@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/26/a-few-more-thoughts-on-morph-exchange/"
 tags:
-- hosting
-- internet
-- deployment
-- hosting
-- morphexchange
+  - "hosting"
+  - "internet"
+  - "deployment"
+  - "hosting"
+  - "morphexchange"
 date: '2008-04-26T06:00:00Z'
 templateKey: blog-post
 path: "/a-few-more-thoughts-on-morph-exchange"

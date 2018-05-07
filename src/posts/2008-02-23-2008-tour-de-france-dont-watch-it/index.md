@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/23/2008-tour-de-france-dont-watch-it/"
 tags:
-- Cycling
-- Astana
-- Cycling
-- Tour de France
+  - "Cycling"
+  - "Astana"
+  - "Cycling"
+  - "Tour de France"
 date: '2008-02-23T07:00:00Z'
 templateKey: blog-post
 path: "/2008-tour-de-france-dont-watch-it"

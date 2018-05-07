@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/12/04/the-nutcracker/"
 tags:
-- Funny
-- Family
-- nutcracker
+  - "Funny"
+  - "Family"
+  - "nutcracker"
 date: '2008-12-04T07:00:00Z'
 templateKey: blog-post
 path: "/the-nutcracker"

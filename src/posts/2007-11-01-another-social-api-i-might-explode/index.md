@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2007/11/01/another-social-api-i-might-explode/"
 tags:
-- Social Software
-- facebook
-- google
-- opensocial
-- socialsoftware
+  - "Social Software"
+  - "facebook"
+  - "google"
+  - "opensocial"
+  - "socialsoftware"
 date: '2007-11-01T06:00:00Z'
 templateKey: blog-post
 path: "/another-social-api-i-might-explode"

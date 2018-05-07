@@ -3,8 +3,8 @@ title: Web RTC
 author: Justin Ball
 layout: post
 tags:
-- learning
-- Web RTC
+  - "learning"
+  - "Web RTC"
 date: 2017-12-01T16:57:18.000Z
 templateKey: blog-post
 path: "/Web-Rtc"

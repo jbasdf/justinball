@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2006/10/14/cherry-creek-campground-trail-motorcycling-near-downey-id/"
 tags:
-- Fun Stuff
+  - "Fun Stuff"
 date: '2006-10-14T06:00:00Z'
 templateKey: blog-post
 path: "/cherry-creek-campground-trail-motorcycling-near-downey-id"

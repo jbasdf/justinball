@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/07/02/riding-to-work-again/"
 tags:
-- Cycling
-- commuting
-- Cycling
+  - "Cycling"
+  - "commuting"
+  - "Cycling"
 date: '2008-07-02T06:00:00Z'
 templateKey: blog-post
 path: "/riding-to-work-again"

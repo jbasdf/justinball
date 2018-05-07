@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/06/07/ajax-calls-using-jquery-in-ruby-on-rails/"
 tags:
-- Funny
-- Ruby On Rails
-- ajax
-- InvalidAuthenticityToken
-- jQuery
-- Ruby On Rails
+  - "Funny"
+  - "Ruby On Rails"
+  - "ajax"
+  - "InvalidAuthenticityToken"
+  - "jQuery"
+  - "Ruby On Rails"
 date: '2008-06-07T06:00:00Z'
 templateKey: blog-post
 path: "/ajax-calls-using-jquery-in-ruby-on-rails"

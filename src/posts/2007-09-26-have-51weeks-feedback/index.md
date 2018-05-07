@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/09/26/have-51weeks-feedback/"
 tags:
-- Community
-- conference software
-- opened2007
-- Web2.0
+  - "Community"
+  - "conference software"
+  - "opened2007"
+  - "Web2.0"
 date: '2007-09-26T06:00:00Z'
 templateKey: blog-post
 path: "/have-51weeks-feedback"

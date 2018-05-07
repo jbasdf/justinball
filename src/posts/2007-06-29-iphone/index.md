@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2007/06/29/iphone/"
 tags:
-- Waste of Time
-- gadgets
-- iPhone
+  - "Waste of Time"
+  - "gadgets"
+  - "iPhone"
 date: '2007-06-29T06:00:00Z'
 templateKey: blog-post
 path: "/iphone"

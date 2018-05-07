@@ -4,8 +4,8 @@ author: Justin Ball
 title: Rails on Heroku Notes - some Asset Pipeline and a Frame issue
 date: '2013-10-23T06:00:00Z'
 tags:
-- Rails
-- Heroku
+  - "Rails"
+  - "Heroku"
 templateKey: blog-post
 path: "/rails-asset-pipeline-on-heroku-notes"
 description: ''

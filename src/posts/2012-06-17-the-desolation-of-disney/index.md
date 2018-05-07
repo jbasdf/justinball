@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2012/06/17/the-desolation-of-disney/"
 tags:
-- Disney
-- Family Vacation
+  - "Disney"
+  - "Family Vacation"
 date: '2012-06-17T06:00:00Z'
 templateKey: blog-post
 path: "/the-desolation-of-disney"

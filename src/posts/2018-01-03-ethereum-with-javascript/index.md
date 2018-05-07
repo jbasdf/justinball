@@ -3,10 +3,10 @@ title: Ethereum With Javascript
 author: Justin Ball
 layout: post
 tags:
-- learning
-- ethereum
-- javascript
-- reactjs
+  - "learning"
+  - "ethereum"
+  - "javascript"
+  - "reactjs"
 date: 2018-01-03T17:10:56.000Z
 templateKey: blog-post
 path: "/ethereum-with-javascript"

@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/29/a-modern-prophet/"
 tags:
-- Community
-- Interesting
-- Gorden B Hinckley
-- lds
-- prophet
+  - "Community"
+  - "Interesting"
+  - "Gorden B Hinckley"
+  - "lds"
+  - "prophet"
 date: '2008-01-29T07:00:00Z'
 templateKey: blog-post
 path: "/a-modern-prophet"

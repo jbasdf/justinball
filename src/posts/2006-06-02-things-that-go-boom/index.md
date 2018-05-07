@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2006/06/02/things-that-go-boom/"
 tags:
-- Interesting
+  - "Interesting"
 date: '2006-06-02T06:00:00Z'
 templateKey: blog-post
 path: "/things-that-go-boom"

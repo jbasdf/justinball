@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2009/11/10/change-your-wordpress-gallery-settings/"
 tags:
-- galleries
-- photoJAR
-- photos
-- Wordpress
+  - "galleries"
+  - "photoJAR"
+  - "photos"
+  - "Wordpress"
 date: '2009-11-10T07:00:00Z'
 templateKey: blog-post
 path: "/change-your-wordpress-gallery-settings"

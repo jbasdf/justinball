@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/07/secret-given-to-the-protect_from_forgery-call/"
 tags:
-- Programming
-- Ruby On Rails
-- protect_from_forgery
-- Ruby On Rails
-- sessions
+  - "Programming"
+  - "Ruby On Rails"
+  - "protect_from_forgery"
+  - "Ruby On Rails"
+  - "sessions"
 date: '2008-02-07T07:00:00Z'
 templateKey: blog-post
 path: "/secret-given-to-the-protect_from_forgery-call"

@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2010/01/23/add-theming-engine-to-your-rails-application/"
 tags:
-- disguise
-- Ruby On Rails
-- templates
+  - "disguise"
+  - "Ruby On Rails"
+  - "templates"
 date: '2010-01-23T07:00:00Z'
 templateKey: blog-post
 path: "/add-theming-engine-to-your-rails-application"

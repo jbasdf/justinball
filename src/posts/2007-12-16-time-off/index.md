@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2007/12/16/time-off/"
 tags:
-- Waste of Time
-- work
+  - "Waste of Time"
+  - "work"
 date: '2007-12-16T07:00:00Z'
 templateKey: blog-post
 path: "/time-off"

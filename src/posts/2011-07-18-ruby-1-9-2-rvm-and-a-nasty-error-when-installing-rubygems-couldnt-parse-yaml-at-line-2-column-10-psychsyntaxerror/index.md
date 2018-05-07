@@ -5,9 +5,9 @@ author: Justin Ball
 layout: post
 permalink: "/2011/07/18/ruby-1-9-2-rvm-and-a-nasty-error-when-installing-rubygems-couldnt-parse-yaml-at-line-2-column-10-psychsyntaxerror/"
 tags:
-- Ruby
-- psych
-- rvm
+  - "Ruby"
+  - "psych"
+  - "rvm"
 date: '2011-07-18T06:00:00Z'
 templateKey: blog-post
 path: "/ruby-1-9-2-rvm-and-a-nasty-error-when-installing-rubygems-couldnt-parse-yaml-at-line-2-column-10-psychsyntaxerror"

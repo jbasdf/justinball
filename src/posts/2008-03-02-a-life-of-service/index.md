@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/02/a-life-of-service/"
 tags:
-- Family
-- Family
-- funeral
-- Wesley Connell
+  - "Family"
+  - "Family"
+  - "funeral"
+  - "Wesley Connell"
 date: '2008-03-02T07:00:00Z'
 templateKey: blog-post
 path: "/a-life-of-service"

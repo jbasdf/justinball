@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2006/12/04/identity-introduction/"
 tags:
-- iiw2006b
+  - "iiw2006b"
 date: '2006-12-04T07:00:00Z'
 templateKey: blog-post
 path: "/identity-introduction"

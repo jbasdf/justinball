@@ -5,11 +5,11 @@ author: Justin Ball
 layout: post
 permalink: "/2009/05/12/authorizenet-user-authentication-failed-due-to-invalid-authentication-values/"
 tags:
-- Programming
-- Ruby On Rails
-- API
-- authorize.net
-- commerce
+  - "Programming"
+  - "Ruby On Rails"
+  - "API"
+  - "authorize.net"
+  - "commerce"
 date: '2009-05-12T06:00:00Z'
 templateKey: blog-post
 path: "/authorizenet-user-authentication-failed-due-to-invalid-authentication-values"

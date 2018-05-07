@@ -3,9 +3,9 @@ title: Wordpress Plugin Development
 author: Justin Ball
 layout: post
 tags:
-- learning
-- Wordpress
-- plugins
+  - "learning"
+  - "Wordpress"
+  - "plugins"
 date: 2017-12-30T16:30:41.000Z
 templateKey: blog-post
 path: "/Wordpress-Plugin-Development"

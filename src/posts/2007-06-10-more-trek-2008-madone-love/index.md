@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2007/06/10/more-trek-2008-madone-love/"
 tags:
-- Cycling
-- Cycling
-- trek madone 2008
+  - "Cycling"
+  - "Cycling"
+  - "trek madone 2008"
 date: '2007-06-10T06:00:00Z'
 templateKey: blog-post
 path: "/more-trek-2008-madone-love"

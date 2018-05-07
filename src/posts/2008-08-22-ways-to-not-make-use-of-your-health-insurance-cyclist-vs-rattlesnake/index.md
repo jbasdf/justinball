@@ -4,13 +4,13 @@ author: Justin Ball
 layout: post
 permalink: "/2008/08/22/ways-to-not-make-use-of-your-health-insurance-cyclist-vs-rattlesnake/"
 tags:
-- Cycling
-- Funny
-- Interesting
-- accidents
-- Cycling
-- rattle snake
-- wreck
+  - "Cycling"
+  - "Funny"
+  - "Interesting"
+  - "accidents"
+  - "Cycling"
+  - "rattle snake"
+  - "wreck"
 date: '2008-08-22T06:00:00Z'
 templateKey: blog-post
 path: "/ways-to-not-make-use-of-your-health-insurance-cyclist-vs-rattlesnake"

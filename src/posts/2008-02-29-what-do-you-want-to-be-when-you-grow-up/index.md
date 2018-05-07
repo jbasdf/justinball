@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/29/what-do-you-want-to-be-when-you-grow-up/"
 tags:
-- Funny
-- kids
-- field trip
-- Funny
-- kids
+  - "Funny"
+  - "kids"
+  - "field trip"
+  - "Funny"
+  - "kids"
 date: '2008-02-29T07:00:00Z'
 templateKey: blog-post
 path: "/what-do-you-want-to-be-when-you-grow-up"

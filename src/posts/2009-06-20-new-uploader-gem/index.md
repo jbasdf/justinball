@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2009/06/20/new-uploader-gem/"
 tags:
-- gems
-- Ruby On Rails
-- uploads
+  - "gems"
+  - "Ruby On Rails"
+  - "uploads"
 date: '2009-06-20T06:00:00Z'
 templateKey: blog-post
 path: "/new-uploader-gem"

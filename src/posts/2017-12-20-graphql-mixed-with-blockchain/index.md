@@ -3,9 +3,9 @@ title: Graphql Mixed With Blockchain
 author: Justin Ball
 layout: post
 tags:
-- learning
-- blockchain
-- graphql
+  - "learning"
+  - "blockchain"
+  - "graphql"
 date: 2017-12-20T18:39:56.000Z
 templateKey: blog-post
 path: "/graphql-mixed-with-blockchain"

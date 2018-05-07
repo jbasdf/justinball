@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/07/28/install-native-mysql-gem-edge-rails-stopped-including-it/"
 tags:
-- Ruby On Rails
-- gems
-- mysql
-- Ruby On Rails
+  - "Ruby On Rails"
+  - "gems"
+  - "mysql"
+  - "Ruby On Rails"
 date: '2008-07-28T06:00:00Z'
 templateKey: blog-post
 path: "/install-native-mysql-gem-edge-rails-stopped-including-it"

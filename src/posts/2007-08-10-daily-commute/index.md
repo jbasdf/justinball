@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2007/08/10/daily-commute/"
 tags:
-- Cycling
-- cache valley
-- Cycling
+  - "Cycling"
+  - "cache valley"
+  - "Cycling"
 date: '2007-08-10T06:00:00Z'
 templateKey: blog-post
 path: "/daily-commute"

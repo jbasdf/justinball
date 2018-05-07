@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2011/07/10/cycling-in-teton-valley-driggs-id/"
 tags:
-- Cycling
+  - "Cycling"
 date: '2011-07-10T06:00:00Z'
 templateKey: blog-post
 path: "/cycling-in-teton-valley-driggs-id"

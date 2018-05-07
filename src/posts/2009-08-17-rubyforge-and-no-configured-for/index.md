@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2009/08/17/rubyforge-and-no-configured-for/"
 tags:
-- gems
+  - "gems"
 date: '2009-08-17T06:00:00Z'
 templateKey: blog-post
 path: "/rubyforge-and-no-configured-for"

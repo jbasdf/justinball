@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/26/first-ride-on-the-new-madone/"
 tags:
-- COSL
-- Funny
-- Cycling
-- madone
-- trek
-- trek madone 6.9
+  - "COSL"
+  - "Funny"
+  - "Cycling"
+  - "madone"
+  - "trek"
+  - "trek madone 6.9"
 date: '2008-04-26T06:00:00Z'
 templateKey: blog-post
 path: "/first-ride-on-the-new-madone"

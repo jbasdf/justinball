@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2010/12/16/i-have-one-quadrillion-dollars/"
 tags:
-- Funny
+  - "Funny"
 date: '2010-12-16T07:00:00Z'
 templateKey: blog-post
 path: "/i-have-one-quadrillion-dollars"

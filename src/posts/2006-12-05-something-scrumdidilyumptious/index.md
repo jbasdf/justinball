@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2006/12/05/something-scrumdidilyumptious/"
 tags:
-- Programming
-- Ruby On Rails
-- Web2.0
+  - "Programming"
+  - "Ruby On Rails"
+  - "Web2.0"
 date: '2006-12-05T07:00:00Z'
 templateKey: blog-post
 path: "/something-scrumdidilyumptious"

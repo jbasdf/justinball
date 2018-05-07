@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2011/05/14/boomstartup-opening-social/"
 tags:
-- BoomStartup
+  - "BoomStartup"
 date: '2011-05-14T06:00:00Z'
 templateKey: blog-post
 path: "/boomstartup-opening-social"

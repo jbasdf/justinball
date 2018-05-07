@@ -3,13 +3,13 @@ title: Word Press Plugin Development Developing Shortcodes
 author: Justin Ball
 layout: post
 tags:
-- learning
-- lambad
-- word press
-- development
-- developing
-- shortcodes
-- plugin
+  - "learning"
+  - "lambad"
+  - "word press"
+  - "development"
+  - "developing"
+  - "shortcodes"
+  - "plugin"
 date: 2018-01-15T16:04:03.000Z
 templateKey: blog-post
 path: "/Word-Press-Plugin-Development-Developing-Shortcodes"

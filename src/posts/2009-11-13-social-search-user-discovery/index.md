@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2009/11/13/social-search-user-discovery/"
 tags:
-- Programming
-- Social Software
-- recommender
-- social networking
-- social search
-- user discovery
+  - "Programming"
+  - "Social Software"
+  - "recommender"
+  - "social networking"
+  - "social search"
+  - "user discovery"
 date: '2009-11-13T07:00:00Z'
 templateKey: blog-post
 path: "/social-search-user-discovery"

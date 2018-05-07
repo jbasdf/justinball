@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/17/2008-trek-madone-dilema/"
 tags:
-- Cycling
-- 2008
-- 6.9
-- madone
-- project one
-- trek
+  - "Cycling"
+  - "2008"
+  - "6.9"
+  - "madone"
+  - "project one"
+  - "trek"
 date: '2008-04-17T06:00:00Z'
 templateKey: blog-post
 path: "/2008-trek-madone-dilema"

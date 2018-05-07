@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2011/06/28/brew-install-mysql-issue/"
 tags:
-- homebrew
-- mysql
-- ruby
+  - "homebrew"
+  - "mysql"
+  - "ruby"
 date: '2011-06-28T06:00:00Z'
 templateKey: blog-post
 path: "/brew-install-mysql-issue"

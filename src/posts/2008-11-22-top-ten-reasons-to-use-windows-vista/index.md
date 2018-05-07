@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2008/11/22/top-ten-reasons-to-use-windows-vista/"
 tags:
-- Funny
+  - "Funny"
 date: '2008-11-22T07:00:00Z'
 templateKey: blog-post
 path: "/top-ten-reasons-to-use-windows-vista"

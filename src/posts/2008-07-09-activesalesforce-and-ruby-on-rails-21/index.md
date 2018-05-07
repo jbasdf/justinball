@@ -4,13 +4,13 @@ author: Justin Ball
 layout: post
 permalink: "/2008/07/09/activesalesforce-and-ruby-on-rails-21/"
 tags:
-- Ruby On Rails
-- activesalesforce
-- bugs
-- helps
-- Ruby On Rails
-- Salesforce
-- tips
+  - "Ruby On Rails"
+  - "activesalesforce"
+  - "bugs"
+  - "helps"
+  - "Ruby On Rails"
+  - "Salesforce"
+  - "tips"
 date: '2008-07-09T06:00:00Z'
 templateKey: blog-post
 path: "/activesalesforce-and-ruby-on-rails-21"

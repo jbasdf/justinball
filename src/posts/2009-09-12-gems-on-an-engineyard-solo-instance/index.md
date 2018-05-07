@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2009/09/12/gems-on-an-engineyard-solo-instance/"
 tags:
-- engineyard
-- gems
-- Ruby On Rails
-- solo
+  - "engineyard"
+  - "gems"
+  - "Ruby On Rails"
+  - "solo"
 date: '2009-09-12T06:00:00Z'
 templateKey: blog-post
 path: "/gems-on-an-engineyard-solo-instance"

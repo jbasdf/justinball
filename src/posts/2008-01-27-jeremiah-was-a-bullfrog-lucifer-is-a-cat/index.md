@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/27/jeremiah-was-a-bullfrog-lucifer-is-a-cat/"
 tags:
-- Funny
-- Cinderella
-- disney
-- kids
-- Lucifer
-- tv
+  - "Funny"
+  - "Cinderella"
+  - "disney"
+  - "kids"
+  - "Lucifer"
+  - "tv"
 date: '2008-01-27T07:00:00Z'
 templateKey: blog-post
 path: "/jeremiah-was-a-bullfrog-lucifer-is-a-cat"

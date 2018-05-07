@@ -4,8 +4,8 @@ author: Justin Ball
 title: Gifts
 date: '2015-01-04T07:00:00Z'
 tags:
-- Family
-- Friends
+  - "Family"
+  - "Friends"
 templateKey: blog-post
 path: "/gifts"
 description: ''

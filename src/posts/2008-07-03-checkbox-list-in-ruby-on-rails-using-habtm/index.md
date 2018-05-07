@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/07/03/checkbox-list-in-ruby-on-rails-using-habtm/"
 tags:
-- Ruby On Rails
-- checkbox list
-- checkboxes
-- HABTM
-- has and belongs to many
-- Ruby On Rails
+  - "Ruby On Rails"
+  - "checkbox list"
+  - "checkboxes"
+  - "HABTM"
+  - "has and belongs to many"
+  - "Ruby On Rails"
 date: '2008-07-03T06:00:00Z'
 templateKey: blog-post
 path: "/checkbox-list-in-ruby-on-rails-using-habtm"

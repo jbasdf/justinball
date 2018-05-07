@@ -4,14 +4,14 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/11/morph-exchange-review/"
 tags:
-- internet
-- Programming
-- cloud computing
-- engine yard
-- hosting
-- joyent
-- morph exchange
-- mosso
+  - "internet"
+  - "Programming"
+  - "cloud computing"
+  - "engine yard"
+  - "hosting"
+  - "joyent"
+  - "morph exchange"
+  - "mosso"
 date: '2008-04-11T06:00:00Z'
 templateKey: blog-post
 path: "/morph-exchange-review"

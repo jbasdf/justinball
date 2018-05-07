@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2012/12/05/hack-the-lglv5500-into-a-pvr/"
 tags:
-- Hacks
+  - "Hacks"
 date: '2012-12-05T07:00:00Z'
 templateKey: blog-post
 path: "/hack-the-lglv5500-into-a-pvr"

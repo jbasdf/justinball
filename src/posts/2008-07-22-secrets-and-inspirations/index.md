@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/07/22/secrets-and-inspirations/"
 tags:
-- Cycling
-- Cycling
-- inspiration
-- Tour de France
+  - "Cycling"
+  - "Cycling"
+  - "inspiration"
+  - "Tour de France"
 date: '2008-07-22T06:00:00Z'
 templateKey: blog-post
 path: "/secrets-and-inspirations"

@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/10/09/new-apple-laptops-im-so-excited/"
 tags:
-- Computers
-- Funny
-- apple
-- macbook
-- macbook pro
+  - "Computers"
+  - "Funny"
+  - "apple"
+  - "macbook"
+  - "macbook pro"
 date: '2008-10-09T06:00:00Z'
 templateKey: blog-post
 path: "/new-apple-laptops-im-so-excited"

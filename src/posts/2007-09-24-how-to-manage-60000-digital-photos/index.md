@@ -4,13 +4,13 @@ author: Justin Ball
 layout: post
 permalink: "/2007/09/24/how-to-manage-60000-digital-photos/"
 tags:
-- Computers
-- Projects
-- backups
-- digital-photography
-- manage
-- photos
-- storage
+  - "Computers"
+  - "Projects"
+  - "backups"
+  - "digital-photography"
+  - "manage"
+  - "photos"
+  - "storage"
 date: '2007-09-24T06:00:00Z'
 templateKey: blog-post
 path: "/how-to-manage-60000-digital-photos"

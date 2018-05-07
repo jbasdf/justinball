@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/07/24/shoulda-assert_sent_email-and-unreal-users/"
 tags:
-- Ruby On Rails
-- assert_sent_email
-- Ruby On Rails
-- shoulda
+  - "Ruby On Rails"
+  - "assert_sent_email"
+  - "Ruby On Rails"
+  - "shoulda"
 date: '2008-07-24T06:00:00Z'
 templateKey: blog-post
 path: "/shoulda-assert_sent_email-and-unreal-users"

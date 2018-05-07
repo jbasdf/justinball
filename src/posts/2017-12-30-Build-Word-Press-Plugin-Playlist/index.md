@@ -3,9 +3,9 @@ title: Build Word Press Plugin Playlist
 author: Justin Ball
 layout: post
 tags:
-- learning
-- Wordpress
-- plugin
+  - "learning"
+  - "Wordpress"
+  - "plugin"
 date: 2017-12-30T16:30:41.000Z
 templateKey: blog-post
 path: "/Build-Word-Press-Plugin"

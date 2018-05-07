@@ -4,13 +4,13 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/07/top-selling-stuff-on-amazon-brings-tears/"
 tags:
-- Funny
-- Interesting
-- amazon
-- Funny
-- grocery
-- mom
-- sad
+  - "Funny"
+  - "Interesting"
+  - "amazon"
+  - "Funny"
+  - "grocery"
+  - "mom"
+  - "sad"
 date: '2008-01-07T07:00:00Z'
 templateKey: blog-post
 path: "/top-selling-stuff-on-amazon-brings-tears"

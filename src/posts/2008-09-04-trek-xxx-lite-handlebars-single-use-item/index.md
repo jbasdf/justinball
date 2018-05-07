@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/09/04/trek-xxx-lite-handlebars-single-use-item/"
 tags:
-- Cycling
-- Cycling
-- trek madone 6.9
-- trek xxx race lite
+  - "Cycling"
+  - "Cycling"
+  - "trek madone 6.9"
+  - "trek xxx race lite"
 date: '2008-09-04T06:00:00Z'
 templateKey: blog-post
 path: "/trek-xxx-lite-handlebars-single-use-item"

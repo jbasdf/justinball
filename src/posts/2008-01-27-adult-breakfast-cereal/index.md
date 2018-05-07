@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/27/adult-breakfast-cereal/"
 tags:
-- Funny
-- cereal
-- diet
+  - "Funny"
+  - "cereal"
+  - "diet"
 date: '2008-01-27T07:00:00Z'
 templateKey: blog-post
 path: "/adult-breakfast-cereal"

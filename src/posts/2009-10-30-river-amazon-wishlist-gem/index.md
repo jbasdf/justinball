@@ -4,13 +4,13 @@ author: Justin Ball
 layout: post
 permalink: "/2009/10/30/river-amazon-wishlist-gem/"
 tags:
-- Programming
-- amazon
-- amazon wishlist
-- gem
-- river
-- ruby
-- Ruby On Rails
+  - "Programming"
+  - "amazon"
+  - "amazon wishlist"
+  - "gem"
+  - "river"
+  - "ruby"
+  - "Ruby On Rails"
 date: '2009-10-30T06:00:00Z'
 templateKey: blog-post
 path: "/river-amazon-wishlist-gem"

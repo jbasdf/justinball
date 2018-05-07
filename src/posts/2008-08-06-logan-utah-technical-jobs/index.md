@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/08/06/logan-utah-technical-jobs/"
 tags:
-- jobs
-- jobs
-- logan
-- tech
-- utah
+  - "jobs"
+  - "jobs"
+  - "logan"
+  - "tech"
+  - "utah"
 date: '2008-08-06T06:00:00Z'
 templateKey: blog-post
 path: "/logan-utah-technical-jobs"

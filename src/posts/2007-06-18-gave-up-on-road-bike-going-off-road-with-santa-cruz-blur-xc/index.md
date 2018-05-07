@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/06/18/gave-up-on-road-bike-going-off-road-with-santa-cruz-blur-xc/"
 tags:
-- Cycling
-- Cycling
-- mountain bike
-- santa cruz blur xc
+  - "Cycling"
+  - "Cycling"
+  - "mountain bike"
+  - "santa cruz blur xc"
 date: '2007-06-18T06:00:00Z'
 templateKey: blog-post
 path: "/gave-up-on-road-bike-going-off-road-with-santa-cruz-blur-xc"

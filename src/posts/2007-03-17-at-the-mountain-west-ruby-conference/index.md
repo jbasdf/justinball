@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2007/03/17/at-the-mountain-west-ruby-conference/"
 tags:
-- mtnwestrubyconf
-- mtnwestrubyconf
+  - "mtnwestrubyconf"
+  - "mtnwestrubyconf"
 date: '2007-03-17T06:00:00Z'
 templateKey: blog-post
 path: "/at-the-mountain-west-ruby-conference"

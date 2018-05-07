@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/02/make-facebook-butt-out/"
 tags:
-- Social Software
-- advertising
-- facebook
-- privacy
+  - "Social Software"
+  - "advertising"
+  - "facebook"
+  - "privacy"
 date: '2008-04-02T06:00:00Z'
 templateKey: blog-post
 path: "/make-facebook-butt-out"

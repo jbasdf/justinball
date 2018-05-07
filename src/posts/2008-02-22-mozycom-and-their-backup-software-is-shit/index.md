@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/22/mozycom-and-their-backup-software-is-shit/"
 tags:
-- Computers
-- Programming
-- backup software
-- mozy
-- servers
-- windows
+  - "Computers"
+  - "Programming"
+  - "backup software"
+  - "mozy"
+  - "servers"
+  - "windows"
 date: '2008-02-22T07:00:00Z'
 templateKey: blog-post
 path: "/mozycom-and-their-backup-software-is-shit"

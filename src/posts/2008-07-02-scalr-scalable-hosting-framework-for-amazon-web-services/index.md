@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/07/02/scalr-scalable-hosting-framework-for-amazon-web-services/"
 tags:
-- hosting
-- internet
-- cloud computing
-- hosting
+  - "hosting"
+  - "internet"
+  - "cloud computing"
+  - "hosting"
 date: '2008-07-02T06:00:00Z'
 templateKey: blog-post
 path: "/scalr-scalable-hosting-framework-for-amazon-web-services"

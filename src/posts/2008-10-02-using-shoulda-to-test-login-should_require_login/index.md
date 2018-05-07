@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/10/02/using-shoulda-to-test-login-should_require_login/"
 tags:
-- Ruby On Rails
-- Ruby On Rails
-- shoulda
-- testing
+  - "Ruby On Rails"
+  - "Ruby On Rails"
+  - "shoulda"
+  - "testing"
 date: '2008-10-02T06:00:00Z'
 templateKey: blog-post
 path: "/using-shoulda-to-test-login-should_require_login"

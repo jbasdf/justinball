@@ -4,13 +4,13 @@ author: Justin Ball
 layout: post
 permalink: "/2007/09/17/flickr-as-web-20-bla-the-soviets-were-like-nuke-20-way-back-in-the-70s/"
 tags:
-- Interesting
-- Neat Stuff
-- doom
-- dr strangelove
-- nuclear weapons
-- soviet union
-- Web2.0
+  - "Interesting"
+  - "Neat Stuff"
+  - "doom"
+  - "dr strangelove"
+  - "nuclear weapons"
+  - "soviet union"
+  - "Web2.0"
 date: '2007-09-17T06:00:00Z'
 templateKey: blog-post
 path: "/flickr-as-web-20-bla-the-soviets-were-like-nuke-20-way-back-in-the-70s"

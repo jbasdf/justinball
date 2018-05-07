@@ -4,10 +4,10 @@ author: Justin Ball
 title: Maker Faire
 date: '2016-05-21T06:00:00Z'
 tags:
-- Maker
-- Conference
-- Maker Faire
-- Family
+  - "Maker"
+  - "Conference"
+  - "Maker Faire"
+  - "Family"
 templateKey: blog-post
 path: "/maker-faire"
 description: ''

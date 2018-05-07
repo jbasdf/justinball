@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2009/06/05/stupid-wtf-actionviewmissingtemplate-exception-missing-template-users_usererb/"
 tags:
-- Ruby On Rails
-- ActionView::MissingTemplate
-- errors
-- Ruby On Rails
-- templates
-- tips
+  - "Ruby On Rails"
+  - "ActionView::MissingTemplate"
+  - "errors"
+  - "Ruby On Rails"
+  - "templates"
+  - "tips"
 date: '2009-06-05T06:00:00Z'
 templateKey: blog-post
 path: "/stupid-wtf-actionviewmissingtemplate-exception-missing-template-users_usererb"

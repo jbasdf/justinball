@@ -2,7 +2,7 @@
 title: Spring Break In the Redwoods
 author: Justin Ball
 tags:
-- family
+  - "family"
 date: 2018-04-08T10:00:00.000Z
 templateKey: blog-post
 path: "/spring-break-in-the-redwoods"

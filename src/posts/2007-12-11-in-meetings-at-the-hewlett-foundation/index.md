@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/12/11/in-meetings-at-the-hewlett-foundation/"
 tags:
-- Interesting
-- Meetings
-- OER
-- OpenContent
+  - "Interesting"
+  - "Meetings"
+  - "OER"
+  - "OpenContent"
 date: '2007-12-11T07:00:00Z'
 templateKey: blog-post
 path: "/in-meetings-at-the-hewlett-foundation"

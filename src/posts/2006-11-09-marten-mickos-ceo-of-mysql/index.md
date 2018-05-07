@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2006/11/09/marten-mickos-ceo-of-mysql/"
 tags:
-- Web2.0
-- web2con2006
+  - "Web2.0"
+  - "web2con2006"
 date: '2006-11-09T07:00:00Z'
 templateKey: blog-post
 path: "/marten-mickos-ceo-of-mysql"

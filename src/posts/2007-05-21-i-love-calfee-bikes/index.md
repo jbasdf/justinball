@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2007/05/21/i-love-calfee-bikes/"
 tags:
-- Cycling
-- calfee
-- carl strong
-- colnago
-- Cycling
-- time vxr
+  - "Cycling"
+  - "calfee"
+  - "carl strong"
+  - "colnago"
+  - "Cycling"
+  - "time vxr"
 date: '2007-05-21T06:00:00Z'
 templateKey: blog-post
 path: "/i-love-calfee-bikes"

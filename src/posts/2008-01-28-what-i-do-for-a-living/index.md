@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/28/what-i-do-for-a-living/"
 tags:
-- COSL
-- Cisco
-- COSL
-- Middle East
-- MYTecC
-- Teachers Without Borders
+  - "COSL"
+  - "Cisco"
+  - "COSL"
+  - "Middle East"
+  - "MYTecC"
+  - "Teachers Without Borders"
 date: '2008-01-28T07:00:00Z'
 templateKey: blog-post
 path: "/what-i-do-for-a-living"

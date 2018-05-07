@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/07/02/snakes-in-the-grass/"
 tags:
-- Interesting
-- garden
-- garter snake
-- snakes
+  - "Interesting"
+  - "garden"
+  - "garter snake"
+  - "snakes"
 date: '2008-07-02T06:00:00Z'
 templateKey: blog-post
 path: "/snakes-in-the-grass"

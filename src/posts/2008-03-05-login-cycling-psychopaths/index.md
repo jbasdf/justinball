@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/05/login-cycling-psychopaths/"
 tags:
-- Cycling
-- Cycling
-- logan
-- racing
+  - "Cycling"
+  - "Cycling"
+  - "logan"
+  - "racing"
 date: '2008-03-05T07:00:00Z'
 templateKey: blog-post
 path: "/login-cycling-psychopaths"

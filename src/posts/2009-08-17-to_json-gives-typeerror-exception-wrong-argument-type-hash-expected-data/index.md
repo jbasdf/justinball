@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2009/08/17/to_json-gives-typeerror-exception-wrong-argument-type-hash-expected-data/"
 tags:
-- Ruby On Rails
-- to_json
+  - "Ruby On Rails"
+  - "to_json"
 date: '2009-08-17T06:00:00Z'
 templateKey: blog-post
 path: "/to_json-gives-typeerror-exception-wrong-argument-type-hash-expected-data"

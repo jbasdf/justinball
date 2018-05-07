@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2010/09/18/shoulda-used-rspec/"
 tags:
-- Ruby On Rails
-- cucumber
-- rails
-- rspec
-- shoulda
+  - "Ruby On Rails"
+  - "cucumber"
+  - "rails"
+  - "rspec"
+  - "shoulda"
 date: '2010-09-18T06:00:00Z'
 templateKey: blog-post
 path: "/shoulda-used-rspec"

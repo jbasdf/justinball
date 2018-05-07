@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/26/the-cosl-guys-are-disgusting/"
 tags:
-- COSL
-- Funny
-- bacon
-- chocolate
-- disgusting
+  - "COSL"
+  - "Funny"
+  - "bacon"
+  - "chocolate"
+  - "disgusting"
 date: '2008-02-26T07:00:00Z'
 templateKey: blog-post
 path: "/the-cosl-guys-are-disgusting"

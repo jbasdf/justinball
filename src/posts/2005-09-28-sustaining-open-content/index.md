@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2005/09/28/"
 tags:
-- Education
+  - "Education"
 date: '2005-09-28T06:00:00Z'
 templateKey: blog-post
 path: "/sustaining-open-content"

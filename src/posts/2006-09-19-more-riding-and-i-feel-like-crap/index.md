@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2006/09/19/more-riding-and-i-feel-like-crap/"
 tags:
-- Cycling
+  - "Cycling"
 date: '2006-09-19T06:00:00Z'
 templateKey: blog-post
 path: "/more-riding-and-i-feel-like-crap"

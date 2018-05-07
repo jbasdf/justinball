@@ -3,9 +3,9 @@ title: GraphQL Apollo
 author: Justin Ball
 layout: post
 tags:
-- learning
-- graph ql
-- apollo
+  - "learning"
+  - "graph ql"
+  - "apollo"
 date: 2018-01-19T15:31:30.000Z
 templateKey: blog-post
 path: "/Graph-Ql-Apollo"

@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/03/buddy-press-activity/"
 tags:
-- Wordpress
-- buddypress
-- microformats
-- Wordpress
+  - "Wordpress"
+  - "buddypress"
+  - "microformats"
+  - "Wordpress"
 date: '2008-04-03T06:00:00Z'
 templateKey: blog-post
 path: "/buddy-press-activity"

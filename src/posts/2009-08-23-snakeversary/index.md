@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2009/08/23/snakeversary/"
 tags:
-- Cycling
-- knee
-- rattlesnake
-- snakes
+  - "Cycling"
+  - "knee"
+  - "rattlesnake"
+  - "snakes"
 date: '2009-08-23T06:00:00Z'
 templateKey: blog-post
 path: "/snakeversary"

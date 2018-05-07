@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/01/email-sucks/"
 tags:
-- Computers
-- internet
-- Waste of Time
-- email
+  - "Computers"
+  - "internet"
+  - "Waste of Time"
+  - "email"
 date: '2008-02-01T07:00:00Z'
 templateKey: blog-post
 path: "/email-sucks"

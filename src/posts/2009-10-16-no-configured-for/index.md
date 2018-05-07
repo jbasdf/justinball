@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2009/10/16/no-configured-for/"
 tags:
-- Ruby On Rails
-- gems ruby on rails
-- jeweler
-- ruby
+  - "Ruby On Rails"
+  - "gems ruby on rails"
+  - "jeweler"
+  - "ruby"
 date: '2009-10-16T06:00:00Z'
 templateKey: blog-post
 path: "/no-configured-for"

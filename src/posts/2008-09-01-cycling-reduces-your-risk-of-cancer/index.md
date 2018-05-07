@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/09/01/cycling-reduces-your-risk-of-cancer/"
 tags:
-- Cycling
-- Funny
-- cancer
-- Cycling
-- health
-- rattlesnake
+  - "Cycling"
+  - "Funny"
+  - "cancer"
+  - "Cycling"
+  - "health"
+  - "rattlesnake"
 date: '2008-09-01T06:00:00Z'
 templateKey: blog-post
 path: "/cycling-reduces-your-risk-of-cancer"

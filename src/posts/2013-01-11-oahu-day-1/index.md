@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2013/01/11/oahu-day-1/"
 tags:
-- Fun Stuff
-- Vacation
-- Oahu
-- Hawaii
+  - "Fun Stuff"
+  - "Vacation"
+  - "Oahu"
+  - "Hawaii"
 date: '2013-01-11T07:00:00Z'
 templateKey: blog-post
 path: "/oahu-day-1"

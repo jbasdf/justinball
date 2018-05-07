@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2010/05/26/dont-upgrade-to-rails-2-3-8-unless-you-really-mean-it/"
 tags:
-- ruby
-- Ruby On Rails
+  - "ruby"
+  - "Ruby On Rails"
 date: '2010-05-26T06:00:00Z'
 templateKey: blog-post
 path: "/dont-upgrade-to-rails-2-3-8-unless-you-really-mean-it"

@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2009/07/08/jquery-ajax-get-in-firefox-post-in-internet-explorer/"
 tags:
-- Programming
-- Ruby On Rails
-- ajax
-- jQuery
-- Ruby On Rails
+  - "Programming"
+  - "Ruby On Rails"
+  - "ajax"
+  - "jQuery"
+  - "Ruby On Rails"
 date: '2009-07-08T06:00:00Z'
 templateKey: blog-post
 path: "/jquery-ajax-get-in-firefox-post-in-internet-explorer"

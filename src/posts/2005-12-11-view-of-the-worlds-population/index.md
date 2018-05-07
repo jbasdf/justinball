@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2005/12/11/view-of-the-worlds-population/"
 tags:
-- Neat Stuff
+  - "Neat Stuff"
 date: '2005-12-11T07:00:00Z'
 templateKey: blog-post
 path: "/view-of-the-worlds-population"

@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/03/the-liahona-makes-wired/"
 tags:
-- gadgets
-- gadgets
-- lds
-- Liahona
-- Wired
+  - "gadgets"
+  - "gadgets"
+  - "lds"
+  - "Liahona"
+  - "Wired"
 date: '2008-02-03T07:00:00Z'
 templateKey: blog-post
 path: "/the-liahona-makes-wired"

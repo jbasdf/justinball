@@ -4,15 +4,15 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/05/disposable-communities/"
 tags:
-- Web2.0
-- Wordpress
-- communities
-- disposable
-- freedom
-- open source
-- Social Software
-- Web2.0
-- Wordpress
+  - "Web2.0"
+  - "Wordpress"
+  - "communities"
+  - "disposable"
+  - "freedom"
+  - "open source"
+  - "Social Software"
+  - "Web2.0"
+  - "Wordpress"
 date: '2008-03-05T07:00:00Z'
 templateKey: blog-post
 path: "/disposable-communities"

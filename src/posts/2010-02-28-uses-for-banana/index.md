@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2010/02/28/uses-for-banana/"
 tags:
-- Funny
-- Devin
+  - "Funny"
+  - "Devin"
 date: '2010-02-28T07:00:00Z'
 templateKey: blog-post
 path: "/uses-for-banana"

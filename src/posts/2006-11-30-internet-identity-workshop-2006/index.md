@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2006/11/30/internet-identity-workshop-2006/"
 tags:
-- iiw2006b
+  - "iiw2006b"
 date: '2006-11-30T07:00:00Z'
 templateKey: blog-post
 path: "/internet-identity-workshop-2006"

@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2009/02/20/the-pro-bikers-dont-do-this/"
 tags:
-- Funny
-- Funny
-- madone
-- trek
+  - "Funny"
+  - "Funny"
+  - "madone"
+  - "trek"
 date: '2009-02-20T07:00:00Z'
 templateKey: blog-post
 path: "/the-pro-bikers-dont-do-this"

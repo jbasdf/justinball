@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2008/08/27/found-some-stuff/"
 tags:
-- Interesting
-- stuff
+  - "Interesting"
+  - "stuff"
 date: '2008-08-27T06:00:00Z'
 templateKey: blog-post
 path: "/found-some-stuff"

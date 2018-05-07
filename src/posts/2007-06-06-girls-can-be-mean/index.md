@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2007/06/06/girls-can-be-mean/"
 tags:
-- Alyssa
-- Aubrey
-- kids
+  - "Alyssa"
+  - "Aubrey"
+  - "kids"
 date: '2007-06-06T06:00:00Z'
 templateKey: blog-post
 path: "/girls-can-be-mean"

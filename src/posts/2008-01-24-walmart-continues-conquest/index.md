@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/24/walmart-continues-conquest/"
 tags:
-- business
-- SEO
-- walmart
+  - "business"
+  - "SEO"
+  - "walmart"
 date: '2008-01-24T07:00:00Z'
 templateKey: blog-post
 path: "/walmart-continues-conquest"

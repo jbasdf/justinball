@@ -7,11 +7,11 @@ author: Justin Ball
 layout: post
 permalink: "/2007/05/18/rails-conf-intro-from-chad-fowler-and-some-stuff-from-the-mountain-west-ruby-conference/"
 tags:
-- mtnwestrubyconf
-- RailsConf
-- RailsConf07
-- RailsConf07
-- Ruby On Rails
+  - "mtnwestrubyconf"
+  - "RailsConf"
+  - "RailsConf07"
+  - "RailsConf07"
+  - "Ruby On Rails"
 date: '2007-05-18T06:00:00Z'
 templateKey: blog-post
 path: "/rails-conf-intro-from-chad-fowler-and-some-stuff-from-the-mountain-west-ruby-conference"

@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2012/10/04/logan-canyon-bridger-lookout/"
 tags:
-- Autumn
-- Cycling
-- Logan Canyon
+  - "Autumn"
+  - "Cycling"
+  - "Logan Canyon"
 date: '2012-10-04T06:00:00Z'
 templateKey: blog-post
 path: "/logan-canyon-bridger-lookout"

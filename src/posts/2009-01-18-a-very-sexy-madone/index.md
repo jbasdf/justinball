@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2009/01/18/a-very-sexy-madone/"
 tags:
-- Funny
-- Cycling
-- Lance Armstrong
-- madone
-- trek
+  - "Funny"
+  - "Cycling"
+  - "Lance Armstrong"
+  - "madone"
+  - "trek"
 date: '2009-01-18T07:00:00Z'
 templateKey: blog-post
 path: "/a-very-sexy-madone"

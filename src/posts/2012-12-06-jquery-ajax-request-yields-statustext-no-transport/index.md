@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2012/12/06/jquery-ajax-request-yields-statustext-no-transport/"
 tags:
-- Javascript
-- jQuery
-- Programming
-- Ruby
-- Ruby On Rails
+  - "Javascript"
+  - "jQuery"
+  - "Programming"
+  - "Ruby"
+  - "Ruby On Rails"
 date: '2012-12-06T07:00:00Z'
 templateKey: blog-post
 path: "/jquery-ajax-request-yields-statustext-no-transport"

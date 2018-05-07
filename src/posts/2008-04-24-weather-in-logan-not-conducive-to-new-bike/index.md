@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/24/weather-in-logan-not-conducive-to-new-bike/"
 tags:
-- Cycling
-- Cycling
-- logan
-- new bike
-- snow
-- utah
+  - "Cycling"
+  - "Cycling"
+  - "logan"
+  - "new bike"
+  - "snow"
+  - "utah"
 date: '2008-04-24T06:00:00Z'
 templateKey: blog-post
 path: "/weather-in-logan-not-conducive-to-new-bike"

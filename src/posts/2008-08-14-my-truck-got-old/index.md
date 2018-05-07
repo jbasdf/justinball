@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/08/14/my-truck-got-old/"
 tags:
-- Funny
-- pickup
-- time
+  - "Funny"
+  - "pickup"
+  - "time"
 date: '2008-08-14T06:00:00Z'
 templateKey: blog-post
 path: "/my-truck-got-old"

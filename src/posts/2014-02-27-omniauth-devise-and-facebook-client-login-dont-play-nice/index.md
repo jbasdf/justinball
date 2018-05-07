@@ -4,10 +4,10 @@ author: Justin Ball
 title: Omniauth, Devise and Facebook Client Login Don't Play Nice
 date: '2014-02-27T07:00:00Z'
 tags:
-- javascript
-- facebook
-- omniauth
-- ruby
+  - "javascript"
+  - "facebook"
+  - "omniauth"
+  - "ruby"
 templateKey: blog-post
 path: "/omniauth-devise-and-facebook-client-login-dont-play-nice"
 description: ''

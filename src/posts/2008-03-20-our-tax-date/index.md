@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/20/our-tax-date/"
 tags:
-- Family
-- Funny
-- date
-- Funny
-- romantic
+  - "Family"
+  - "Funny"
+  - "date"
+  - "Funny"
+  - "romantic"
 date: '2008-03-20T06:00:00Z'
 templateKey: blog-post
 path: "/our-tax-date"

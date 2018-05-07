@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2011/08/26/pushing-my-luck-with-jquery-scope-matters/"
 tags:
-- Javascript
-- jQuery
+  - "Javascript"
+  - "jQuery"
 date: '2011-08-26T06:00:00Z'
 templateKey: blog-post
 path: "/pushing-my-luck-with-jquery-scope-matters"

@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/15/a-favorite-house-plan/"
 tags:
-- House Stuff
-- The Plan Collection
-- house plans
+  - "House Stuff"
+  - "The Plan Collection"
+  - "house plans"
 date: '2008-01-15T07:00:00Z'
 templateKey: blog-post
 path: "/a-favorite-house-plan"

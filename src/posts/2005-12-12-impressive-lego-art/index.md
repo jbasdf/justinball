@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2005/12/12/impressive-lego-art/"
 tags:
-- Neat Stuff
+  - "Neat Stuff"
 date: '2005-12-12T07:00:00Z'
 templateKey: blog-post
 path: "/impressive-lego-art"

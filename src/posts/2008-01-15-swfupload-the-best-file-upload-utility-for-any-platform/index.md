@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/15/swfupload-the-best-file-upload-utility-for-any-platform/"
 tags:
-- Programming
-- Ruby On Rails
-- file uploads
-- Ruby On Rails
-- web development
+  - "Programming"
+  - "Ruby On Rails"
+  - "file uploads"
+  - "Ruby On Rails"
+  - "web development"
 date: '2008-01-15T07:00:00Z'
 templateKey: blog-post
 path: "/swfupload-the-best-file-upload-utility-for-any-platform"

@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2011/02/08/converting-a-jquery-object-into-a-string/"
 tags:
-- Javascript
-- jQuery
+  - "Javascript"
+  - "jQuery"
 date: '2011-02-08T07:00:00Z'
 templateKey: blog-post
 path: "/converting-a-jquery-object-into-a-string"

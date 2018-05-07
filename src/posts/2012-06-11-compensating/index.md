@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2012/06/11/compensating/"
 tags:
-- Fun Stuff
-- Funny
-- California
-- vacation
+  - "Fun Stuff"
+  - "Funny"
+  - "California"
+  - "vacation"
 date: '2012-06-11T06:00:00Z'
 templateKey: blog-post
 path: "/compensating"

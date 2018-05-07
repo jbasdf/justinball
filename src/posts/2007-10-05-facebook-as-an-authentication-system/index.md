@@ -4,13 +4,13 @@ author: Justin Ball
 layout: post
 permalink: "/2007/10/05/facebook-as-an-authentication-system/"
 tags:
-- Social Software
-- The Web
-- Web2.0
-- Authentication
-- OpenID
-- Social Software
-- Web2.0
+  - "Social Software"
+  - "The Web"
+  - "Web2.0"
+  - "Authentication"
+  - "OpenID"
+  - "Social Software"
+  - "Web2.0"
 date: '2007-10-05T06:00:00Z'
 templateKey: blog-post
 path: "/facebook-as-an-authentication-system"

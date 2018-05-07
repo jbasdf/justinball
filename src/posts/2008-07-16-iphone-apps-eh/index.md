@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/07/16/iphone-apps-eh/"
 tags:
-- iPhone
-- applications
-- iPhone
+  - "iPhone"
+  - "applications"
+  - "iPhone"
 date: '2008-07-16T06:00:00Z'
 templateKey: blog-post
 path: "/iphone-apps-eh"

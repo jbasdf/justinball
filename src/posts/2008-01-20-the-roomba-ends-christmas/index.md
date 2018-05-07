@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/20/the-roomba-ends-christmas/"
 tags:
-- Fun Stuff
-- Christmas
-- poinsettia
-- roomba
+  - "Fun Stuff"
+  - "Christmas"
+  - "poinsettia"
+  - "roomba"
 date: '2008-01-20T07:00:00Z'
 templateKey: blog-post
 path: "/the-roomba-ends-christmas"

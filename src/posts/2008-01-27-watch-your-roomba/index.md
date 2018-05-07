@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/27/watch-your-roomba/"
 tags:
-- Funny
-- roomba
+  - "Funny"
+  - "roomba"
 date: '2008-01-27T07:00:00Z'
 templateKey: blog-post
 path: "/watch-your-roomba"

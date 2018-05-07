@@ -4,9 +4,9 @@ author: Justin Ball
 title: Session timeout for your Ember application
 date: '2014-01-02T07:00:00Z'
 tags:
-- Ember
-- Javascript
-- Programming
+  - "Ember"
+  - "Javascript"
+  - "Programming"
 templateKey: blog-post
 path: "/session-timeout-for-your-ember-application"
 description: ''

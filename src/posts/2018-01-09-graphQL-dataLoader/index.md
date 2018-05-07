@@ -3,9 +3,9 @@ title: GraphQL DataLoader
 author: Justin Ball
 layout: post
 tags:
-- learning
-- graphql
-- dataloader
+  - "learning"
+  - "graphql"
+  - "dataloader"
 date: 2018-01-09T16:30:24.000Z
 templateKey: blog-post
 path: "/graphql-dataloader"

@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2009/12/28/what-i-got-for-christmas-this-year/"
 tags:
-- friends
-- Christmas
-- Family
+  - "friends"
+  - "Christmas"
+  - "Family"
 date: '2009-12-28T07:00:00Z'
 templateKey: blog-post
 path: "/what-i-got-for-christmas-this-year"

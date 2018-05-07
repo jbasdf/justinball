@@ -3,13 +3,13 @@ title: Ethereum, ERC20 Tokens and ICOs
 author: Justin Ball
 layout: post
 tags:
-- learning
-- product: web
-- Chrome
-- Google
-- Web
-- tutorial
-- development
+  - "learning"
+  - "product: web"
+  - "Chrome"
+  - "Google"
+  - "Web"
+  - "tutorial"
+  - "development"
 date: 2018-01-09T16:30:24.000Z
 templateKey: blog-post
 path: "/ethereum-erc20-tokens-and-icos"

@@ -4,13 +4,13 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/20/utah-flat-tax/"
 tags:
-- Interesting
-- Political
-- flat tax
-- tax
-- utah
-- utah government
-- utah senate
+  - "Interesting"
+  - "Political"
+  - "flat tax"
+  - "tax"
+  - "utah"
+  - "utah government"
+  - "utah senate"
 date: '2008-03-20T06:00:00Z'
 templateKey: blog-post
 path: "/utah-flat-tax"

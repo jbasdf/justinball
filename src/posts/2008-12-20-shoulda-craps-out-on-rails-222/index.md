@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/12/20/shoulda-craps-out-on-rails-222/"
 tags:
-- Funny
-- Ruby On Rails
-- shoulda
+  - "Funny"
+  - "Ruby On Rails"
+  - "shoulda"
 date: '2008-12-20T07:00:00Z'
 templateKey: blog-post
 path: "/shoulda-craps-out-on-rails-222"

@@ -3,9 +3,9 @@ title: GraphQL and the React Router.
 author: Justin Ball
 layout: post
 tags:
-- learning
-- graphql
-- react router
+  - "learning"
+  - "graphql"
+  - "react router"
 date: 2017-11-07T19:06:45.000Z
 templateKey: blog-post
 path: "/GraphQL-Protect-Mutations-Queries-React-Router"

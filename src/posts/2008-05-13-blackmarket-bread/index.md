@@ -4,15 +4,15 @@ author: Justin Ball
 layout: post
 permalink: "/2008/05/13/blackmarket-bread/"
 tags:
-- economy
-- Interesting
-- Political
-- Egypt
-- energy
-- fuel
-- poverty
-- protests
-- starvation
+  - "economy"
+  - "Interesting"
+  - "Political"
+  - "Egypt"
+  - "energy"
+  - "fuel"
+  - "poverty"
+  - "protests"
+  - "starvation"
 date: '2008-05-13T06:00:00Z'
 templateKey: blog-post
 path: "/blackmarket-bread"

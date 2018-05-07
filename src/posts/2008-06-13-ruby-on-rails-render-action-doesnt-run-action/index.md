@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/06/13/ruby-on-rails-render-action-doesnt-run-action/"
 tags:
-- Ruby On Rails
-- render
-- Ruby On Rails
+  - "Ruby On Rails"
+  - "render"
+  - "Ruby On Rails"
 date: '2008-06-13T06:00:00Z'
 templateKey: blog-post
 path: "/ruby-on-rails-render-action-doesnt-run-action"

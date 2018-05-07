@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2009/12/24/using-the-oauth-and-oauth-plugin-gems/"
 tags:
-- Oauth
-- oauth-plugin
-- Ruby On Rails
+  - "Oauth"
+  - "oauth-plugin"
+  - "Ruby On Rails"
 date: '2009-12-24T07:00:00Z'
 templateKey: blog-post
 path: "/using-the-oauth-and-oauth-plugin-gems"

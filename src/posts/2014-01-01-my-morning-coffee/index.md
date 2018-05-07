@@ -4,7 +4,7 @@ author: Justin Ball
 title: My Morning Coffee
 date: '2014-01-01T07:00:00Z'
 tags:
-- Funny
+  - "Funny"
 templateKey: blog-post
 path: "/my-morning-coffee"
 description: ''

@@ -3,9 +3,9 @@ title: Blockchain and Hashgraph
 author: Justin Ball
 layout: post
 tags:
-- learning
-- blockchain
-- hashgraph
+  - "learning"
+  - "blockchain"
+  - "hashgraph"
 date: 2017-12-30T03:56:15.000Z
 templateKey: blog-post
 path: "/blockchain-and-hashgraph"

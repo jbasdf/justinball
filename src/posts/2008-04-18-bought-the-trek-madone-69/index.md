@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/18/bought-the-trek-madone-69/"
 tags:
-- Cycling
-- 2008 Trek Madone
-- 6.9
-- Cycling
-- madone
-- trek
+  - "Cycling"
+  - "2008 Trek Madone"
+  - "6.9"
+  - "Cycling"
+  - "madone"
+  - "trek"
 date: '2008-04-18T06:00:00Z'
 templateKey: blog-post
 path: "/bought-the-trek-madone-69"

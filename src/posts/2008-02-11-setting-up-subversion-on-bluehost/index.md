@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/11/setting-up-subversion-on-bluehost/"
 tags:
-- Programming
-- 64bit
-- bluehost
-- subversion
+  - "Programming"
+  - "64bit"
+  - "bluehost"
+  - "subversion"
 date: '2008-02-11T07:00:00Z'
 templateKey: blog-post
 path: "/setting-up-subversion-on-bluehost"

@@ -3,8 +3,8 @@ title: GraphQL Summit 2017
 author: Justin Ball
 layout: post
 tags:
-- learning
-- graphql
+  - "learning"
+  - "graphql"
 date: 2018-01-17T15:16:38.000Z
 templateKey: blog-post
 path: "/Graph-Ql-Summit-2017"

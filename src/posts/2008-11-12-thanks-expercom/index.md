@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/11/12/thanks-expercom/"
 tags:
-- Funny
-- apple
-- expercom
-- warranty
+  - "Funny"
+  - "apple"
+  - "expercom"
+  - "warranty"
 date: '2008-11-12T07:00:00Z'
 templateKey: blog-post
 path: "/thanks-expercom"

@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2011/07/05/upgrade-to-mysql-5-5-12-and-now-mysql-wont-start/"
 tags:
-- Programming
-- mysql
+  - "Programming"
+  - "mysql"
 date: '2011-07-05T06:00:00Z'
 templateKey: blog-post
 path: "/upgrade-to-mysql-5-5-12-and-now-mysql-wont-start"

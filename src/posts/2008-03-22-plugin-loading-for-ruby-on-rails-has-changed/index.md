@@ -4,13 +4,13 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/22/plugin-loading-for-ruby-on-rails-has-changed/"
 tags:
-- Programming
-- Ruby On Rails
-- Authentication
-- errors
-- OpenID
-- plugins
-- Ruby On Rails
+  - "Programming"
+  - "Ruby On Rails"
+  - "Authentication"
+  - "errors"
+  - "OpenID"
+  - "plugins"
+  - "Ruby On Rails"
 date: '2008-03-22T06:00:00Z'
 templateKey: blog-post
 path: "/plugin-loading-for-ruby-on-rails-has-changed"

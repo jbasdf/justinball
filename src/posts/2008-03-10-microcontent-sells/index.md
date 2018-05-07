@@ -4,11 +4,11 @@ author: callie
 layout: post
 permalink: "/2008/03/10/microcontent-sells/"
 tags:
-- business
-- ideas
-- microcontent
-- music
-- OpenContent
+  - "business"
+  - "ideas"
+  - "microcontent"
+  - "music"
+  - "OpenContent"
 date: '2008-03-10T06:00:00Z'
 templateKey: blog-post
 path: "/microcontent-sells"

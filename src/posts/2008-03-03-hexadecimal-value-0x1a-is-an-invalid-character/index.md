@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/03/hexadecimal-value-0x1a-is-an-invalid-character/"
 tags:
-- Programming
-- ASP.Net
-- encoding
-- xml
+  - "Programming"
+  - "ASP.Net"
+  - "encoding"
+  - "xml"
 date: '2008-03-03T07:00:00Z'
 templateKey: blog-post
 path: "/hexadecimal-value-0x1a-is-an-invalid-character"

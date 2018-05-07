@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/11/12/264/"
 tags:
-- Programming
-- Ruby On Rails
-- errors
-- Ruby On Rails
+  - "Programming"
+  - "Ruby On Rails"
+  - "errors"
+  - "Ruby On Rails"
 date: '2007-11-12T07:00:00Z'
 templateKey: blog-post
 path: "/264"

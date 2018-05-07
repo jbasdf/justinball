@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2006/12/05/newbs-impressions-of-digital-identity/"
 tags:
-- iiw2006b
+  - "iiw2006b"
 date: '2006-12-05T07:00:00Z'
 templateKey: blog-post
 path: "/newbs-impressions-of-digital-identity"

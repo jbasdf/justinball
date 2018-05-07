@@ -4,13 +4,13 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/01/buddypress/"
 tags:
-- Social Software
-- Web2.0
-- Wordpress
-- buddypress
-- socialsoftware
-- Web2.0
-- Wordpress
+  - "Social Software"
+  - "Web2.0"
+  - "Wordpress"
+  - "buddypress"
+  - "socialsoftware"
+  - "Web2.0"
+  - "Wordpress"
 date: '2008-04-01T06:00:00Z'
 templateKey: blog-post
 path: "/buddypress"

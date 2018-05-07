@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2008/11/11/words-fail-me/"
 tags:
-- Funny
-- Interesting
+  - "Funny"
+  - "Interesting"
 date: '2008-11-11T07:00:00Z'
 templateKey: blog-post
 path: "/words-fail-me"

@@ -4,16 +4,16 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/03/utah-wordpress-meetup/"
 tags:
-- Community
-- Interesting
-- internet
-- Programming
-- Social Software
-- The Web
-- Web2.0
-- Matt Mullenweg
-- utah
-- Wordpress
+  - "Community"
+  - "Interesting"
+  - "internet"
+  - "Programming"
+  - "Social Software"
+  - "The Web"
+  - "Web2.0"
+  - "Matt Mullenweg"
+  - "utah"
+  - "Wordpress"
 date: '2008-02-03T07:00:00Z'
 templateKey: blog-post
 path: "/utah-wordpress-meetup"

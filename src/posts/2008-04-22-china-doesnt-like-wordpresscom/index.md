@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/22/china-doesnt-like-wordpresscom/"
 tags:
-- Wordpress
-- china
-- great firewall
+  - "Wordpress"
+  - "china"
+  - "great firewall"
 date: '2008-04-22T06:00:00Z'
 templateKey: blog-post
 path: "/china-doesnt-like-wordpresscom"

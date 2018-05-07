@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2011/05/20/boomstartup-week-one-we-knew-we-didnt-know/"
 tags:
-- BoomStartup
-- startups
+  - "BoomStartup"
+  - "startups"
 date: '2011-05-20T06:00:00Z'
 templateKey: blog-post
 path: "/boomstartup-week-one-we-knew-we-didnt-know"

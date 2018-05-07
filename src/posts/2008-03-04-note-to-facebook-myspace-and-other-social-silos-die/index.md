@@ -4,21 +4,21 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/04/note-to-facebook-myspace-and-other-social-silos-die/"
 tags:
-- COSL
-- Interesting
-- internet
-- Programming
-- Projects
-- rant
-- Social Software
-- Web2.0
-- communities
-- Education
-- open source
-- Social Software
-- Teachers Without Borders
-- Web2.0
-- Wordpress
+  - "COSL"
+  - "Interesting"
+  - "internet"
+  - "Programming"
+  - "Projects"
+  - "rant"
+  - "Social Software"
+  - "Web2.0"
+  - "communities"
+  - "Education"
+  - "open source"
+  - "Social Software"
+  - "Teachers Without Borders"
+  - "Web2.0"
+  - "Wordpress"
 date: '2008-03-04T07:00:00Z'
 templateKey: blog-post
 path: "/note-to-facebook-myspace-and-other-social-silos-die"

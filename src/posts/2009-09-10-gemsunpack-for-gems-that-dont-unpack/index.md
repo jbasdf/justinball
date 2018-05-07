@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2009/09/10/gemsunpack-for-gems-that-dont-unpack/"
 tags:
-- gems
-- muck
-- rake
-- Ruby On Rails
-- unpack
+  - "gems"
+  - "muck"
+  - "rake"
+  - "Ruby On Rails"
+  - "unpack"
 date: '2009-09-10T06:00:00Z'
 templateKey: blog-post
 path: "/gemsunpack-for-gems-that-dont-unpack"

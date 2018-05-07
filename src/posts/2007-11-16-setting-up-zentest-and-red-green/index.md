@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2007/11/16/setting-up-zentest-and-red-green/"
 tags:
-- Programming
-- Ruby On Rails
-- red green
-- Ruby On Rails
-- testing
-- zentest
+  - "Programming"
+  - "Ruby On Rails"
+  - "red green"
+  - "Ruby On Rails"
+  - "testing"
+  - "zentest"
 date: '2007-11-16T07:00:00Z'
 templateKey: blog-post
 path: "/setting-up-zentest-and-red-green"

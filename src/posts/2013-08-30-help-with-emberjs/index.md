@@ -3,8 +3,8 @@ title: Help with Ember.js
 author: Justin Ball
 layout: post
 tags:
-- Javscript
-- Ember.js
+  - "Javscript"
+  - "Ember.js"
 date: '2013-08-30T06:00:00Z'
 templateKey: blog-post
 path: "/help-with-emberjs"

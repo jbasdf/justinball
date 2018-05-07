@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/10/17/my-bike-wreck-could-have-been-worse/"
 tags:
-- Cycling
-- Cycling
-- gross
+  - "Cycling"
+  - "Cycling"
+  - "gross"
 date: '2008-10-17T06:00:00Z'
 templateKey: blog-post
 path: "/my-bike-wreck-could-have-been-worse"

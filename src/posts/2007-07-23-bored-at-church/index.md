@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/07/23/bored-at-church/"
 tags:
-- Alyssa
-- Family
-- church
-- kids
+  - "Alyssa"
+  - "Family"
+  - "church"
+  - "kids"
 date: '2007-07-23T06:00:00Z'
 templateKey: blog-post
 path: "/bored-at-church"

@@ -3,10 +3,10 @@ title: Adding GraphQL to our REST APIs
 author: Justin Ball
 layout: post
 tags:
-- learning
-- graphql
-- api
-- REST
+  - "learning"
+  - "graphql"
+  - "api"
+  - "REST"
 date: 2017-11-28T16:27:32.000Z
 templateKey: blog-post
 path: "/Adding-GraphQL-to-our-REST-APIs"

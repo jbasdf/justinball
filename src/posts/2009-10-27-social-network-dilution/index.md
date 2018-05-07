@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2009/10/27/social-network-dilution/"
 tags:
-- Social Software
-- facebook
-- social network dilution
-- social networking
+  - "Social Software"
+  - "facebook"
+  - "social network dilution"
+  - "social networking"
 date: '2009-10-27T06:00:00Z'
 templateKey: blog-post
 path: "/social-network-dilution"

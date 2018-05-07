@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2006/06/14/not-because-i-want-to/"
 tags:
-- ASP.Net
-- Ruby On Rails
+  - "ASP.Net"
+  - "Ruby On Rails"
 date: '2006-06-14T06:00:00Z'
 templateKey: blog-post
 path: "/not-because-i-want-to"

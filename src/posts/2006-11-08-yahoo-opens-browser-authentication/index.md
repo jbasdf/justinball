@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2006/11/08/yahoo-opens-browser-authentication/"
 tags:
-- Social Software
-- The Web
-- Web2.0
-- web2con2006
+  - "Social Software"
+  - "The Web"
+  - "Web2.0"
+  - "web2con2006"
 date: '2006-11-08T07:00:00Z'
 templateKey: blog-post
 path: "/yahoo-opens-browser-authentication"

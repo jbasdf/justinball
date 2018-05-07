@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2009/12/22/callie-found-this/"
 tags:
-- Funny
+  - "Funny"
 date: '2009-12-22T07:00:00Z'
 templateKey: blog-post
 path: "/callie-found-this"

@@ -3,13 +3,13 @@ title: Serverside with GraphQL
 author: Justin Ball
 layout: post
 tags:
-- learning
-- graphql
-- react
-- javascript
-- node.js
-- postgresql
-- elixir
+  - "learning"
+  - "graphql"
+  - "react"
+  - "javascript"
+  - "node.js"
+  - "postgresql"
+  - "elixir"
 date: 2018-01-24T16:37:08.000Z
 templateKey: blog-post
 path: "/serverside-with-graphql"

@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2007/12/11/sorry-to-anyone-that-has-been-making-comments/"
 tags:
-- Blogging
+  - "Blogging"
 date: '2007-12-11T07:00:00Z'
 templateKey: blog-post
 path: "/sorry-to-anyone-that-has-been-making-comments"

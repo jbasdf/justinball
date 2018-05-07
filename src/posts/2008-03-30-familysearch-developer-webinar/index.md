@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/30/familysearch-developer-webinar/"
 tags:
-- family history
-- genealogy
-- API
-- familysearch
-- genealogy
+  - "family history"
+  - "genealogy"
+  - "API"
+  - "familysearch"
+  - "genealogy"
 date: '2008-03-30T06:00:00Z'
 templateKey: blog-post
 path: "/familysearch-developer-webinar"

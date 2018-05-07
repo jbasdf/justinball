@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2007/06/20/first-time-on-the-new-santa-cruz-blur-xc-and-near-death-experiences/"
 tags:
-- Cycling
-- Cycling
-- mountain bike
-- santa cruz blur xc
-- trails
+  - "Cycling"
+  - "Cycling"
+  - "mountain bike"
+  - "santa cruz blur xc"
+  - "trails"
 date: '2007-06-20T06:00:00Z'
 templateKey: blog-post
 path: "/first-time-on-the-new-santa-cruz-blur-xc-and-near-death-experiences"

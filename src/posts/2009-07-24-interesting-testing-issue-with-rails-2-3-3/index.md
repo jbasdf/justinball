@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2009/07/24/interesting-testing-issue-with-rails-2-3-3/"
 tags:
-- errors
-- Ruby On Rails
-- shoulda
-- template not foudn
-- testing
+  - "errors"
+  - "Ruby On Rails"
+  - "shoulda"
+  - "template not foudn"
+  - "testing"
 date: '2009-07-24T06:00:00Z'
 templateKey: blog-post
 path: "/interesting-testing-issue-with-rails-2-3-3"

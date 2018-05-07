@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2010/03/15/mountain-west-ruby-conference-3/"
 tags:
-- mtnwestrubyconf
-- mwrc
-- ruby
-- Ruby On Rails
+  - "mtnwestrubyconf"
+  - "mwrc"
+  - "ruby"
+  - "Ruby On Rails"
 date: '2010-03-15T06:00:00Z'
 templateKey: blog-post
 path: "/mountain-west-ruby-conference-3"

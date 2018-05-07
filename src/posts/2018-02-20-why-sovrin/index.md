@@ -2,9 +2,9 @@
 title: Why Sovrin?
 author: Justin Ball
 tags:
-- sovrin
-- blockchain
-- identity
+  - "sovrin"
+  - "blockchain"
+  - "identity"
 date: 2018-02-20T10:00:00.000Z
 templateKey: blog-post
 path: "/why-sovrin"

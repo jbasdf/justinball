@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2007/05/17/rails-day-one-rails-routing/"
 tags:
-- RailsConf
-- RailsConf07
-- Ruby On Rails
-- RailsConf07
-- Ruby On Rails
+  - "RailsConf"
+  - "RailsConf07"
+  - "Ruby On Rails"
+  - "RailsConf07"
+  - "Ruby On Rails"
 date: '2007-05-17T06:00:00Z'
 templateKey: blog-post
 path: "/rails-day-one-rails-routing"

@@ -5,8 +5,8 @@ author: Justin Ball
 layout: post
 permalink: "/2012/09/12/getting-this-ssl_connect-returned1-errno0-statesslv3-read-server-certificate-b-certificate-verify-failed/"
 tags:
-- Ruby
-- Ruby On Rails
+  - "Ruby"
+  - "Ruby On Rails"
 date: '2012-09-12T06:00:00Z'
 templateKey: blog-post
 path: "/getting-this-ssl_connect-returned1-errno0-statesslv3-read-server-certificate-b-certificate-verify-failed"

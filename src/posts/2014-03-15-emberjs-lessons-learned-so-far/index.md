@@ -4,8 +4,8 @@ author: Justin Ball
 title: Ember.js Lessons Learned So Far
 date: '2014-03-15T06:00:00Z'
 tags:
-- Ember.js
-- Javascript
+  - "Ember.js"
+  - "Javascript"
 templateKey: blog-post
 path: "/emberjs-lessons-learned-so-far"
 description: ''

@@ -4,9 +4,9 @@ author: Justin Ball
 title: Pete Hunt - Be predictable, not correct.
 date: '2014-03-17T06:00:00Z'
 tags:
-- Mountain West Javascript
-- mwjs
-- Javascript
+  - "Mountain West Javascript"
+  - "mwjs"
+  - "Javascript"
 templateKey: blog-post
 path: "/pete-hunt-be-predictable-not-correct"
 description: ''

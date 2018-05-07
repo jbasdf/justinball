@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2009/03/08/joel-with-coffee/"
 tags:
-- Funny
+  - "Funny"
 date: '2009-03-08T07:00:00Z'
 templateKey: blog-post
 path: "/joel-with-coffee"

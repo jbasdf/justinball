@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/08/18/tip-for-testing-email-with-ruby-on-rails-and-shoulda-2/"
 tags:
-- Ruby On Rails
-- email
-- Ruby On Rails
-- testing
+  - "Ruby On Rails"
+  - "email"
+  - "Ruby On Rails"
+  - "testing"
 date: '2008-08-18T06:00:00Z'
 templateKey: blog-post
 path: "/tip-for-testing-email-with-ruby-on-rails-and-shoulda-2"

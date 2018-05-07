@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2012/10/01/blacksmith-fork-canyon/"
 tags:
-- Autumn
-- Cycling
+  - "Autumn"
+  - "Cycling"
 date: '2012-10-01T06:00:00Z'
 templateKey: blog-post
 path: "/blacksmith-fork-canyon"

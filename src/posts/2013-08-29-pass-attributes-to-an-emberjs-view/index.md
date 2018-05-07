@@ -3,8 +3,8 @@ title: Passing a value to ember.js view from handlebars template
 author: Justin Ball
 layout: post
 tags:
-- Javscript
-- Ember.js
+  - "Javscript"
+  - "Ember.js"
 date: '2013-08-29T06:00:00Z'
 templateKey: blog-post
 path: "/pass-attributes-to-an-emberjs-view"

@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/08/17/rode-stoddard-creek-friday/"
 tags:
-- Family
-- Interesting
-- Family
-- motorcycle
-- outdoors
+  - "Family"
+  - "Interesting"
+  - "Family"
+  - "motorcycle"
+  - "outdoors"
 date: '2008-08-17T06:00:00Z'
 templateKey: blog-post
 path: "/rode-stoddard-creek-friday"

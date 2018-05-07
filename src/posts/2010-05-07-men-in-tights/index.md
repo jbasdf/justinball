@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2010/05/07/men-in-tights/"
 tags:
-- Funny
-- Cycling
+  - "Funny"
+  - "Cycling"
 date: '2010-05-07T06:00:00Z'
 templateKey: blog-post
 path: "/men-in-tights"

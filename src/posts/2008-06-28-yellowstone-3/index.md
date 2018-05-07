@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/06/28/yellowstone-3/"
 tags:
-- Family
-- family trip
-- yellowstone
+  - "Family"
+  - "family trip"
+  - "yellowstone"
 date: '2008-06-28T06:00:00Z'
 templateKey: blog-post
 path: "/yellowstone-3"

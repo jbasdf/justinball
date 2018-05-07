@@ -4,9 +4,9 @@ author: Justin Ball
 title: Ember Conf 2014 Summary and Resources
 date: '2014-03-29T06:00:00Z'
 tags:
-- Ember.js
-- Javascript
-- Programming
+  - "Ember.js"
+  - "Javascript"
+  - "Programming"
 templateKey: blog-post
 path: "/ember-conf-2014-summary-and-resources"
 description: ''

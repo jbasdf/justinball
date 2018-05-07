@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2010/07/31/textmate-rspec-bundle-error/"
 tags:
-- Programming
-- Ruby On Rails
-- rpsec
-- rspec bundle
-- ruby
-- textmate
+  - "Programming"
+  - "Ruby On Rails"
+  - "rpsec"
+  - "rspec bundle"
+  - "ruby"
+  - "textmate"
 date: '2010-07-31T06:00:00Z'
 templateKey: blog-post
 path: "/textmate-rspec-bundle-error"

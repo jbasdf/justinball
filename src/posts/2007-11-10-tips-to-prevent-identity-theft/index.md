@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2007/11/10/tips-to-prevent-identity-theft/"
 tags:
-- Interesting
-- identity_theft
+  - "Interesting"
+  - "identity_theft"
 date: '2007-11-10T07:00:00Z'
 templateKey: blog-post
 path: "/tips-to-prevent-identity-theft"

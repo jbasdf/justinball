@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/09/government-20/"
 tags:
-- Interesting
-- government
-- senate
-- utah
-- Web2.0
+  - "Interesting"
+  - "government"
+  - "senate"
+  - "utah"
+  - "Web2.0"
 date: '2008-01-09T07:00:00Z'
 templateKey: blog-post
 path: "/government-20"

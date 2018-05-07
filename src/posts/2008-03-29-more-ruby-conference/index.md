@@ -4,13 +4,13 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/29/more-ruby-conference/"
 tags:
-- mtnwestrubyconf
-- Ruby On Rails
-- engineyard
-- mtnwestrubyconf
-- ruby
-- Ruby On Rails
-- test-spec
+  - "mtnwestrubyconf"
+  - "Ruby On Rails"
+  - "engineyard"
+  - "mtnwestrubyconf"
+  - "ruby"
+  - "Ruby On Rails"
+  - "test-spec"
 date: '2008-03-29T06:00:00Z'
 templateKey: blog-post
 path: "/more-ruby-conference"

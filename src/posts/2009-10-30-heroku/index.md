@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2009/10/30/heroku/"
 tags:
-- hosting
-- heroku
-- Ruby On Rails
+  - "hosting"
+  - "heroku"
+  - "Ruby On Rails"
 date: '2009-10-30T06:00:00Z'
 templateKey: blog-post
 path: "/heroku"

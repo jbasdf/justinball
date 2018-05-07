@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/30/cache-valley/"
 tags:
-- Community
-- cache valley
-- logan
-- utah
+  - "Community"
+  - "cache valley"
+  - "logan"
+  - "utah"
 date: '2008-03-30T06:00:00Z'
 templateKey: blog-post
 path: "/cache-valley"

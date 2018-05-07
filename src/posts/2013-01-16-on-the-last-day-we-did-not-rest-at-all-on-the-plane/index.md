@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2013/01/16/on-the-last-day-we-did-not-rest-at-all-on-the-plane/"
 tags:
-- Travel
-- Oahu
-- Hawaii
+  - "Travel"
+  - "Oahu"
+  - "Hawaii"
 date: '2013-01-16T07:00:00Z'
 templateKey: blog-post
 path: "/on-the-last-day-we-did-not-rest-at-all-on-the-plane"

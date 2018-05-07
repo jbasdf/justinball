@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2005/10/31/because-i-have-to-say-something-about-learning-objects/"
 tags:
-- School
+  - "School"
 date: '2005-10-31T07:00:00Z'
 templateKey: blog-post
 path: "/because-i-have-to-say-something-about-learning-objects"

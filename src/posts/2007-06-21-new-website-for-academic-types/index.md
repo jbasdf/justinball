@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2007/06/21/new-website-for-academic-types/"
 tags:
-- COSL
-- Social Software
-- Web2.0
-- COSL
-- gistr
-- Web2.0
+  - "COSL"
+  - "Social Software"
+  - "Web2.0"
+  - "COSL"
+  - "gistr"
+  - "Web2.0"
 date: '2007-06-21T06:00:00Z'
 templateKey: blog-post
 path: "/new-website-for-academic-types"

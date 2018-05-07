@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/08/27/appreciate-the-little-things/"
 tags:
-- Interesting
-- appreciation
-- healing
-- health
-- time
+  - "Interesting"
+  - "appreciation"
+  - "healing"
+  - "health"
+  - "time"
 date: '2008-08-27T06:00:00Z'
 templateKey: blog-post
 path: "/appreciate-the-little-things"

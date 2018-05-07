@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/19/big-companies-using-ruby-on-rails/"
 tags:
-- Ruby On Rails
-- big companies
-- Obie Fernandez
-- Ruby On Rails
-- scalability
+  - "Ruby On Rails"
+  - "big companies"
+  - "Obie Fernandez"
+  - "Ruby On Rails"
+  - "scalability"
 date: '2008-03-19T06:00:00Z'
 templateKey: blog-post
 path: "/big-companies-using-ruby-on-rails"

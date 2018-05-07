@@ -3,8 +3,8 @@ title: Immutable Arrays in Ember.js
 author: Justin Ball
 layout: post
 tags:
-- Javscript
-- Ember.js
+  - "Javscript"
+  - "Ember.js"
 date: '2013-08-29T06:00:00Z'
 templateKey: blog-post
 path: "/immutable-arrays-in-ember"

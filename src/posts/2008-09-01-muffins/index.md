@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/09/01/muffins/"
 tags:
-- Interesting
-- cooking
-- wife
+  - "Interesting"
+  - "cooking"
+  - "wife"
 date: '2008-09-01T06:00:00Z'
 templateKey: blog-post
 path: "/muffins"

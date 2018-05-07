@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/20/the-flower-shop-in-logan/"
 tags:
-- business
-- Family
-- flowers
-- small business
+  - "business"
+  - "Family"
+  - "flowers"
+  - "small business"
 date: '2008-01-20T07:00:00Z'
 templateKey: blog-post
 path: "/the-flower-shop-in-logan"

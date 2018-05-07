@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2007/10/17/an-mri-is-like-a-rock-concert/"
 tags:
-- back problems
-- medicine
-- MRI
+  - "back problems"
+  - "medicine"
+  - "MRI"
 date: '2007-10-17T06:00:00Z'
 templateKey: blog-post
 path: "/an-mri-is-like-a-rock-concert"

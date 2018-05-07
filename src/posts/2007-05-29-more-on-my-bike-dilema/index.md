@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2007/05/29/more-on-my-bike-dilema/"
 tags:
-- Cycling
-- calfee
-- Cycling
-- santa cruz
-- time vxr
+  - "Cycling"
+  - "calfee"
+  - "Cycling"
+  - "santa cruz"
+  - "time vxr"
 date: '2007-05-29T06:00:00Z'
 templateKey: blog-post
 path: "/more-on-my-bike-dilema"

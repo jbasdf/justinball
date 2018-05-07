@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/03/target/"
 tags:
-- Family
-- Funny
-- Funny
-- shopping
-- target
+  - "Family"
+  - "Funny"
+  - "Funny"
+  - "shopping"
+  - "target"
 date: '2008-02-03T07:00:00Z'
 templateKey: blog-post
 path: "/target"

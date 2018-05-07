@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2006/07/25/interesting-drac-4-problem/"
 tags:
-- The Plan Collection
+  - "The Plan Collection"
 date: '2006-07-25T06:00:00Z'
 templateKey: blog-post
 path: "/interesting-drac-4-problem"

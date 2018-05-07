@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2010/11/30/exception-handling-in-ruby-a-little-surprise/"
 tags:
-- Programming
-- Ruby On Rails
+  - "Programming"
+  - "Ruby On Rails"
 date: '2010-11-30T07:00:00Z'
 templateKey: blog-post
 path: "/exception-handling-in-ruby-a-little-surprise"

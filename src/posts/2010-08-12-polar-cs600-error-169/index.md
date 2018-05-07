@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2010/08/12/polar-cs600-error-169/"
 tags:
-- Cycling
-- polar cs600
+  - "Cycling"
+  - "polar cs600"
 date: '2010-08-12T06:00:00Z'
 templateKey: blog-post
 path: "/polar-cs600-error-169"

@@ -3,8 +3,8 @@ title: React Js
 author: Justin Ball
 layout: post
 tags:
-- learning
-- reactjs
+  - "learning"
+  - "reactjs"
 date: 2018-01-13T18:45:25.000Z
 templateKey: blog-post
 path: "/React-Js"

@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2012/10/04/providence-canyon/"
 tags:
-- Autumn
-- Providence Canyon
+  - "Autumn"
+  - "Providence Canyon"
 date: '2012-10-04T06:00:00Z'
 templateKey: blog-post
 path: "/providence-canyon"

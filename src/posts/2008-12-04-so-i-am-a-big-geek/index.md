@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/12/04/so-i-am-a-big-geek/"
 tags:
-- Funny
-- Computers
-- geek
-- legos
+  - "Funny"
+  - "Computers"
+  - "geek"
+  - "legos"
 date: '2008-12-04T07:00:00Z'
 templateKey: blog-post
 path: "/so-i-am-a-big-geek"

@@ -4,13 +4,13 @@ author: Justin Ball
 layout: post
 permalink: "/2008/10/13/its-your-head-not-your-butt-that-matters/"
 tags:
-- Interesting
-- internet
-- Programming
-- Projects
-- knowledge workers
-- Programming
-- software design
+  - "Interesting"
+  - "internet"
+  - "Programming"
+  - "Projects"
+  - "knowledge workers"
+  - "Programming"
+  - "software design"
 date: '2008-10-13T06:00:00Z'
 templateKey: blog-post
 path: "/its-your-head-not-your-butt-that-matters"

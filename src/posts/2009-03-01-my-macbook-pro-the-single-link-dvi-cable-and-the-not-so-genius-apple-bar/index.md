@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2009/03/01/my-macbook-pro-the-single-link-dvi-cable-and-the-not-so-genius-apple-bar/"
 tags:
-- Computers
-- Apple Store
-- DVI
-- macbook pro
-- Monitor
-- problems
+  - "Computers"
+  - "Apple Store"
+  - "DVI"
+  - "macbook pro"
+  - "Monitor"
+  - "problems"
 date: '2009-03-01T07:00:00Z'
 templateKey: blog-post
 path: "/my-macbook-pro-the-single-link-dvi-cable-and-the-not-so-genius-apple-bar"

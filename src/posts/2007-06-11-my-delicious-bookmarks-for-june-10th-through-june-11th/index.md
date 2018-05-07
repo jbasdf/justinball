@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2007/06/11/my-delicious-bookmarks-for-june-10th-through-june-11th/"
 tags:
-- Links
-- Cycling
+  - "Links"
+  - "Cycling"
 date: '2007-06-11T06:00:00Z'
 templateKey: blog-post
 path: "/my-delicious-bookmarks-for-june-10th-through-june-11th"

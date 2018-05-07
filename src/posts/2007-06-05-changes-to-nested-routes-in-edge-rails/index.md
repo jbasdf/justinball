@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2007/06/05/changes-to-nested-routes-in-edge-rails/"
 tags:
-- Ruby On Rails
-- edge rails
-- Ruby On Rails
+  - "Ruby On Rails"
+  - "edge rails"
+  - "Ruby On Rails"
 date: '2007-06-05T06:00:00Z'
 templateKey: blog-post
 path: "/changes-to-nested-routes-in-edge-rails"

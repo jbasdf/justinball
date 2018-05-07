@@ -4,8 +4,8 @@ author: Justin Ball
 title: Ember Textfield ignores arrow keys. How to monitor key events in your textfield
 date: '2013-10-24T06:00:00Z'
 tags:
-- Ember.js
-- Javscript
+  - "Ember.js"
+  - "Javscript"
 templateKey: blog-post
 path: "/ember-textfield-ignores-arrow-keys.-how-to-monitor-key-events-in-your-textfield"
 description: ''

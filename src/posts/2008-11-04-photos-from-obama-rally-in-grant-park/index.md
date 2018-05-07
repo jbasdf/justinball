@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/11/04/photos-from-obama-rally-in-grant-park/"
 tags:
-- Chicago
-- Obama
-- politics
+  - "Chicago"
+  - "Obama"
+  - "politics"
 date: '2008-11-04T07:00:00Z'
 templateKey: blog-post
 path: "/photos-from-obama-rally-in-grant-park"

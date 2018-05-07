@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2011/01/24/gearsnyper-be-as-broke-as-me/"
 tags:
-- Cycling
-- gearsynper
+  - "Cycling"
+  - "gearsynper"
 date: '2011-01-24T07:00:00Z'
 templateKey: blog-post
 path: "/gearsnyper-be-as-broke-as-me"

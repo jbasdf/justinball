@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2007/05/29/soda-is-really-bad-for-you/"
 tags:
-- Science
-- diet
-- disease
-- health
-- soda
+  - "Science"
+  - "diet"
+  - "disease"
+  - "health"
+  - "soda"
 date: '2007-05-29T06:00:00Z'
 templateKey: blog-post
 path: "/soda-is-really-bad-for-you"

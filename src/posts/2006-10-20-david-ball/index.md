@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2006/10/20/david-ball/"
 tags:
-- Family
+  - "Family"
 date: '2006-10-20T06:00:00Z'
 templateKey: blog-post
 path: "/david-ball"

@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2006/07/21/ruby-made-me-fatter-so-i-had-to-do-something/"
 tags:
-- Cycling
-- Interesting
-- Ruby On Rails
+  - "Cycling"
+  - "Interesting"
+  - "Ruby On Rails"
 date: '2006-07-21T06:00:00Z'
 templateKey: blog-post
 path: "/ruby-made-me-fatter-so-i-had-to-do-something"

@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2010/06/27/get-3g-internet-access-in-france-on-your-ipad/"
 tags:
-- Computers
-- 3g
-- France iPad Internet access
-- Paris
+  - "Computers"
+  - "3g"
+  - "France iPad Internet access"
+  - "Paris"
 date: '2010-06-27T06:00:00Z'
 templateKey: blog-post
 path: "/get-3g-internet-access-in-france-on-your-ipad"

@@ -5,7 +5,7 @@ title: Twitter, update_with_media, and the nasty Twitter::Error::Unauthorized (C
   not authenticate you) issue
 date: '2014-10-08T06:00:00Z'
 tags:
-- Programming
+  - "Programming"
 templateKey: blog-post
 path: "/twitter-update_with_media-and-the-nasty-twitter-error-unauthorized-could-not-authenticate-you-issue"
 description: ''

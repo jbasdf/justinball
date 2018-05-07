@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/10/27/farewell-cosl/"
 tags:
-- COSL
-- COSL
-- friends
-- gamenight
-- work
+  - "COSL"
+  - "COSL"
+  - "friends"
+  - "gamenight"
+  - "work"
 date: '2008-10-27T06:00:00Z'
 templateKey: blog-post
 path: "/farewell-cosl"

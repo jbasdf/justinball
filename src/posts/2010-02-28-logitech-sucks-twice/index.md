@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2010/02/28/logitech-sucks-twice/"
 tags:
-- logitech
+  - "logitech"
 date: '2010-02-28T07:00:00Z'
 templateKey: blog-post
 path: "/logitech-sucks-twice"

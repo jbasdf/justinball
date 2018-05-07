@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/06/27/yellowstone/"
 tags:
-- Family
-- Fun Stuff
-- Jenna
-- family trip
-- Jenna
-- yellowstone
+  - "Family"
+  - "Fun Stuff"
+  - "Jenna"
+  - "family trip"
+  - "Jenna"
+  - "yellowstone"
 date: '2008-06-27T06:00:00Z'
 templateKey: blog-post
 path: "/yellowstone"

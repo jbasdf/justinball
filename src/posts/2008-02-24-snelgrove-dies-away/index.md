@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/24/snelgrove-dies-away/"
 tags:
-- food
-- business
-- Dryers
-- ice cream
-- Snelgrove
+  - "food"
+  - "business"
+  - "Dryers"
+  - "ice cream"
+  - "Snelgrove"
 date: '2008-02-24T07:00:00Z'
 templateKey: blog-post
 path: "/snelgrove-dies-away"

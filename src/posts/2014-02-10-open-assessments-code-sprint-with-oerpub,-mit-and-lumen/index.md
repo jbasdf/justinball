@@ -4,10 +4,10 @@ author: Justin Ball
 title: Open Assessments Code Sprint with OERPub, MIT and Lumen
 date: '2014-02-10T07:00:00Z'
 tags:
-- Programming
-- OER
-- Open Assessments
-- Ember.js
+  - "Programming"
+  - "OER"
+  - "Open Assessments"
+  - "Ember.js"
 templateKey: blog-post
 path: "/open-assessments-code-sprint-with-oerpub,-mit-and-lumen"
 description: ''

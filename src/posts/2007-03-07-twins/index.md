@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2007/03/07/twins/"
 tags:
-- Alyssa
-- Aubrey
-- kids
+  - "Alyssa"
+  - "Aubrey"
+  - "kids"
 date: '2007-03-07T07:00:00Z'
 templateKey: blog-post
 path: "/twins"

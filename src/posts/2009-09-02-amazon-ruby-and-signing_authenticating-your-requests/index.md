@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2009/09/02/amazon-ruby-and-signing_authenticating-your-requests/"
 tags:
-- amazon
-- Authentication
-- rss
-- Ruby On Rails
-- wishlist
+  - "amazon"
+  - "Authentication"
+  - "rss"
+  - "Ruby On Rails"
+  - "wishlist"
 date: '2009-09-02T06:00:00Z'
 templateKey: blog-post
 path: "/amazon-ruby-and-signing_authenticating-your-requests"

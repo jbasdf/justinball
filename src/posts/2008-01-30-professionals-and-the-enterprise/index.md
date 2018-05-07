@@ -4,13 +4,13 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/30/professionals-and-the-enterprise/"
 tags:
-- Interesting
-- Programming
-- Christmas
-- enterprise
-- professional
-- Ruby On Rails
-- software
+  - "Interesting"
+  - "Programming"
+  - "Christmas"
+  - "enterprise"
+  - "professional"
+  - "Ruby On Rails"
+  - "software"
 date: '2008-01-30T07:00:00Z'
 templateKey: blog-post
 path: "/professionals-and-the-enterprise"

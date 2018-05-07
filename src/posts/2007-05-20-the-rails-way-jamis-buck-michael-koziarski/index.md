@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2007/05/20/the-rails-way-jamis-buck-michael-koziarski/"
 tags:
-- RailsConf
-- RailsConf07
-- jamis buck
-- RailsConf07
-- Ruby On Rails
+  - "RailsConf"
+  - "RailsConf07"
+  - "jamis buck"
+  - "RailsConf07"
+  - "Ruby On Rails"
 date: '2007-05-20T06:00:00Z'
 templateKey: blog-post
 path: "/the-rails-way-jamis-buck-michael-koziarski"

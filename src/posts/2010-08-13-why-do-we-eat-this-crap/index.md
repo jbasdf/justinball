@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2010/08/13/why-do-we-eat-this-crap/"
 tags:
-- food
+  - "food"
 date: '2010-08-13T06:00:00Z'
 templateKey: blog-post
 path: "/why-do-we-eat-this-crap"

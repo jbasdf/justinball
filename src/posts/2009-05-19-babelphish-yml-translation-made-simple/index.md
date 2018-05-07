@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2009/05/19/babelphish-yml-translation-made-simple/"
 tags:
-- Ruby On Rails
-- babelphish
-- gem
-- localization
+  - "Ruby On Rails"
+  - "babelphish"
+  - "gem"
+  - "localization"
 date: '2009-05-19T06:00:00Z'
 templateKey: blog-post
 path: "/babelphish-yml-translation-made-simple"

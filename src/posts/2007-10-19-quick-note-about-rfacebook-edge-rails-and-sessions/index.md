@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/10/19/quick-note-about-rfacebook-edge-rails-and-sessions/"
 tags:
-- Ruby On Rails
-- acts_as_facebook_user
-- rFacebook
-- ruby_on_rails
+  - "Ruby On Rails"
+  - "acts_as_facebook_user"
+  - "rFacebook"
+  - "ruby_on_rails"
 date: '2007-10-19T06:00:00Z'
 templateKey: blog-post
 path: "/quick-note-about-rfacebook-edge-rails-and-sessions"

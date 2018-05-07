@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2010/06/04/what-is-in-my-pants/"
 tags:
-- Devin
-- Funny
+  - "Devin"
+  - "Funny"
 date: '2010-06-04T06:00:00Z'
 templateKey: blog-post
 path: "/what-is-in-my-pants"

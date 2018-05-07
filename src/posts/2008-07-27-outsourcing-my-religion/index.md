@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/07/27/outsourcing-my-religion/"
 tags:
-- Funny
-- Interesting
-- Neat Stuff
-- outsourcing
-- religion
+  - "Funny"
+  - "Interesting"
+  - "Neat Stuff"
+  - "outsourcing"
+  - "religion"
 date: '2008-07-27T06:00:00Z'
 templateKey: blog-post
 path: "/outsourcing-my-religion"

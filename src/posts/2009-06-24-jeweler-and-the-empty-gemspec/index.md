@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2009/06/24/jeweler-and-the-empty-gemspec/"
 tags:
-- gems
-- jeweler
-- Ruby On Rails
+  - "gems"
+  - "jeweler"
+  - "Ruby On Rails"
 date: '2009-06-24T06:00:00Z'
 templateKey: blog-post
 path: "/jeweler-and-the-empty-gemspec"

@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/10/17/my-junkfood-goeth-quietly-into-the-night/"
 tags:
-- economy
-- animal cookies
-- business. mother's animal cookies
-- cookies
-- economy
+  - "economy"
+  - "animal cookies"
+  - "business. mother's animal cookies"
+  - "cookies"
+  - "economy"
 date: '2008-10-17T06:00:00Z'
 templateKey: blog-post
 path: "/my-junkfood-goeth-quietly-into-the-night"

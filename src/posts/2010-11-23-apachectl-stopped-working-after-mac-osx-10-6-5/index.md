@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2010/11/23/apachectl-stopped-working-after-mac-osx-10-6-5/"
 tags:
-- apache
-- error
-- mac
+  - "apache"
+  - "error"
+  - "mac"
 date: '2010-11-23T07:00:00Z'
 templateKey: blog-post
 path: "/apachectl-stopped-working-after-mac-osx-10-6-5"

@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/08/25/cache-valley-century/"
 tags:
-- Cycling
-- cache valley
-- century
-- Cycling
+  - "Cycling"
+  - "cache valley"
+  - "century"
+  - "Cycling"
 date: '2007-08-25T06:00:00Z'
 templateKey: blog-post
 path: "/cache-valley-century"

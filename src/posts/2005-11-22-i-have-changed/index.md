@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2005/11/22/i-have-changed/"
 tags:
-- School
+  - "School"
 date: '2005-11-22T07:00:00Z'
 templateKey: blog-post
 path: "/i-have-changed"

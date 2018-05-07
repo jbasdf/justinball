@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2009/08/17/updating-genlighten-from-rails-2-2-2-to-rails-2-3-2/"
 tags:
-- Ruby On Rails
-- Ruby On Rails
+  - "Ruby On Rails"
+  - "Ruby On Rails"
 date: '2009-08-17T06:00:00Z'
 templateKey: blog-post
 path: "/updating-genlighten-from-rails-2-2-2-to-rails-2-3-2"

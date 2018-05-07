@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2011/12/03/script-your-development-environment-setup-on-your-new-mac/"
 tags:
-- Ruby
+  - "Ruby"
 date: '2011-12-03T07:00:00Z'
 templateKey: blog-post
 path: "/script-your-development-environment-setup-on-your-new-mac"

@@ -4,14 +4,14 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/23/more-on-my-new-madone-69/"
 tags:
-- Cycling
-- 2008
-- 2008 Trek Madone
-- 6.9
-- Cycling
-- madone
-- my new bike
-- trek
+  - "Cycling"
+  - "2008"
+  - "2008 Trek Madone"
+  - "6.9"
+  - "Cycling"
+  - "madone"
+  - "my new bike"
+  - "trek"
 date: '2008-04-23T06:00:00Z'
 templateKey: blog-post
 path: "/more-on-my-new-madone-69"

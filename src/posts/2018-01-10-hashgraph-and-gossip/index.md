@@ -3,8 +3,8 @@ title: Hashgraph And Gossip
 author: Justin Ball
 layout: post
 tags:
-- learning
-- hashgraph
+  - "learning"
+  - "hashgraph"
 date: 2018-01-10T15:52:07.000Z
 templateKey: blog-post
 path: "/hashgraph-and-gossip"

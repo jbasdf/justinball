@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2012/09/12/great-ride-up-blacksmith-fork-canyon/"
 tags:
-- Funny
-- Cycling
+  - "Funny"
+  - "Cycling"
 date: '2012-09-12T06:00:00Z'
 templateKey: blog-post
 path: "/great-ride-up-blacksmith-fork-canyon"

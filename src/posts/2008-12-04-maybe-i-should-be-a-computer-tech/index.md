@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/12/04/maybe-i-should-be-a-computer-tech/"
 tags:
-- Funny
-- Computers
-- dell dimension 8400
+  - "Funny"
+  - "Computers"
+  - "dell dimension 8400"
 date: '2008-12-04T07:00:00Z'
 templateKey: blog-post
 path: "/maybe-i-should-be-a-computer-tech"

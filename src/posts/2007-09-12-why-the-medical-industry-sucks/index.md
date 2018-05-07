@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2007/09/12/why-the-medical-industry-sucks/"
 tags:
-- Cycling
-- medicine
-- rant
+  - "Cycling"
+  - "medicine"
+  - "rant"
 date: '2007-09-12T06:00:00Z'
 templateKey: blog-post
 path: "/why-the-medical-industry-sucks"

@@ -3,8 +3,8 @@ title: Cryptography
 author: Justin Ball
 layout: post
 tags:
-- learning
-- cryptography
+  - "learning"
+  - "cryptography"
 date: 2018-01-23T17:11:21.000Z
 templateKey: blog-post
 path: "/Cryptography"

@@ -5,8 +5,8 @@ author: Justin Ball
 layout: post
 permalink: "/2009/06/13/a-copy-of-applicationcontroller-has-been-removed-from-the-module-tree-but-is-still-active-and-can%e2%80%99t-dup-nilclass/"
 tags:
-- Ruby On Rails
-- errors
+  - "Ruby On Rails"
+  - "errors"
 date: '2009-06-13T06:00:00Z'
 templateKey: blog-post
 path: "/a-copy-of-applicationcontroller-has-been-removed-from-the-module-tree-but-is-still-active-and-can%e2%80%99t-dup-nilclass"

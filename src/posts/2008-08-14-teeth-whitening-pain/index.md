@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/08/14/teeth-whitening-pain/"
 tags:
-- Interesting
-- pain
-- teeth whitening
+  - "Interesting"
+  - "pain"
+  - "teeth whitening"
 date: '2008-08-14T06:00:00Z'
 templateKey: blog-post
 path: "/teeth-whitening-pain"

@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2013/02/20/font-awesome-or-any-other-webfont-in-production/"
 tags:
-- Programming
+  - "Programming"
 date: '2013-02-20T07:00:00Z'
 templateKey: blog-post
 path: "/font-awesome-or-any-other-webfont-in-production"

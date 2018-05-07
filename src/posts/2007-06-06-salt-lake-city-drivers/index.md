@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/06/06/salt-lake-city-drivers/"
 tags:
-- Funny
-- driving
-- Funny
-- gross
+  - "Funny"
+  - "driving"
+  - "Funny"
+  - "gross"
 date: '2007-06-06T06:00:00Z'
 templateKey: blog-post
 path: "/salt-lake-city-drivers"

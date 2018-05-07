@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2009/04/15/teachers-without-borders-2/"
 tags:
-- Ruby On Rails
-- Teachers Without Borders
-- website
+  - "Ruby On Rails"
+  - "Teachers Without Borders"
+  - "website"
 date: '2009-04-15T06:00:00Z'
 templateKey: blog-post
 path: "/teachers-without-borders-2"

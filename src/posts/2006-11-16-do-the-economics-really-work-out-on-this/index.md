@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2006/11/16/do-the-economics-really-work-out-on-this/"
 tags:
-- Waste of Time
+  - "Waste of Time"
 date: '2006-11-16T07:00:00Z'
 templateKey: blog-post
 path: "/do-the-economics-really-work-out-on-this"

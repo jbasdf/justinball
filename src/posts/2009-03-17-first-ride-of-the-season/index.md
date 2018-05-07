@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2009/03/17/first-ride-of-the-season/"
 tags:
-- Cycling
+  - "Cycling"
 date: '2009-03-17T06:00:00Z'
 templateKey: blog-post
 path: "/first-ride-of-the-season"

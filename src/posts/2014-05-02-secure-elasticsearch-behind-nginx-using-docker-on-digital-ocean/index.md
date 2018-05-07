@@ -4,10 +4,10 @@ author: Justin Ball
 title: Secure ElasticSearch behind Nginx using Docker on Digital Ocean
 date: '2014-05-02T06:00:00Z'
 tags:
-- Programming
-- ElasticSearch
-- Docker
-- Digital Ocean
+  - "Programming"
+  - "ElasticSearch"
+  - "Docker"
+  - "Digital Ocean"
 templateKey: blog-post
 path: "/secure-elasticsearch-behind-nginx-using-docker-on-digital-ocean"
 description: ''

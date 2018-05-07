@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/26/winter-was-hard-on-us-both/"
 tags:
-- Funny
-- Funny
-- office chair
+  - "Funny"
+  - "Funny"
+  - "office chair"
 date: '2008-04-26T06:00:00Z'
 templateKey: blog-post
 path: "/winter-was-hard-on-us-both"

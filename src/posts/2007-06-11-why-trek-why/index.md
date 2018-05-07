@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2007/06/11/why-trek-why/"
 tags:
-- Cycling
-- 2008 Trek Madone
-- Cycling
+  - "Cycling"
+  - "2008 Trek Madone"
+  - "Cycling"
 date: '2007-06-11T06:00:00Z'
 templateKey: blog-post
 path: "/why-trek-why"

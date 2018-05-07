@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2007/12/16/its-like-pulling-teeth/"
 tags:
-- Alyssa
-- Aubrey
-- Family
+  - "Alyssa"
+  - "Aubrey"
+  - "Family"
 date: '2007-12-16T07:00:00Z'
 templateKey: blog-post
 path: "/its-like-pulling-teeth"

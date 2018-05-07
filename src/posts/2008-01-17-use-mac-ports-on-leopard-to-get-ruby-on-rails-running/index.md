@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/17/use-mac-ports-on-leopard-to-get-ruby-on-rails-running/"
 tags:
-- Programming
-- Ruby On Rails
-- leopard
-- Mac Ports
-- Ruby On Rails
+  - "Programming"
+  - "Ruby On Rails"
+  - "leopard"
+  - "Mac Ports"
+  - "Ruby On Rails"
 date: '2008-01-17T07:00:00Z'
 templateKey: blog-post
 path: "/use-mac-ports-on-leopard-to-get-ruby-on-rails-running"

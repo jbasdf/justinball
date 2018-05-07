@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2005/09/15/learn-this-no-this-no-this/"
 tags:
-- Education
-- Programming
-- learning
-- Microsoft
-- Programming
-- theplancollection
+  - "Education"
+  - "Programming"
+  - "learning"
+  - "Microsoft"
+  - "Programming"
+  - "theplancollection"
 date: '2005-09-15T06:00:00Z'
 templateKey: blog-post
 path: "/learn-this-no-this-no-this"

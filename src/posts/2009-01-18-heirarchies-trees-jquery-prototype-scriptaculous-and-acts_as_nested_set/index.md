@@ -4,16 +4,16 @@ author: Justin Ball
 layout: post
 permalink: "/2009/01/18/heirarchies-trees-jquery-prototype-scriptaculous-and-acts_as_nested_set/"
 tags:
-- Ruby On Rails
-- acts_as_nested_set
-- heirachy
-- Heirarchies
-- jQuery
-- ordered tree
-- prototype
-- Ruby On Rails
-- script.aculo.us
-- trees
+  - "Ruby On Rails"
+  - "acts_as_nested_set"
+  - "heirachy"
+  - "Heirarchies"
+  - "jQuery"
+  - "ordered tree"
+  - "prototype"
+  - "Ruby On Rails"
+  - "script.aculo.us"
+  - "trees"
 date: '2009-01-18T07:00:00Z'
 templateKey: blog-post
 path: "/heirarchies-trees-jquery-prototype-scriptaculous-and-acts_as_nested_set"

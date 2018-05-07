@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/05/20/solr-on-rails-erik-hatcher/"
 tags:
-- RailsConf
-- RailsConf07
-- RailsConf07
-- Ruby On Rails
+  - "RailsConf"
+  - "RailsConf07"
+  - "RailsConf07"
+  - "Ruby On Rails"
 date: '2007-05-20T06:00:00Z'
 templateKey: blog-post
 path: "/solr-on-rails-erik-hatcher"

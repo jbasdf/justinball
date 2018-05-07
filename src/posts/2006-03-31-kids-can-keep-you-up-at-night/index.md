@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2006/03/31/kids-can-keep-you-up-at-night/"
 tags:
-- Jenna
-- The Kids
+  - "Jenna"
+  - "The Kids"
 date: '2006-03-31T07:00:00Z'
 templateKey: blog-post
 path: "/kids-can-keep-you-up-at-night"

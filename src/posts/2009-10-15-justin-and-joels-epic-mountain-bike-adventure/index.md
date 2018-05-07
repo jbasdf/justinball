@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2009/10/15/justin-and-joels-epic-mountain-bike-adventure/"
 tags:
-- Cycling
-- cache valley
-- mountain biking
+  - "Cycling"
+  - "cache valley"
+  - "mountain biking"
 date: '2009-10-15T06:00:00Z'
 templateKey: blog-post
 path: "/justin-and-joels-epic-mountain-bike-adventure"

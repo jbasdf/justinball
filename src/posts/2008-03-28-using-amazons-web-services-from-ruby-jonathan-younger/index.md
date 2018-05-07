@@ -4,15 +4,15 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/28/using-amazons-web-services-from-ruby-jonathan-younger/"
 tags:
-- mtnwestrubyconf
-- Ruby On Rails
-- amazon
-- ec2
-- mountainwestrubyconf
-- ruby
-- Ruby On Rails
-- s3
-- webservices
+  - "mtnwestrubyconf"
+  - "Ruby On Rails"
+  - "amazon"
+  - "ec2"
+  - "mountainwestrubyconf"
+  - "ruby"
+  - "Ruby On Rails"
+  - "s3"
+  - "webservices"
 date: '2008-03-28T06:00:00Z'
 templateKey: blog-post
 path: "/using-amazons-web-services-from-ruby-jonathan-younger"

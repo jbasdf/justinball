@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/16/my-wife-the-blog-stalker/"
 tags:
-- blogging
-- blogging
-- friends
-- identity
+  - "blogging"
+  - "blogging"
+  - "friends"
+  - "identity"
 date: '2008-03-16T06:00:00Z'
 templateKey: blog-post
 path: "/my-wife-the-blog-stalker"

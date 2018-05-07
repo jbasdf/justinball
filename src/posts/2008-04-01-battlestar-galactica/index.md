@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/01/battlestar-galactica/"
 tags:
-- Interesting
-- Battlestar Galactica
-- tv
+  - "Interesting"
+  - "Battlestar Galactica"
+  - "tv"
 date: '2008-04-01T06:00:00Z'
 templateKey: blog-post
 path: "/battlestar-galactica"

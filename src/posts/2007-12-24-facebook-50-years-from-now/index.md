@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2007/12/24/facebook-50-years-from-now/"
 tags:
-- Funny
+  - "Funny"
 date: '2007-12-24T07:00:00Z'
 templateKey: blog-post
 path: "/facebook-50-years-from-now"

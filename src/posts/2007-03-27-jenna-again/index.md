@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2007/03/27/jenna-again/"
 tags:
-- Jenna
-- Funny
-- kids
+  - "Jenna"
+  - "Funny"
+  - "kids"
 date: '2007-03-27T06:00:00Z'
 templateKey: blog-post
 path: "/jenna-again"

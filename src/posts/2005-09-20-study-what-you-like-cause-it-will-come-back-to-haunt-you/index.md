@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2005/09/20/"
 tags:
-- Education
+  - "Education"
 date: '2005-09-20T06:00:00Z'
 templateKey: blog-post
 path: "/study-what-you-like-cause-it-will-come-back-to-haunt-you"

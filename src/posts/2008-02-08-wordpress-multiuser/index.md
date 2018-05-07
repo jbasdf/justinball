@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/08/wordpress-multiuser/"
 tags:
-- Programming
-- install
-- multi-user
-- Wordpress
+  - "Programming"
+  - "install"
+  - "multi-user"
+  - "Wordpress"
 date: '2008-02-08T07:00:00Z'
 templateKey: blog-post
 path: "/wordpress-multiuser"

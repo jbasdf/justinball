@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/08/17/last-alfred-william-ball-family-reunion-57-years/"
 tags:
-- Family
-- family history
-- Family
-- family history
-- family reunion
+  - "Family"
+  - "family history"
+  - "Family"
+  - "family history"
+  - "family reunion"
 date: '2008-08-17T06:00:00Z'
 templateKey: blog-post
 path: "/last-alfred-william-ball-family-reunion-57-years"

@@ -4,9 +4,9 @@ author: Justin Ball
 title: Look What Aubrey Drew
 date: '2017-12-29T00:00:00Z'
 tags:
-- Family
-- Art
-- Aubrey
+  - "Family"
+  - "Art"
+  - "Aubrey"
 templateKey: blog-post
 path: "/aubrey-drew-this"
 description: ''

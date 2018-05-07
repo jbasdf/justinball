@@ -4,13 +4,13 @@ author: Justin Ball
 layout: post
 permalink: "/2007/12/07/configure-your-free-facebook-joyent-accelerator-for-capistrano/"
 tags:
-- Ruby On Rails
-- Web2.0
-- capistrano
-- deployment
-- facebook
-- joyent
-- Ruby On Rails
+  - "Ruby On Rails"
+  - "Web2.0"
+  - "capistrano"
+  - "deployment"
+  - "facebook"
+  - "joyent"
+  - "Ruby On Rails"
 date: '2007-12-07T07:00:00Z'
 templateKey: blog-post
 path: "/configure-your-free-facebook-joyent-accelerator-for-capistrano"

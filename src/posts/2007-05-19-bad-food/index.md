@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2007/05/19/bad-food/"
 tags:
-- RailsConf
-- RailsConf07
-- food
-- RailsConf07
-- Ruby On Rails
+  - "RailsConf"
+  - "RailsConf07"
+  - "food"
+  - "RailsConf07"
+  - "Ruby On Rails"
 date: '2007-05-19T06:00:00Z'
 templateKey: blog-post
 path: "/bad-food"

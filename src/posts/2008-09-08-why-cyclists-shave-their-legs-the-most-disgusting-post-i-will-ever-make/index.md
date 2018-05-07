@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/09/08/why-cyclists-shave-their-legs-the-most-disgusting-post-i-will-ever-make/"
 tags:
-- Cycling
-- accident
-- Cycling
-- gross
+  - "Cycling"
+  - "accident"
+  - "Cycling"
+  - "gross"
 date: '2008-09-08T06:00:00Z'
 templateKey: blog-post
 path: "/why-cyclists-shave-their-legs-the-most-disgusting-post-i-will-ever-make"

@@ -2,7 +2,7 @@
 title: Crystal
 author: Justin Ball
 tags:
-- canvas
+  - "canvas"
 date: 2018-04-12T10:00:00.000Z
 templateKey: blog-post
 path: "/crystal-lang"

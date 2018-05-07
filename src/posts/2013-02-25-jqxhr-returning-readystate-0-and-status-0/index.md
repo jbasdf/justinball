@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2013/02/25/jqxhr-returning-readystate-0-and-status-0/"
 tags:
-- Programming
-- Javascript
+  - "Programming"
+  - "Javascript"
 date: '2013-02-25T07:00:00Z'
 templateKey: blog-post
 path: "/jqxhr-returning-readystate-0-and-status-0"

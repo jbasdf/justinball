@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2009/04/18/first-ride-up-black-smith-fork-canyon-this-season/"
 tags:
-- Cycling
-- Black Smith Fork Canyon
+  - "Cycling"
+  - "Black Smith Fork Canyon"
 date: '2009-04-18T06:00:00Z'
 templateKey: blog-post
 path: "/first-ride-up-black-smith-fork-canyon-this-season"

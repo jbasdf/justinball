@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/28/lego-is-50/"
 tags:
-- Fun Stuff
-- Lego
+  - "Fun Stuff"
+  - "Lego"
 date: '2008-01-28T07:00:00Z'
 templateKey: blog-post
 path: "/lego-is-50"

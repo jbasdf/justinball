@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/07/25/shoulda-doesnt-like-status/"
 tags:
-- Ruby On Rails
-- bugs
-- Ruby On Rails
-- shoulda
+  - "Ruby On Rails"
+  - "bugs"
+  - "Ruby On Rails"
+  - "shoulda"
 date: '2008-07-25T06:00:00Z'
 templateKey: blog-post
 path: "/shoulda-doesnt-like-status"

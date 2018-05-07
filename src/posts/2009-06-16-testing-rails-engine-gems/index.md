@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2009/06/16/testing-rails-engine-gems/"
 tags:
-- Ruby On Rails
-- engines testing
-- gems
-- Ruby On Rails
+  - "Ruby On Rails"
+  - "engines testing"
+  - "gems"
+  - "Ruby On Rails"
 date: '2009-06-16T06:00:00Z'
 templateKey: blog-post
 path: "/testing-rails-engine-gems"

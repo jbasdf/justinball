@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/10/25/some-cool-house-plans/"
 tags:
-- house plans
-- The Plan Collection
-- home plans
-- house plans
-- theplancollection.com
+  - "house plans"
+  - "The Plan Collection"
+  - "home plans"
+  - "house plans"
+  - "theplancollection.com"
 date: '2008-10-25T06:00:00Z'
 templateKey: blog-post
 path: "/some-cool-house-plans"

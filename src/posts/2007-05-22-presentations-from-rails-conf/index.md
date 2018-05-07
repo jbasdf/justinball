@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/05/22/presentations-from-rails-conf/"
 tags:
-- RailsConf
-- RailsConf07
-- rails conference
-- Ruby On Rails
+  - "RailsConf"
+  - "RailsConf07"
+  - "rails conference"
+  - "Ruby On Rails"
 date: '2007-05-22T06:00:00Z'
 templateKey: blog-post
 path: "/presentations-from-rails-conf"

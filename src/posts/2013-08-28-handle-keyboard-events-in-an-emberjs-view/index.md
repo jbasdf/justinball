@@ -3,8 +3,8 @@ title: Handle Keyboard events in an Ember.js view
 author: Justin Ball
 layout: post
 tags:
-- Javscript
-- Ember.js
+  - "Javscript"
+  - "Ember.js"
 date: '2013-08-28T06:00:00Z'
 templateKey: blog-post
 path: "/handle-keyboard-events-in-an-emberjs-view"

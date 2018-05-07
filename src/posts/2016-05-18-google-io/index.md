@@ -4,10 +4,10 @@ author: Justin Ball
 title: Google IO Day 1
 date: '2016-05-18T06:00:00Z'
 tags:
-- Google
-- Conference
-- Programming
-- Firebase
+  - "Google"
+  - "Conference"
+  - "Programming"
+  - "Firebase"
 templateKey: blog-post
 path: "/google-io"
 description: ''

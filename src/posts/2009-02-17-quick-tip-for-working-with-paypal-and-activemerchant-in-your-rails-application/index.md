@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2009/02/17/quick-tip-for-working-with-paypal-and-activemerchant-in-your-rails-application/"
 tags:
-- Ruby On Rails
-- activemerchant
-- paypal
-- Ruby On Rails
+  - "Ruby On Rails"
+  - "activemerchant"
+  - "paypal"
+  - "Ruby On Rails"
 date: '2009-02-17T07:00:00Z'
 templateKey: blog-post
 path: "/quick-tip-for-working-with-paypal-and-activemerchant-in-your-rails-application"

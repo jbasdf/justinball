@@ -4,14 +4,14 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/18/the-internet-currency/"
 tags:
-- Interesting
-- internet
-- currency
-- economics
-- internet
-- money
-- reputation
-- SEO
+  - "Interesting"
+  - "internet"
+  - "currency"
+  - "economics"
+  - "internet"
+  - "money"
+  - "reputation"
+  - "SEO"
 date: '2008-03-18T06:00:00Z'
 templateKey: blog-post
 path: "/the-internet-currency"

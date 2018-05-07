@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2006/07/28/setting-up-new-macbook-pro/"
 tags:
-- Computers
+  - "Computers"
 date: '2006-07-28T06:00:00Z'
 templateKey: blog-post
 path: "/setting-up-new-macbook-pro"

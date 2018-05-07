@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2007/10/08/no-i-wont-fix-your-computer/"
 tags:
-- Computers
-- Computers
-- fix
-- geek
-- rant
+  - "Computers"
+  - "Computers"
+  - "fix"
+  - "geek"
+  - "rant"
 date: '2007-10-08T06:00:00Z'
 templateKey: blog-post
 path: "/no-i-wont-fix-your-computer"

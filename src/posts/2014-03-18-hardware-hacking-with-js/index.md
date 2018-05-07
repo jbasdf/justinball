@@ -4,9 +4,9 @@ author: Justin Ball
 title: Hardware Hacking with JS
 date: '2014-03-18T06:00:00Z'
 tags:
-- Mountain West Javascript
-- mwjs
-- Javascript
+  - "Mountain West Javascript"
+  - "mwjs"
+  - "Javascript"
 templateKey: blog-post
 path: "/hardware-hacking-with-js"
 description: ''

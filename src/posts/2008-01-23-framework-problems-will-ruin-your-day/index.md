@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/23/framework-problems-will-ruin-your-day/"
 tags:
-- The Plan Collection
-- code generation
-- Programming
-- theplancollection
+  - "The Plan Collection"
+  - "code generation"
+  - "Programming"
+  - "theplancollection"
 date: '2008-01-23T07:00:00Z'
 templateKey: blog-post
 path: "/framework-problems-will-ruin-your-day"

@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/06/02/im-just-so-happy/"
 tags:
-- kids
-- disneyland
-- happy
+  - "kids"
+  - "disneyland"
+  - "happy"
 date: '2008-06-02T06:00:00Z'
 templateKey: blog-post
 path: "/im-just-so-happy"

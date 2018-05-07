@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/12/ruby-fs-api/"
 tags:
-- genealogy
-- API
-- family search
-- genealogy
-- ruby
-- Ruby On Rails
+  - "genealogy"
+  - "API"
+  - "family search"
+  - "genealogy"
+  - "ruby"
+  - "Ruby On Rails"
 date: '2008-03-12T06:00:00Z'
 templateKey: blog-post
 path: "/ruby-fs-api"

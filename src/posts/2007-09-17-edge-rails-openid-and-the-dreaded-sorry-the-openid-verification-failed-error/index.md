@@ -5,12 +5,12 @@ author: Justin Ball
 layout: post
 permalink: "/2007/09/17/edge-rails-openid-and-the-dreaded-sorry-the-openid-verification-failed-error/"
 tags:
-- OpenID
-- Ruby On Rails
-- edge rails
-- errors
-- OpenID
-- Ruby On Rails
+  - "OpenID"
+  - "Ruby On Rails"
+  - "edge rails"
+  - "errors"
+  - "OpenID"
+  - "Ruby On Rails"
 date: '2007-09-17T06:00:00Z'
 templateKey: blog-post
 path: "/edge-rails-openid-and-the-dreaded-sorry-the-openid-verification-failed-error"

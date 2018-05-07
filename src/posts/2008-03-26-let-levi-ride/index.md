@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/26/let-levi-ride/"
 tags:
-- Cycling
-- Cycling
-- Levi Leipheimer
-- Tour de France
+  - "Cycling"
+  - "Cycling"
+  - "Levi Leipheimer"
+  - "Tour de France"
 date: '2008-03-26T06:00:00Z'
 templateKey: blog-post
 path: "/let-levi-ride"

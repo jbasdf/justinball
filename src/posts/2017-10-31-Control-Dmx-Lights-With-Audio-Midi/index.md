@@ -3,12 +3,12 @@ title: Control DMX Lights With Audio Midi
 author: Justin Ball
 layout: post
 tags:
-- learning
-- DMX
-- lesson
-- programming
-- tutorial
-- chauvet obey 40
+  - "learning"
+  - "DMX"
+  - "lesson"
+  - "programming"
+  - "tutorial"
+  - "chauvet obey 40"
 date: 2017-10-31T06:34:32.000Z
 templateKey: blog-post
 path: "/Control-Dmx-Lights-With-Audio-Midi"

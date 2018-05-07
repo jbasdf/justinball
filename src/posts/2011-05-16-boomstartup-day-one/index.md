@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2011/05/16/boomstartup-day-one/"
 tags:
-- boomstartup
-- startups
+  - "boomstartup"
+  - "startups"
 date: '2011-05-16T06:00:00Z'
 templateKey: blog-post
 path: "/boomstartup-day-one"

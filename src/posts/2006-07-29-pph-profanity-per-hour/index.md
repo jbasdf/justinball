@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2006/07/29/pph-profanity-per-hour/"
 tags:
-- Programming
+  - "Programming"
 date: '2006-07-29T06:00:00Z'
 templateKey: blog-post
 path: "/pph-profanity-per-hour"

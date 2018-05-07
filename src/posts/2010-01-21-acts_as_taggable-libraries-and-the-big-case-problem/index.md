@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2010/01/21/acts_as_taggable-libraries-and-the-big-case-problem/"
 tags:
-- acts as taggable
-- folksonomy
-- Ruby On Rails
+  - "acts as taggable"
+  - "folksonomy"
+  - "Ruby On Rails"
 date: '2010-01-21T07:00:00Z'
 templateKey: blog-post
 path: "/acts_as_taggable-libraries-and-the-big-case-problem"

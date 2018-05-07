@@ -4,19 +4,19 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/08/elastic-cloud-computing/"
 tags:
-- hosting
-- internet
-- Programming
-- Projects
-- Ruby On Rails
-- 3tera
-- cloud computing
-- ec2
-- elastra
-- mosso
-- rightscale
-- ruby_on_rails
-- scalability
+  - "hosting"
+  - "internet"
+  - "Programming"
+  - "Projects"
+  - "Ruby On Rails"
+  - "3tera"
+  - "cloud computing"
+  - "ec2"
+  - "elastra"
+  - "mosso"
+  - "rightscale"
+  - "ruby_on_rails"
+  - "scalability"
 date: '2008-04-08T06:00:00Z'
 templateKey: blog-post
 path: "/elastic-cloud-computing"

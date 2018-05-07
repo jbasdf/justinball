@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/12/creative-commons-opens-legal-documents/"
 tags:
-- Programming
-- API
-- creative commons
-- EFF
-- legal
+  - "Programming"
+  - "API"
+  - "creative commons"
+  - "EFF"
+  - "legal"
 date: '2008-02-12T07:00:00Z'
 templateKey: blog-post
 path: "/creative-commons-opens-legal-documents"

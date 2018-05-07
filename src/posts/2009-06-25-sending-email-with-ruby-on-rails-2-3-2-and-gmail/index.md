@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2009/06/25/sending-email-with-ruby-on-rails-2-3-2-and-gmail/"
 tags:
-- 2.3.2
-- configuration
-- email
-- gmail
-- Ruby On Rails
+  - "2.3.2"
+  - "configuration"
+  - "email"
+  - "gmail"
+  - "Ruby On Rails"
 date: '2009-06-25T06:00:00Z'
 templateKey: blog-post
 path: "/sending-email-with-ruby-on-rails-2-3-2-and-gmail"

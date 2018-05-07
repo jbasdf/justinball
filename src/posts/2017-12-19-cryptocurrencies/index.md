@@ -3,11 +3,11 @@ title: cryptocurrencies
 author: Justin Ball
 layout: post
 tags:
-- learning
-- litecoin
-- antshares
-- ethereum
-- cryptocurrencies
+  - "learning"
+  - "litecoin"
+  - "antshares"
+  - "ethereum"
+  - "cryptocurrencies"
 date: 2017-12-19T16:50:40.000Z
 templateKey: blog-post
 path: "/crypto-ethereum"

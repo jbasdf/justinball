@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2013/05/10/huntsman-awards-for-excellence-in-education/"
 tags:
-- Family
-- Education
+  - "Family"
+  - "Education"
 date: '2013-05-10T06:00:00Z'
 templateKey: blog-post
 path: "/huntsman-awards-for-excellence-in-education"

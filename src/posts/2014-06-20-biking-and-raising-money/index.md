@@ -4,7 +4,7 @@ author: Justin Ball
 title: Biking and Raising Money
 date: '2014-06-20T06:00:00Z'
 tags:
-- Cycling
+  - "Cycling"
 templateKey: blog-post
 path: "/biking-and-raising-money"
 description: ''

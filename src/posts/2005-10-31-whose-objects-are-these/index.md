@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2005/10/31/whose-objects-are-these/"
 tags:
-- School
+  - "School"
 date: '2005-10-31T07:00:00Z'
 templateKey: blog-post
 path: "/whose-objects-are-these"

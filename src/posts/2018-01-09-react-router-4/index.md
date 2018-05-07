@@ -3,8 +3,8 @@ title: React Router 4
 author: Justin Ball
 layout: post
 tags:
-- learning
-- reactrouter
+  - "learning"
+  - "reactrouter"
 date: 2018-01-09T16:30:24.000Z
 templateKey: blog-post
 path: "/react-router-4"

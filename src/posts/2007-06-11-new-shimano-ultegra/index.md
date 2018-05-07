@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2007/06/11/new-shimano-ultegra/"
 tags:
-- Cycling
-- Cycling
-- DuraAce
-- Shimano
-- Ultegra
+  - "Cycling"
+  - "Cycling"
+  - "DuraAce"
+  - "Shimano"
+  - "Ultegra"
 date: '2007-06-11T06:00:00Z'
 templateKey: blog-post
 path: "/new-shimano-ultegra"

@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2006/03/14/so-ya-i-am-like-busy/"
 tags:
-- Projects
+  - "Projects"
 date: '2006-03-14T07:00:00Z'
 templateKey: blog-post
 path: "/so-ya-i-am-like-busy"

@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2005/09/12/domain-camping-and-the-debate-about-the-about-me/"
 tags:
-- Interesting
-- domains
-- justin ball
-- me
+  - "Interesting"
+  - "domains"
+  - "justin ball"
+  - "me"
 date: '2005-09-12T06:00:00Z'
 templateKey: blog-post
 path: "/domain-camping-and-the-debate-about-the-about-me"

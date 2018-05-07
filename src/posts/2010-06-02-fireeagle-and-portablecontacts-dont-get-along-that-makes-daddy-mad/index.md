@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2010/06/02/fireeagle-and-portablecontacts-dont-get-along-that-makes-daddy-mad/"
 tags:
-- fireeagle
-- gems
-- Oauth
-- portablecontacts
-- ruby
-- Ruby On Rails
+  - "fireeagle"
+  - "gems"
+  - "Oauth"
+  - "portablecontacts"
+  - "ruby"
+  - "Ruby On Rails"
 date: '2010-06-02T06:00:00Z'
 templateKey: blog-post
 path: "/fireeagle-and-portablecontacts-dont-get-along-that-makes-daddy-mad"

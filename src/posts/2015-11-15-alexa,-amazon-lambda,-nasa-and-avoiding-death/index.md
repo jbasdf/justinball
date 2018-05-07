@@ -4,7 +4,7 @@ author: Justin Ball
 title: Alexa, Amazon Lambda, NASA and avoiding death
 date: '2015-11-15T07:00:00Z'
 tags:
-- Programming
+  - "Programming"
 templateKey: blog-post
 path: "/alexa,-amazon-lambda,-nasa-and-avoiding-death"
 description: ''

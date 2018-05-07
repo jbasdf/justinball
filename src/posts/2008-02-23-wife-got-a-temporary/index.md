@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/23/wife-got-a-temporary/"
 tags:
-- Funny
+  - "Funny"
 date: '2008-02-23T07:00:00Z'
 templateKey: blog-post
 path: "/wife-got-a-temporary"

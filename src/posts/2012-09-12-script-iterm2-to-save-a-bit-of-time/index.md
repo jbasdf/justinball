@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2012/09/12/script-iterm2-to-save-a-bit-of-time/"
 tags:
-- Programming
+  - "Programming"
 date: '2012-09-12T06:00:00Z'
 templateKey: blog-post
 path: "/script-iterm2-to-save-a-bit-of-time"

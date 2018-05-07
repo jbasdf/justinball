@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/19/project-one-goes-live-with-the-new-madones/"
 tags:
-- Cycling
-- madone
-- project one
-- trek
+  - "Cycling"
+  - "madone"
+  - "project one"
+  - "trek"
 date: '2008-03-19T06:00:00Z'
 templateKey: blog-post
 path: "/project-one-goes-live-with-the-new-madones"

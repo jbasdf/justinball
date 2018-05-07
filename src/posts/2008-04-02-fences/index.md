@@ -4,14 +4,14 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/02/fences/"
 tags:
-- business
-- Community
-- business
-- Community
-- fences
-- neighbors
-- user interface
-- web design
+  - "business"
+  - "Community"
+  - "business"
+  - "Community"
+  - "fences"
+  - "neighbors"
+  - "user interface"
+  - "web design"
 date: '2008-04-02T06:00:00Z'
 templateKey: blog-post
 path: "/fences"

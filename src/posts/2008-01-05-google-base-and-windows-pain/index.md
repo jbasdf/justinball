@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/05/google-base-and-windows-pain/"
 tags:
-- Programming
-- Programming
-- The Plan Collection
-- windows
+  - "Programming"
+  - "Programming"
+  - "The Plan Collection"
+  - "windows"
 date: '2008-01-05T07:00:00Z'
 templateKey: blog-post
 path: "/google-base-and-windows-pain"

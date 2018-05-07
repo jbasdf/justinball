@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2007/03/27/all-the-dinosaurs-are-killed/"
 tags:
-- Jenna
-- Funny
-- kids
+  - "Jenna"
+  - "Funny"
+  - "kids"
 date: '2007-03-27T06:00:00Z'
 templateKey: blog-post
 path: "/all-the-dinosaurs-are-killed"

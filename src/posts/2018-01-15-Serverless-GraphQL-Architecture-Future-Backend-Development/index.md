@@ -3,9 +3,9 @@ title: Serverless GraphQL Architecture Future Backend Development
 author: Justin Ball
 layout: post
 tags:
-- learning
-- graphql
-- serverless
+  - "learning"
+  - "graphql"
+  - "serverless"
 date: 2018-01-15T06:10:13.000Z
 templateKey: blog-post
 path: "/Serverless-GraphQL-Architecture-Future-Backend-Development"

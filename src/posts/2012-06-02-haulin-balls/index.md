@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2012/06/02/haulin-balls/"
 tags:
-- Family
+  - "Family"
 date: '2012-06-02T06:00:00Z'
 templateKey: blog-post
 path: "/haulin-balls"

@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2011/07/19/loving-goliath-watch-out-for-stones/"
 tags:
-- OER
-- OER Glue
-- Ruby
-- Event Machine
-- Goliath
+  - "OER"
+  - "OER Glue"
+  - "Ruby"
+  - "Event Machine"
+  - "Goliath"
 date: '2011-07-19T06:00:00Z'
 templateKey: blog-post
 path: "/loving-goliath-watch-out-for-stones"

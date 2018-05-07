@@ -3,9 +3,9 @@ title: Wordpress Plugins
 author: Justin Ball
 layout: post
 tags:
-- learning
-- Wordpress
-- Plugin
+  - "learning"
+  - "Wordpress"
+  - "Plugin"
 date: 2018-01-22T16:51:53.000Z
 templateKey: blog-post
 path: "/wordpress-plugins"

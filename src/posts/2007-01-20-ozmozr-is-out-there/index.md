@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2007/01/20/ozmozr-is-out-there/"
 tags:
-- COSL
-- ozmozr
-- Web2.0
+  - "COSL"
+  - "ozmozr"
+  - "Web2.0"
 date: '2007-01-20T07:00:00Z'
 templateKey: blog-post
 path: "/ozmozr-is-out-there"

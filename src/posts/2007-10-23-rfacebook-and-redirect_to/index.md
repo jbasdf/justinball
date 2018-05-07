@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/10/23/rfacebook-and-redirect_to/"
 tags:
-- Ruby On Rails
-- redirect_to
-- rFacebook
-- ruby_on_rails
+  - "Ruby On Rails"
+  - "redirect_to"
+  - "rFacebook"
+  - "ruby_on_rails"
 date: '2007-10-23T06:00:00Z'
 templateKey: blog-post
 path: "/rfacebook-and-redirect_to"

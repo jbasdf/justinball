@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/29/the-logistics-of-life/"
 tags:
-- Interesting
-- life
-- logistics
+  - "Interesting"
+  - "life"
+  - "logistics"
 date: '2008-01-29T07:00:00Z'
 templateKey: blog-post
 path: "/the-logistics-of-life"

@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2009/01/26/house-plans-that-look-good-in-the-snow/"
 tags:
-- Funny
-- home plans
-- house plans
-- theplancollection
+  - "Funny"
+  - "home plans"
+  - "house plans"
+  - "theplancollection"
 date: '2009-01-26T07:00:00Z'
 templateKey: blog-post
 path: "/house-plans-that-look-good-in-the-snow"

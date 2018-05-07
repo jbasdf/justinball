@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2010/08/13/cycling-is-for-old-guys/"
 tags:
-- Cycling
+  - "Cycling"
 date: '2010-08-13T06:00:00Z'
 templateKey: blog-post
 path: "/cycling-is-for-old-guys"

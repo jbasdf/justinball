@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2007/06/06/2008-trek-madone/"
 tags:
-- Cycling
+  - "Cycling"
 date: '2007-06-06T06:00:00Z'
 templateKey: blog-post
 path: "/2008-trek-madone"

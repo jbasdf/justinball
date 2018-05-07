@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2012/10/02/one-more-logan-canyon-nature-trail/"
 tags:
-- Autumn
-- Logan Canyon
+  - "Autumn"
+  - "Logan Canyon"
 date: '2012-10-02T06:00:00Z'
 templateKey: blog-post
 path: "/one-more-logan-canyon-nature-trail"

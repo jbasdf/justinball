@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/14/starting-up/"
 tags:
-- business
-- business
-- start ups
+  - "business"
+  - "business"
+  - "start ups"
 date: '2008-03-14T06:00:00Z'
 templateKey: blog-post
 path: "/starting-up"

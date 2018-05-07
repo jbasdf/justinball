@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/05/19/practical-design-for-developers-david-verba/"
 tags:
-- RailsConf
-- RailsConf07
-- RailsConf07
-- Ruby On Rails
+  - "RailsConf"
+  - "RailsConf07"
+  - "RailsConf07"
+  - "Ruby On Rails"
 date: '2007-05-19T06:00:00Z'
 templateKey: blog-post
 path: "/practical-design-for-developers-david-verba"

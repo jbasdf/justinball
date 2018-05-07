@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/27/kill-internet-explorer-with-css/"
 tags:
-- House Stuff
-- internet
-- Programming
-- bugs
-- enterprise
-- Internet Explorer
+  - "House Stuff"
+  - "internet"
+  - "Programming"
+  - "bugs"
+  - "enterprise"
+  - "Internet Explorer"
 date: '2008-02-27T07:00:00Z'
 templateKey: blog-post
 path: "/kill-internet-explorer-with-css"

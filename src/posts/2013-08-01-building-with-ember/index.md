@@ -3,8 +3,8 @@ title: Building with Ember
 author: Justin Ball
 layout: post
 tags:
-- Javscript
-- Ember.js
+  - "Javscript"
+  - "Ember.js"
 date: '2013-08-01T06:00:00Z'
 templateKey: blog-post
 path: "/building-with-ember"

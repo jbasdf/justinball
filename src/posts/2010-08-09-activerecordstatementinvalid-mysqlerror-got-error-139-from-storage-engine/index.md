@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2010/08/09/activerecordstatementinvalid-mysqlerror-got-error-139-from-storage-engine/"
 tags:
-- error
-- mysql
-- Ruby On Rails
+  - "error"
+  - "mysql"
+  - "Ruby On Rails"
 date: '2010-08-09T06:00:00Z'
 templateKey: blog-post
 path: "/activerecordstatementinvalid-mysqlerror-got-error-139-from-storage-engine"

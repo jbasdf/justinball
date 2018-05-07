@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/12/family-search-write/"
 tags:
-- genealogy
-- API
-- family search
-- genealogy
+  - "genealogy"
+  - "API"
+  - "family search"
+  - "genealogy"
 date: '2008-03-12T06:00:00Z'
 templateKey: blog-post
 path: "/family-search-write"

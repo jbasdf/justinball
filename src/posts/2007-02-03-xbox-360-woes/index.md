@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2007/02/03/xbox-360-woes/"
 tags:
-- Computers
+  - "Computers"
 date: '2007-02-03T07:00:00Z'
 templateKey: blog-post
 path: "/xbox-360-woes"

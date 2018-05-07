@@ -4,10 +4,10 @@ author: Justin Ball
 title: Heroku Database Limits
 date: '2014-09-11T06:00:00Z'
 tags:
-- Programming
-- Docker
-- Heroku
-- Digital Ocean
+  - "Programming"
+  - "Docker"
+  - "Heroku"
+  - "Digital Ocean"
 templateKey: blog-post
 path: "/heroku-database-limits"
 description: ''

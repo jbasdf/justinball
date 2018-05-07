@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2011/12/22/require-js-backbone-js-and-almond-js-example-application/"
 tags:
-- Javascript
-- jQuery
-- backbone.js
-- jQuery
-- require.js
+  - "Javascript"
+  - "jQuery"
+  - "backbone.js"
+  - "jQuery"
+  - "require.js"
 date: '2011-12-22T07:00:00Z'
 templateKey: blog-post
 path: "/require-js-backbone-js-and-almond-js-example-application"

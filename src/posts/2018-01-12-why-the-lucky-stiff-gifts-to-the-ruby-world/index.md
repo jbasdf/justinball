@@ -3,8 +3,8 @@ title: Why the Lucky Stiff's Gifts to the Ruby World
 author: Justin Ball
 layout: post
 tags:
-- learning
-- ruby
+  - "learning"
+  - "ruby"
 date: 2018-01-12T20:08:15.000Z
 templateKey: blog-post
 path: "/why-the-lucky-stiff-gifts-to-the-ruby-world"

@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2007/08/08/fashion-can-be-funny/"
 tags:
-- Fun Stuff
-- Funny
-- fashion
+  - "Fun Stuff"
+  - "Funny"
+  - "fashion"
 date: '2007-08-08T06:00:00Z'
 templateKey: blog-post
 path: "/fashion-can-be-funny"

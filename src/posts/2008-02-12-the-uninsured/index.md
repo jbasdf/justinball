@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/12/the-uninsured/"
 tags:
-- Interesting
-- ama
-- health insurance
-- politics
-- uninsured
+  - "Interesting"
+  - "ama"
+  - "health insurance"
+  - "politics"
+  - "uninsured"
 date: '2008-02-12T07:00:00Z'
 templateKey: blog-post
 path: "/the-uninsured"

@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2013/04/30/requisite-moved-from-wordpress-to-jekyll-post/"
 tags:
-- Software Development
+  - "Software Development"
 date: '2013-04-30T06:00:00Z'
 templateKey: blog-post
 path: "/requisite-moved-from-wordpress-to-jekyll-post"

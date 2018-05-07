@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/03/payday-lenders-suck/"
 tags:
-- Interesting
-- courts
-- loans
-- payday lenders
-- ridiculous
+  - "Interesting"
+  - "courts"
+  - "loans"
+  - "payday lenders"
+  - "ridiculous"
 date: '2008-02-03T07:00:00Z'
 templateKey: blog-post
 path: "/payday-lenders-suck"

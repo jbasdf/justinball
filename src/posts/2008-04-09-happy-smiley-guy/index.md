@@ -4,16 +4,16 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/09/happy-smiley-guy/"
 tags:
-- Cycling
-- Cycling
-- democray
-- happy
-- human rights
-- olympic torch
-- olympics
-- optimism
-- values
-- walmart
+  - "Cycling"
+  - "Cycling"
+  - "democray"
+  - "happy"
+  - "human rights"
+  - "olympic torch"
+  - "olympics"
+  - "optimism"
+  - "values"
+  - "walmart"
 date: '2008-04-09T06:00:00Z'
 templateKey: blog-post
 path: "/happy-smiley-guy"

@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2007/05/19/taking-care-of-rails-support-tasks-through-custom-daemons-tammer-saleh/"
 tags:
-- RailsConf
-- RailsConf07
-- RailsConf07
-- Ruby On Rails
+  - "RailsConf"
+  - "RailsConf07"
+  - "RailsConf07"
+  - "Ruby On Rails"
 date: '2007-05-19T06:00:00Z'
 templateKey: blog-post
 path: "/taking-care-of-rails-support-tasks-through-custom-daemons-tammer-saleh"

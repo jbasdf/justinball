@@ -4,8 +4,8 @@ author: Justin Ball
 title: Docker for Mac debugging
 date: '2016-09-09T06:00:00Z'
 tags:
-- Docker
-- Programming
+  - "Docker"
+  - "Programming"
 templateKey: blog-post
 path: "/docker-for-mac-debugging"
 description: ''

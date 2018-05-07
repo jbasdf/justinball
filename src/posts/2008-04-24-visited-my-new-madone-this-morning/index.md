@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/24/visited-my-new-madone-this-morning/"
 tags:
-- Cycling
-- 2008 Trek Madone
-- madone
-- my bike
-- trek
+  - "Cycling"
+  - "2008 Trek Madone"
+  - "madone"
+  - "my bike"
+  - "trek"
 date: '2008-04-24T06:00:00Z'
 templateKey: blog-post
 path: "/visited-my-new-madone-this-morning"

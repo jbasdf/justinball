@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/02/interesting-things-from-today/"
 tags:
-- Devin
-- Interesting
-- Interesting
-- pickle soup
+  - "Devin"
+  - "Interesting"
+  - "Interesting"
+  - "pickle soup"
 date: '2008-04-02T06:00:00Z'
 templateKey: blog-post
 path: "/interesting-things-from-today"

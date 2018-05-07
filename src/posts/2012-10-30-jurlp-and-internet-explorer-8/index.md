@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2012/10/30/jurlp-and-internet-explorer-8/"
 tags:
-- Javascript
-- jQuery
-- jurlp
+  - "Javascript"
+  - "jQuery"
+  - "jurlp"
 date: '2012-10-30T06:00:00Z'
 templateKey: blog-post
 path: "/jurlp-and-internet-explorer-8"

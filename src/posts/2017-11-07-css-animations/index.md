@@ -3,8 +3,8 @@ title: CSS Animations Crash Course.
 author: Justin Ball
 layout: post
 tags:
-- learning
-- css animations
+  - "learning"
+  - "css animations"
 date: 2017-11-07T19:06:45.000Z
 templateKey: blog-post
 path: "/css-animations"

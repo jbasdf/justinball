@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2007/06/30/iphone-active/"
 tags:
-- Waste of Time
-- iPhone
+  - "Waste of Time"
+  - "iPhone"
 date: '2007-06-30T06:00:00Z'
 templateKey: blog-post
 path: "/iphone-active"

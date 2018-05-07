@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/04/01/ringside-networks/"
 tags:
-- Social Software
-- open source
-- ringside networks
-- Social Software
+  - "Social Software"
+  - "open source"
+  - "ringside networks"
+  - "Social Software"
 date: '2008-04-01T06:00:00Z'
 templateKey: blog-post
 path: "/ringside-networks"

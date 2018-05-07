@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2011/03/15/babelphish-is-a-little-less-rotten/"
 tags:
-- Ruby
+  - "Ruby"
 date: '2011-03-15T06:00:00Z'
 templateKey: blog-post
 path: "/babelphish-is-a-little-less-rotten"

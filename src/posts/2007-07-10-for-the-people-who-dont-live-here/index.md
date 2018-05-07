@@ -4,14 +4,14 @@ author: Justin Ball
 layout: post
 permalink: "/2007/07/10/for-the-people-who-dont-live-here/"
 tags:
-- Cycling
-- Fun Stuff
-- Interesting
-- Cycling
-- logan
-- mountain biking
-- river trail
-- utah
+  - "Cycling"
+  - "Fun Stuff"
+  - "Interesting"
+  - "Cycling"
+  - "logan"
+  - "mountain biking"
+  - "river trail"
+  - "utah"
 date: '2007-07-10T06:00:00Z'
 templateKey: blog-post
 path: "/for-the-people-who-dont-live-here"

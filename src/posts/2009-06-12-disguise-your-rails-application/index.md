@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2009/06/12/disguise-your-rails-application/"
 tags:
-- Ruby On Rails
-- disguise
-- gem
-- Ruby On Rails
-- theming skin
+  - "Ruby On Rails"
+  - "disguise"
+  - "gem"
+  - "Ruby On Rails"
+  - "theming skin"
 date: '2009-06-12T06:00:00Z'
 templateKey: blog-post
 path: "/disguise-your-rails-application"

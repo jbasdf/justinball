@@ -4,8 +4,8 @@ author: Justin Ball
 title: Oasis of the Seas
 date: '2016-02-07T07:00:00Z'
 tags:
-- Travel
-- Vacation
+  - "Travel"
+  - "Vacation"
 templateKey: blog-post
 path: "/oasis_of_the_seas"
 description: ''

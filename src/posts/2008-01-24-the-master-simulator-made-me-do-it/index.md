@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/01/24/the-master-simulator-made-me-do-it/"
 tags:
-- Interesting
-- Interesting
-- robots
-- Science
+  - "Interesting"
+  - "Interesting"
+  - "robots"
+  - "Science"
 date: '2008-01-24T07:00:00Z'
 templateKey: blog-post
 path: "/the-master-simulator-made-me-do-it"

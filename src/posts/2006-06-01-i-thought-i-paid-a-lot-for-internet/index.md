@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2006/06/01/i-thought-i-paid-a-lot-for-internet/"
 tags:
-- The Web
+  - "The Web"
 date: '2006-06-01T06:00:00Z'
 templateKey: blog-post
 path: "/i-thought-i-paid-a-lot-for-internet"

@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2007/01/05/kids-learn-fast/"
 tags:
-- Alyssa
-- Funny
+  - "Alyssa"
+  - "Funny"
 date: '2007-01-05T07:00:00Z'
 templateKey: blog-post
 path: "/kids-learn-fast"

@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2007/01/05/computer-theories/"
 tags:
-- Computers
+  - "Computers"
 date: '2007-01-05T07:00:00Z'
 templateKey: blog-post
 path: "/computer-theories"

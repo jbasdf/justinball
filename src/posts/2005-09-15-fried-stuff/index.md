@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2005/09/15/fried-stuff/"
 tags:
-- Life
+  - "Life"
 date: '2005-09-15T06:00:00Z'
 templateKey: blog-post
 path: "/fried-stuff"

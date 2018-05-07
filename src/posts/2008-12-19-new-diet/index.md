@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2008/12/19/new-diet/"
 tags:
-- Funny
-- consulting
-- diet
-- software
+  - "Funny"
+  - "consulting"
+  - "diet"
+  - "software"
 date: '2008-12-19T07:00:00Z'
 templateKey: blog-post
 path: "/new-diet"

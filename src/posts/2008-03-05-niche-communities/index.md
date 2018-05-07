@@ -4,12 +4,12 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/05/niche-communities/"
 tags:
-- Community
-- Web2.0
-- communities
-- Social Software
-- Web2.0
-- Wordpress
+  - "Community"
+  - "Web2.0"
+  - "communities"
+  - "Social Software"
+  - "Web2.0"
+  - "Wordpress"
 date: '2008-03-05T07:00:00Z'
 templateKey: blog-post
 path: "/niche-communities"

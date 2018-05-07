@@ -5,12 +5,12 @@ author: Justin Ball
 layout: post
 permalink: "/2010/07/20/userfly-ruined-my-weekend-jqueryform-ajax-ajaxform-is-not-a-function/"
 tags:
-- Programming
-- ajax
-- debugging
-- javascript
-- jQuery
-- userfly
+  - "Programming"
+  - "ajax"
+  - "debugging"
+  - "javascript"
+  - "jQuery"
+  - "userfly"
 date: '2010-07-20T06:00:00Z'
 templateKey: blog-post
 path: "/userfly-ruined-my-weekend-jqueryform-ajax-ajaxform-is-not-a-function"

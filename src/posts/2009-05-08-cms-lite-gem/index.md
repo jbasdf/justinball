@@ -4,10 +4,10 @@ author: Justin Ball
 layout: post
 permalink: "/2009/05/08/cms-lite-gem/"
 tags:
-- Ruby On Rails
-- cms
-- gem
-- Ruby On Rails
+  - "Ruby On Rails"
+  - "cms"
+  - "gem"
+  - "Ruby On Rails"
 date: '2009-05-08T06:00:00Z'
 templateKey: blog-post
 path: "/cms-lite-gem"

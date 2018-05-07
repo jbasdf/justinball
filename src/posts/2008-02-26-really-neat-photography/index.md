@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2008/02/26/really-neat-photography/"
 tags:
-- Interesting
-- art
-- photography
+  - "Interesting"
+  - "art"
+  - "photography"
 date: '2008-02-26T07:00:00Z'
 templateKey: blog-post
 path: "/really-neat-photography"

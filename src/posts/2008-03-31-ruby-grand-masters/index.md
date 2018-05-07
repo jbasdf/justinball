@@ -4,14 +4,14 @@ author: Justin Ball
 layout: post
 permalink: "/2008/03/31/ruby-grand-masters/"
 tags:
-- mtnwestrubyconf
-- Programming
-- Ruby On Rails
-- chess
-- grand master
-- mtnwestrubyconf
-- ruby
-- Ruby On Rails
+  - "mtnwestrubyconf"
+  - "Programming"
+  - "Ruby On Rails"
+  - "chess"
+  - "grand master"
+  - "mtnwestrubyconf"
+  - "ruby"
+  - "Ruby On Rails"
 date: '2008-03-31T06:00:00Z'
 templateKey: blog-post
 path: "/ruby-grand-masters"

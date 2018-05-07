@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2012/10/22/install-rvm-on-mac-osx-mountain-lion/"
 tags:
-- Ruby
+  - "Ruby"
 date: '2012-10-22T06:00:00Z'
 templateKey: blog-post
 path: "/install-rvm-on-mac-osx-mountain-lion"

@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2005/12/25/merry-christmas-to-all/"
 tags:
-- Alyssa
-- Aubrey
-- The Kids
+  - "Alyssa"
+  - "Aubrey"
+  - "The Kids"
 date: '2005-12-25T07:00:00Z'
 templateKey: blog-post
 path: "/merry-christmas-to-all"

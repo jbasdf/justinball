@@ -4,9 +4,9 @@ author: Justin Ball
 layout: post
 permalink: "/2013/01/16/macademia-nut-pancakes-rain-and-the-polynesian-culture-center/"
 tags:
-- Travel
-- Oahu
-- Hawaii
+  - "Travel"
+  - "Oahu"
+  - "Hawaii"
 date: '2013-01-16T07:00:00Z'
 templateKey: blog-post
 path: "/macademia-nut-pancakes-rain-and-the-polynesian-culture-center"

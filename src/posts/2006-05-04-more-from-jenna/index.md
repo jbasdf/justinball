@@ -4,8 +4,8 @@ author: Justin Ball
 layout: post
 permalink: "/2006/05/04/more-from-jenna/"
 tags:
-- Jenna
-- The Kids
+  - "Jenna"
+  - "The Kids"
 date: '2006-05-04T06:00:00Z'
 templateKey: blog-post
 path: "/more-from-jenna"

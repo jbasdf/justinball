@@ -3,8 +3,8 @@ title: GraphQL Playlist
 author: Justin Ball
 layout: post
 tags:
-- learning
-- graphql
+  - "learning"
+  - "graphql"
 date: 2018-01-08T18:51:29.000Z
 templateKey: blog-post
 path: "/graphql-playlist"

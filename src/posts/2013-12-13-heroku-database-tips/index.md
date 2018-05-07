@@ -4,8 +4,8 @@ author: Justin Ball
 title: Heroku Database Tips
 date: '2013-12-13T07:00:00Z'
 tags:
-- Heroku
-- PostGreSQL
+  - "Heroku"
+  - "PostGreSQL"
 templateKey: blog-post
 path: "/heroku-database-tips"
 description: ''

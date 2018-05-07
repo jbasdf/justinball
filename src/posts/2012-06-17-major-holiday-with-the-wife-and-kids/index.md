@@ -4,7 +4,7 @@ author: Justin Ball
 layout: post
 permalink: "/2012/06/17/major-holiday-with-the-wife-and-kids/"
 tags:
-- Family
+  - "Family"
 date: '2012-06-17T06:00:00Z'
 templateKey: blog-post
 path: "/major-holiday-with-the-wife-and-kids"

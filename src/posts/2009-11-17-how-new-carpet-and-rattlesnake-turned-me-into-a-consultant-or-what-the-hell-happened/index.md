@@ -7,9 +7,9 @@ author: Justin Ball
 layout: post
 permalink: "/2009/11/17/how-new-carpet-and-rattlesnake-turned-me-into-a-consultant-or-what-the-hell-happened/"
 tags:
-- life
-- Programming
-- consulting
+  - "life"
+  - "Programming"
+  - "consulting"
 date: '2009-11-17T07:00:00Z'
 templateKey: blog-post
 path: "/how-new-carpet-and-rattlesnake-turned-me-into-a-consultant-or-what-the-hell-happened"

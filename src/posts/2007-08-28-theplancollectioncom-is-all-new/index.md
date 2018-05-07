@@ -4,11 +4,11 @@ author: Justin Ball
 layout: post
 permalink: "/2007/08/28/theplancollectioncom-is-all-new/"
 tags:
-- The Plan Collection
-- development
-- house plans
-- small business
-- theplancollection
+  - "The Plan Collection"
+  - "development"
+  - "house plans"
+  - "small business"
+  - "theplancollection"
 date: '2007-08-28T06:00:00Z'
 templateKey: blog-post
 path: "/theplancollectioncom-is-all-new"

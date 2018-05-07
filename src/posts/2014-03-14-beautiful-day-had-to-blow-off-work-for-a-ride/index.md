@@ -4,7 +4,7 @@ author: Justin Ball
 title: Beautiful day. Had to blow off work for a ride
 date: '2014-03-14T06:00:00Z'
 tags:
-- Cycling
+  - "Cycling"
 templateKey: blog-post
 path: "/beautiful-day.-had-to-blow-off-work-for-a-ride"
 description: ''
