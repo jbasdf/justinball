@@ -8,7 +8,8 @@ Run this sed script to fix it:
 sed -E -i '' '/^---/,/^---/ s/^- (.+)/  - "\1"/' src/posts/**/*.md
 
 
-sed -E -i '' '/^---/,/^---/ s/^- ([0-9a-zA-Z]+) ([0-9a-zA-Z]+)/- "\1 \2"/' src/posts/**/*.md
+sed -E -i '' '/^---/,/^---/ s/- (\w+\s+.+)/- "\1"/' src/posts/**/*.md
+
 
 
 License and attribution
