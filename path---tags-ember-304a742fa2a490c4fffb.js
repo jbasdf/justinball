@@ -1,0 +1,2 @@
+webpackJsonp([0x8b5374318b35],{2501:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Refactoring and Making Promises",path:"/refactoring-and-making-promises"}}},{node:{frontmatter:{title:"Session timeout for your Ember application",path:"/session-timeout-for-your-ember-application"}}}]}},pathContext:{tag:"Ember"}}}});
+//# sourceMappingURL=path---tags-ember-304a742fa2a490c4fffb.js.map

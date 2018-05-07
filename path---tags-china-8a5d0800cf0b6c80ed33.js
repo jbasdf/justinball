@@ -1,0 +1,2 @@
+webpackJsonp([72112025088731],{2412:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"China Doesn't Like WordPress.com",path:"/china-doesnt-like-wordpresscom"}}}]}},pathContext:{tag:"china"}}}});
+//# sourceMappingURL=path---tags-china-8a5d0800cf0b6c80ed33.js.map

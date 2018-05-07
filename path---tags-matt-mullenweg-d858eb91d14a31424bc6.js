@@ -1,0 +1,2 @@
+webpackJsonp([0x60cd8f42a33a],{2700:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Utah WordPress Meetup",path:"/utah-wordpress-meetup"}}}]}},pathContext:{tag:"Matt Mullenweg"}}}});
+//# sourceMappingURL=path---tags-matt-mullenweg-d858eb91d14a31424bc6.js.map

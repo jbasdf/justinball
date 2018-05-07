@@ -1,0 +1,2 @@
+webpackJsonp([0xa337f0c94435],{2653:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"It&#8217;s Your Head Not Your Butt That Matters",path:"/its-your-head-not-your-butt-that-matters"}}}]}},pathContext:{tag:"knowledge workers"}}}});
+//# sourceMappingURL=path---tags-knowledge-workers-ef8dfae0bf85adbd981a.js.map

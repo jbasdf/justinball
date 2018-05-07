@@ -1,0 +1,2 @@
+webpackJsonp([0x63349037c8fa],{2970:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Twitter &#8211; The New Borg",path:"/twitter-the-new-borg"}}},{node:{frontmatter:{title:"Journal Writing Sucks, Blogging is Cool",path:"/journal-writing-sucks-blogging-is-cool"}}}]}},pathContext:{tag:"twitter"}}}});
+//# sourceMappingURL=path---tags-twitter-70ad0bc596c5fa095d75.js.map

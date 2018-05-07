@@ -1,0 +1,2 @@
+webpackJsonp([0x8aa428161ce3],{2566:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"New Website for Academic Types",path:"/new-website-for-academic-types"}}}]}},pathContext:{tag:"gistr"}}}});
+//# sourceMappingURL=path---tags-gistr-0e1b6f653229f4ebd9d8.js.map

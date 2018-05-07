@@ -1,0 +1,2 @@
+webpackJsonp([24830343210598],{2948:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Appreciate the Little Things",path:"/appreciate-the-little-things"}}},{node:{frontmatter:{title:"My Truck Got Old",path:"/my-truck-got-old"}}}]}},pathContext:{tag:"time"}}}});
+//# sourceMappingURL=path---tags-time-5d84dbe9cb091358bad9.js.map

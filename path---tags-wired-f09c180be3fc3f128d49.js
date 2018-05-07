@@ -1,0 +1,2 @@
+webpackJsonp([0xf0cbc7c171c6],{3008:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The Liahona Makes Wired",path:"/the-liahona-makes-wired"}}}]}},pathContext:{tag:"Wired"}}}});
+//# sourceMappingURL=path---tags-wired-f09c180be3fc3f128d49.js.map

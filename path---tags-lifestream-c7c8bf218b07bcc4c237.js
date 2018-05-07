@@ -1,0 +1,2 @@
+webpackJsonp([0xf11253643244],{2672:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Journal Writing Sucks, Blogging is Cool",path:"/journal-writing-sucks-blogging-is-cool"}}}]}},pathContext:{tag:"lifestream"}}}});
+//# sourceMappingURL=path---tags-lifestream-c7c8bf218b07bcc4c237.js.map

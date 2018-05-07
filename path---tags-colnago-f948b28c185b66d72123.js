@@ -1,0 +1,2 @@
+webpackJsonp([82971529184010],{2424:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"I love Calfee, Strong, and Time bikes",path:"/i-love-calfee-bikes"}}}]}},pathContext:{tag:"colnago"}}}});
+//# sourceMappingURL=path---tags-colnago-f948b28c185b66d72123.js.map

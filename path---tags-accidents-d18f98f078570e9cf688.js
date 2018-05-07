@@ -1,0 +1,2 @@
+webpackJsonp([0xa00f8e3314e],{2323:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Ways to Not Make Use of Your Health Insurance &#8211; Cyclist vs. Rattlesnake",path:"/ways-to-not-make-use-of-your-health-insurance-cyclist-vs-rattlesnake"}}}]}},pathContext:{tag:"accidents"}}}});
+//# sourceMappingURL=path---tags-accidents-d18f98f078570e9cf688.js.map

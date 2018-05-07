@@ -1,0 +1,2 @@
+webpackJsonp([0x8de4228a0c41],{2968:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Ruby on Rails Tutorials",path:"/ruby-on-rails-tutorials"}}}]}},pathContext:{tag:"tutorials"}}}});
+//# sourceMappingURL=path---tags-tutorials-fc00b465389b9429bb11.js.map

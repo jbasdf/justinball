@@ -1,0 +1,2 @@
+webpackJsonp([0x7777a96d69af],{2370:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Amazon S3, Jungle Disk and the new way to backup",path:"/amazon-s3-jungle-disk-and-the-new-way-to-backup"}}},{node:{frontmatter:{title:"How to manage 60,000 digital photos",path:"/how-to-manage-60000-digital-photos"}}}]}},pathContext:{tag:"backups"}}}});
+//# sourceMappingURL=path---tags-backups-a7e8c5f26915d765338b.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([20001482834361],{3016:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"More Stuff You Shouldn&#8217;t Hit on a Bike",path:"/more-stuff-you-shouldnt-hit-on-a-bike"}}},{node:{frontmatter:{title:"Ways to Not Make Use of Your Health Insurance &#8211; Cyclist vs. Rattlesnake",path:"/ways-to-not-make-use-of-your-health-insurance-cyclist-vs-rattlesnake"}}}]}},pathContext:{tag:"wreck"}}}});
+//# sourceMappingURL=path---tags-wreck-51761f6929e2914d5a2e.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([64884319191998],{2665:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"So I am a Big Geek",path:"/so-i-am-a-big-geek"}}}]}},pathContext:{tag:"legos"}}}});
+//# sourceMappingURL=path---tags-legos-57a967178792b74644b9.js.map

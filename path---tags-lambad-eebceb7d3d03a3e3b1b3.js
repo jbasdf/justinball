@@ -1,0 +1,2 @@
+webpackJsonp([0xa1f01bdad97b],{2654:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Word Press Plugin Development Developing Shortcodes",path:"/Word-Press-Plugin-Development-Developing-Shortcodes"}}}]}},pathContext:{tag:"lambad"}}}});
+//# sourceMappingURL=path---tags-lambad-eebceb7d3d03a3e3b1b3.js.map

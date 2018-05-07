@@ -1,0 +1,2 @@
+webpackJsonp([0xfb4451fe5871],{2646:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Logan Utah Technical Jobs",path:"/logan-utah-technical-jobs"}}}]}},pathContext:{tag:"jobs"}}}});
+//# sourceMappingURL=path---tags-jobs-a0381a730dfd0ce47f58.js.map

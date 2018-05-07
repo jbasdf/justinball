@@ -1,0 +1,2 @@
+webpackJsonp([0xfed96eb05be2],{2416:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Bored at Church",path:"/bored-at-church"}}}]}},pathContext:{tag:"church"}}}});
+//# sourceMappingURL=path---tags-church-c868144eaf3fa233efde.js.map

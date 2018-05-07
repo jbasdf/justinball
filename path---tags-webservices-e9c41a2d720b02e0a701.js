@@ -1,0 +1,2 @@
+webpackJsonp([86006467870076],{3e3:function(e,a){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Using Amazon&#8217;s Web Services from Ruby &#8211; Jonathan Younger",path:"/using-amazons-web-services-from-ruby-jonathan-younger"}}}]}},pathContext:{tag:"webservices"}}}});
+//# sourceMappingURL=path---tags-webservices-e9c41a2d720b02e0a701.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([56620080458481],{2338:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Amazon Wishlist RSS",path:"/amazon-wishlist-rss"}}}]}},pathContext:{tag:"amazon.com"}}}});
+//# sourceMappingURL=path---tags-amazon-com-da9546fe1dd7a39c2e12.js.map

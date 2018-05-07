@@ -1,0 +1,2 @@
+webpackJsonp([0x95ea56a0d67e],{2986:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Compensating",path:"/compensating"}}}]}},pathContext:{tag:"vacation"}}}});
+//# sourceMappingURL=path---tags-vacation-b1bb80ce8fbd8ae7bcd6.js.map

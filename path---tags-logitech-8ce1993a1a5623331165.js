@@ -1,0 +1,2 @@
+webpackJsonp([0x9d60848e22da],{2681:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Logitech Sucks Twice",path:"/logitech-sucks-twice"}}}]}},pathContext:{tag:"logitech"}}}});
+//# sourceMappingURL=path---tags-logitech-8ce1993a1a5623331165.js.map

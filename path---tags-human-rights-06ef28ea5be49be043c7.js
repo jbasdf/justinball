@@ -1,0 +1,2 @@
+webpackJsonp([21745054922230],{2615:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Happy Smiley Guy",path:"/happy-smiley-guy"}}}]}},pathContext:{tag:"human rights"}}}});
+//# sourceMappingURL=path---tags-human-rights-06ef28ea5be49be043c7.js.map

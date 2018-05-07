@@ -1,0 +1,2 @@
+webpackJsonp([0x796895e7f946],{2367:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"An MRI is Like a Rock Concert",path:"/an-mri-is-like-a-rock-concert"}}}]}},pathContext:{tag:"back problems"}}}});
+//# sourceMappingURL=path---tags-back-problems-f4b776378373e0c1d74c.js.map

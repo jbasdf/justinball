@@ -1,0 +1,2 @@
+webpackJsonp([0x69cd33276021],{2361:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Course Setup Using Google Docs and the Canvas API",path:"/course-setup-using-google-docs-and-the-canvas-api"}}}]}},pathContext:{tag:"Atomic Jolt"}}}});
+//# sourceMappingURL=path---tags-atomic-jolt-ce277db032b36d344807.js.map

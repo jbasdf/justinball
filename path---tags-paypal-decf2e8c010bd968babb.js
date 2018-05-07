@@ -1,0 +1,2 @@
+webpackJsonp([0xf1eed572a6cb],{2778:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Quick Tip for working with Paypal and ActiveMerchant in your Rails Application",path:"/quick-tip-for-working-with-paypal-and-activemerchant-in-your-rails-application"}}}]}},pathContext:{tag:"paypal"}}}});
+//# sourceMappingURL=path---tags-paypal-decf2e8c010bd968babb.js.map

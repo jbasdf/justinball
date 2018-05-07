@@ -1,0 +1,2 @@
+webpackJsonp([38134021936487],{2928:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Target",path:"/target"}}}]}},pathContext:{tag:"target"}}}});
+//# sourceMappingURL=path---tags-target-b04c303140fa9e79a39c.js.map

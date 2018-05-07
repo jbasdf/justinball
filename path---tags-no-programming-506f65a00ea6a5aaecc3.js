@@ -1,0 +1,2 @@
+webpackJsonp([0x5deaecc00ded],{2745:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Cancun Mexico",path:"/cancun-mexico"}}}]}},pathContext:{tag:"No Programming"}}}});
+//# sourceMappingURL=path---tags-no-programming-506f65a00ea6a5aaecc3.js.map

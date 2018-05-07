@@ -1,0 +1,2 @@
+webpackJsonp([32176237180031],{2816:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"None Of Us Is As Dumb As All Of Us",path:"/none-of-us-is-as-dumb-as-all-of-us"}}}]}},pathContext:{tag:"psychology"}}}});
+//# sourceMappingURL=path---tags-psychology-326d922a742c72f84002.js.map

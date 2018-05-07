@@ -1,0 +1,2 @@
+webpackJsonp([21585109016852],{2545:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"A Life Of Service",path:"/a-life-of-service"}}}]}},pathContext:{tag:"funeral"}}}});
+//# sourceMappingURL=path---tags-funeral-7cde882e4515bd8c376c.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x60295cce6902],{2525:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Lunch Provided by the Farmer&#8217;s Market",path:"/lunch-provided-by-the-farmers-market"}}}]}},pathContext:{tag:"farmers market"}}}});
+//# sourceMappingURL=path---tags-farmers-market-2554a86204cf33d3b292.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([30909594585211],{2886:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Serverless GraphQL Architecture Future Backend Development",path:"/Serverless-GraphQL-Architecture-Future-Backend-Development"}}}]}},pathContext:{tag:"serverless"}}}});
+//# sourceMappingURL=path---tags-serverless-86b21c5f011a85ba4b06.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x7d32b4eb5be4],{2839:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Genealogy at Risk?",path:"/genealogy-at-risk"}}}]}},pathContext:{tag:"records"}}}});
+//# sourceMappingURL=path---tags-records-9b5bdf9cffb99808b478.js.map

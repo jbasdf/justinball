@@ -1,0 +1,2 @@
+webpackJsonp([24865633684272],{2428:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"Disposable Communities",path:"/disposable-communities"}}},{node:{frontmatter:{title:"Niche Communities",path:"/niche-communities"}}},{node:{frontmatter:{title:"Note to Facebook, Myspace and Other Social Silos: DIE",path:"/note-to-facebook-myspace-and-other-social-silos-die"}}}]}},pathContext:{tag:"communities"}}}});
+//# sourceMappingURL=path---tags-communities-5d41396b4a39a5027425.js.map

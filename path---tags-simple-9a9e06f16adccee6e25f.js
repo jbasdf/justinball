@@ -1,0 +1,2 @@
+webpackJsonp([0xc0241133995a],{2894:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"This shouldn&#8217;t be so @#!&amp;amp;! hard",path:"/this-shouldnt-be-so-amp-hard"}}}]}},pathContext:{tag:"simple"}}}});
+//# sourceMappingURL=path---tags-simple-9a9e06f16adccee6e25f.js.map

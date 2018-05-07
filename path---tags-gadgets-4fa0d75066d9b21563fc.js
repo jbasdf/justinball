@@ -1,0 +1,2 @@
+webpackJsonp([0x619ae7accaf1],{2548:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"The Liahona Makes Wired",path:"/the-liahona-makes-wired"}}},{node:{frontmatter:{title:"iPhone",path:"/iphone"}}}]}},pathContext:{tag:"gadgets"}}}});
+//# sourceMappingURL=path---tags-gadgets-4fa0d75066d9b21563fc.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([53036757443377],{2761:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Microcontent Sells",path:"/microcontent-sells"}}},{node:{frontmatter:{title:"In Meetings at the Hewlett Foundation",path:"/in-meetings-at-the-hewlett-foundation"}}}]}},pathContext:{tag:"OpenContent"}}}});
+//# sourceMappingURL=path---tags-open-content-a5e5db76b53898d94950.js.map

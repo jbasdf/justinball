@@ -1,0 +1,2 @@
+webpackJsonp([68988291663891],{2834:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"React Js",path:"/React-Js"}}},{node:{frontmatter:{title:"Ethereum With Javascript",path:"/ethereum-with-javascript"}}}]}},pathContext:{tag:"reactjs"}}}});
+//# sourceMappingURL=path---tags-reactjs-74dcc5a921ef35710eeb.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([63037829880243],{2982:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Utah Flat Tax",path:"/utah-flat-tax"}}}]}},pathContext:{tag:"utah government"}}}});
+//# sourceMappingURL=path---tags-utah-government-938bc2160d1e275bd27b.js.map

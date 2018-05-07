@@ -1,0 +1,2 @@
+webpackJsonp([0x9c6c9b69a4d6],{2719:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Morph Exchange Review",path:"/morph-exchange-review"}}},{node:{frontmatter:{title:"Elastic Cloud Computing",path:"/elastic-cloud-computing"}}}]}},pathContext:{tag:"mosso"}}}});
+//# sourceMappingURL=path---tags-mosso-2a7063b3307ed56ec055.js.map

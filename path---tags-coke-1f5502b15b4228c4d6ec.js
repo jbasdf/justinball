@@ -1,0 +1,2 @@
+webpackJsonp([85549905614035],{2423:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Black Cherry Vanilla Coke",path:"/black-cherry-vanilla-coke"}}}]}},pathContext:{tag:"coke"}}}});
+//# sourceMappingURL=path---tags-coke-1f5502b15b4228c4d6ec.js.map

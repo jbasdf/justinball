@@ -1,0 +1,2 @@
+webpackJsonp([0xf56602f7507f],{2309:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Sending email with Ruby on Rails 2.3.2 and gmail",path:"/sending-email-with-ruby-on-rails-2-3-2-and-gmail"}}}]}},pathContext:{tag:"2.3.2"}}}});
+//# sourceMappingURL=path---tags-2-3-2-d1e3fa86d82b6bb7fe7d.js.map

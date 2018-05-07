@@ -1,0 +1,2 @@
+webpackJsonp([0xde8b4613e0dd],{2678:function(o,n){o.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Logan Canyon Bridger Lookout",path:"/logan-canyon-bridger-lookout"}}},{node:{frontmatter:{title:"One more &#8211; Logan Canyon Nature Trail",path:"/one-more-logan-canyon-nature-trail"}}}]}},pathContext:{tag:"Logan Canyon"}}}});
+//# sourceMappingURL=path---tags-logan-canyon-8d09a3c24eef9e66aca8.js.map

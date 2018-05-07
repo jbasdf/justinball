@@ -1,0 +1,2 @@
+webpackJsonp([92723030492606],{3002:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Weddings So Totally Suck",path:"/weddings-so-totally-suck"}}}]}},pathContext:{tag:"weddings"}}}});
+//# sourceMappingURL=path---tags-weddings-afef9f6685e90382664a.js.map

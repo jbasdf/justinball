@@ -1,0 +1,2 @@
+webpackJsonp([55985396507910],{2961:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Trek XXX Lite Handlebars &#8211; Single Use Item",path:"/trek-xxx-lite-handlebars-single-use-item"}}},{node:{frontmatter:{title:"First ride on the new Madone",path:"/first-ride-on-the-new-madone"}}}]}},pathContext:{tag:"trek madone 6.9"}}}});
+//# sourceMappingURL=path---tags-trek-madone-6-9-82e432acfdc0e0796c77.js.map

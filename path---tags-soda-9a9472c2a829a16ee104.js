@@ -1,0 +1,2 @@
+webpackJsonp([0xa908e5cc87d5],{2907:function(a,o){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Soda Is Really Bad for You",path:"/soda-is-really-bad-for-you"}}}]}},pathContext:{tag:"soda"}}}});
+//# sourceMappingURL=path---tags-soda-9a9472c2a829a16ee104.js.map

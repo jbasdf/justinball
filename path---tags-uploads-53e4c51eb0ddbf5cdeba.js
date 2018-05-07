@@ -1,0 +1,2 @@
+webpackJsonp([0x65ce8b31e72f],{2978:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"New Uploader Gem",path:"/new-uploader-gem"}}}]}},pathContext:{tag:"uploads"}}}});
+//# sourceMappingURL=path---tags-uploads-53e4c51eb0ddbf5cdeba.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([61284074657304],{2889:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"New Shimano Ultegra",path:"/new-shimano-ultegra"}}}]}},pathContext:{tag:"Shimano"}}}});
+//# sourceMappingURL=path---tags-shimano-3f0b4ea53e34de12ede2.js.map

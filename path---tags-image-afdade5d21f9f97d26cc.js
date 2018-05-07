@@ -1,0 +1,2 @@
+webpackJsonp([64666208081412],{2627:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Create Custom Image Uploader Word Press",path:"/Create-Custom-Image-Uploader-Word-Press"}}}]}},pathContext:{tag:"image"}}}});
+//# sourceMappingURL=path---tags-image-afdade5d21f9f97d26cc.js.map

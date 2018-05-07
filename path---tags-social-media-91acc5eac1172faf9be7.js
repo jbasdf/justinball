@@ -1,0 +1,2 @@
+webpackJsonp([0xf288c250da3d],{2900:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Twitter &#8211; The New Borg",path:"/twitter-the-new-borg"}}}]}},pathContext:{tag:"social media"}}}});
+//# sourceMappingURL=path---tags-social-media-91acc5eac1172faf9be7.js.map

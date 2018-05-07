@@ -1,0 +1,2 @@
+webpackJsonp([66454207607922],{2758:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Happy Smiley Guy",path:"/happy-smiley-guy"}}},{node:{frontmatter:{title:"Weather Control",path:"/weather-control"}}}]}},pathContext:{tag:"olympics"}}}});
+//# sourceMappingURL=path---tags-olympics-8264081e51478f72088f.js.map

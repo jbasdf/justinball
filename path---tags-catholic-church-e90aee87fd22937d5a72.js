@@ -1,0 +1,2 @@
+webpackJsonp([0xf428154efc4d],{2403:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Genealogy at Risk?",path:"/genealogy-at-risk"}}}]}},pathContext:{tag:"Catholic Church"}}}});
+//# sourceMappingURL=path---tags-catholic-church-e90aee87fd22937d5a72.js.map

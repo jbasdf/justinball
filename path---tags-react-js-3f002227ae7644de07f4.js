@@ -1,0 +1,2 @@
+webpackJsonp([76232924142307],{2830:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"I Didn't Attend React.js Conf",path:"/i-didn't-attend-react.js-conf"}}}]}},pathContext:{tag:"React.js"}}}});
+//# sourceMappingURL=path---tags-react-js-3f002227ae7644de07f4.js.map

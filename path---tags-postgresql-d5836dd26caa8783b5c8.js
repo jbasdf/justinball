@@ -1,0 +1,2 @@
+webpackJsonp([0xed1382e7ac30],{2801:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Serverside with GraphQL",path:"/serverside-with-graphql"}}}]}},pathContext:{tag:"postgresql"}}}});
+//# sourceMappingURL=path---tags-postgresql-d5836dd26caa8783b5c8.js.map

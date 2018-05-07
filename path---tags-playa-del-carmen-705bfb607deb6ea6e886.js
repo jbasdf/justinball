@@ -1,0 +1,2 @@
+webpackJsonp([71540865816314],{2791:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Cancun Mexico",path:"/cancun-mexico"}}}]}},pathContext:{tag:"Playa Del Carmen"}}}});
+//# sourceMappingURL=path---tags-playa-del-carmen-705bfb607deb6ea6e886.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([91508227932975],{2864:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Amazon Wishlist RSS",path:"/amazon-wishlist-rss"}}},{node:{frontmatter:{title:"Amazon Wishlist RSS, Ruby and Signing/Authenticating your Requests",path:"/amazon-ruby-and-signing_authenticating-your-requests"}}}]}},pathContext:{tag:"rss"}}}});
+//# sourceMappingURL=path---tags-rss-3f97ab67deb50f2c0ffe.js.map

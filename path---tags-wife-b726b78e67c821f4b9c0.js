@@ -1,0 +1,2 @@
+webpackJsonp([0xa5b2a66f2ac4],{3006:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"Muffins",path:"/muffins"}}},{node:{frontmatter:{title:"My Wife is Better Than Your Wife",path:"/my-wife-is-better-than-your-wife"}}},{node:{frontmatter:{title:"My wife is pretty cool",path:"/my-wife-is-pretty-cool"}}}]}},pathContext:{tag:"wife"}}}});
+//# sourceMappingURL=path---tags-wife-b726b78e67c821f4b9c0.js.map

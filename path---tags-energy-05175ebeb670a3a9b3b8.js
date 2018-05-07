@@ -1,0 +1,2 @@
+webpackJsonp([23455680142074],{2503:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Blackmarket Bread",path:"/blackmarket-bread"}}}]}},pathContext:{tag:"energy"}}}});
+//# sourceMappingURL=path---tags-energy-05175ebeb670a3a9b3b8.js.map

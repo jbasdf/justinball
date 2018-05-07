@@ -1,0 +1,2 @@
+webpackJsonp([0xc487d8bb9f72],{2359:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"2008 Tour de France &#8211; Don&#8217;t Watch It",path:"/2008-tour-de-france-dont-watch-it"}}}]}},pathContext:{tag:"Astana"}}}});
+//# sourceMappingURL=path---tags-astana-f5fa703e57eed366a5c0.js.map

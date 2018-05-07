@@ -1,0 +1,2 @@
+webpackJsonp([0xc3f4264cb13f],{2737:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"More on my new Madone 6.9",path:"/more-on-my-new-madone-69"}}}]}},pathContext:{tag:"my new bike"}}}});
+//# sourceMappingURL=path---tags-my-new-bike-bdfe945a2f23804fdbed.js.map

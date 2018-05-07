@@ -1,0 +1,2 @@
+webpackJsonp([59945660970003],{2340:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"River &#8211; Amazon Wishlist Gem",path:"/river-amazon-wishlist-gem"}}}]}},pathContext:{tag:"amazon wishlist"}}}});
+//# sourceMappingURL=path---tags-amazon-wishlist-8234d2712f50c0bb2c37.js.map

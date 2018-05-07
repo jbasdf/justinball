@@ -1,0 +1,2 @@
+webpackJsonp([0xa7d1d0d3cf28],{2871:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"ActiveSalesforce and Ruby on Rails > 2.1",path:"/activesalesforce-and-ruby-on-rails-21"}}}]}},pathContext:{tag:"Salesforce"}}}});
+//# sourceMappingURL=path---tags-salesforce-30c82ef3d52863198be6.js.map

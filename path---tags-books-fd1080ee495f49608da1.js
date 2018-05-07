@@ -1,0 +1,2 @@
+webpackJsonp([0xb602dc534240],{2384:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Free Book",path:"/free-book"}}}]}},pathContext:{tag:"books"}}}});
+//# sourceMappingURL=path---tags-books-fd1080ee495f49608da1.js.map

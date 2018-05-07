@@ -1,0 +1,2 @@
+webpackJsonp([0x8785c9eec24b],{2466:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Turn WordPress Into Social Butterfly",path:"/social-wordpress"}}}]}},pathContext:{tag:"DiSo"}}}});
+//# sourceMappingURL=path---tags-di-so-1ab223d9b2ffc44b2d20.js.map

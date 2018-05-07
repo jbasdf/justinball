@@ -1,0 +1,2 @@
+webpackJsonp([0x65ded7b25d8c],{2572:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Loving Goliath. Watch Out for Stones",path:"/loving-goliath-watch-out-for-stones"}}}]}},pathContext:{tag:"Goliath"}}}});
+//# sourceMappingURL=path---tags-goliath-dabb794dd150b6f1c40e.js.map

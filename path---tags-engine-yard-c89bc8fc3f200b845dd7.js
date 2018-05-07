@@ -1,0 +1,2 @@
+webpackJsonp([0xc00268aa4e75],{2504:function(e,a){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Morph Exchange Review",path:"/morph-exchange-review"}}}]}},pathContext:{tag:"engine yard"}}}});
+//# sourceMappingURL=path---tags-engine-yard-c89bc8fc3f200b845dd7.js.map

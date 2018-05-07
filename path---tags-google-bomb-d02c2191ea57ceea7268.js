@@ -1,0 +1,2 @@
+webpackJsonp([60132743120800],{2573:function(o,e){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Shelley Found her Google Bomb",path:"/shelley-found-her-google-bomb"}}}]}},pathContext:{tag:"google bomb"}}}});
+//# sourceMappingURL=path---tags-google-bomb-d02c2191ea57ceea7268.js.map

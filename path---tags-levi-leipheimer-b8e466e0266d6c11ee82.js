@@ -1,0 +1,2 @@
+webpackJsonp([66380847792625],{2668:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Let Levi Ride",path:"/let-levi-ride"}}}]}},pathContext:{tag:"Levi Leipheimer"}}}});
+//# sourceMappingURL=path---tags-levi-leipheimer-b8e466e0266d6c11ee82.js.map

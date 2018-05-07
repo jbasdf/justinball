@@ -1,0 +1,2 @@
+webpackJsonp([0xb7e969fa6c79],{2527:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"I can feel the fat finding its way back to my waste",path:"/i-can-feel-the-fat-finding-its-way-back-to-my-waste"}}}]}},pathContext:{tag:"fat"}}}});
+//# sourceMappingURL=path---tags-fat-e01832c48dc74c0444f6.js.map

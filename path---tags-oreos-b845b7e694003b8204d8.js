@@ -1,0 +1,2 @@
+webpackJsonp([0xfcbf7c6046d6],{2768:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Evil Wrapped in Chocolate",path:"/evil-wrapped-in-chocolate"}}}]}},pathContext:{tag:"oreos"}}}});
+//# sourceMappingURL=path---tags-oreos-b845b7e694003b8204d8.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xac1db68efbb4],{2485:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"New Shimano Ultegra",path:"/new-shimano-ultegra"}}}]}},pathContext:{tag:"DuraAce"}}}});
+//# sourceMappingURL=path---tags-dura-ace-c05cc55a54b5324684db.js.map

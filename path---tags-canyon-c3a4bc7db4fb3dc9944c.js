@@ -1,0 +1,2 @@
+webpackJsonp([0xcab5a234d20d],{2400:function(a,n){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Logan Canyon",path:"/logan-canyon"}}}]}},pathContext:{tag:"canyon"}}}});
+//# sourceMappingURL=path---tags-canyon-c3a4bc7db4fb3dc9944c.js.map

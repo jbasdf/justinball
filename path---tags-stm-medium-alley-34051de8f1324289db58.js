@@ -1,0 +1,2 @@
+webpackJsonp([83101877186396],{2924:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"STM Bags Suck?",path:"/stm-bags-suck"}}}]}},pathContext:{tag:"stm medium alley"}}}});
+//# sourceMappingURL=path---tags-stm-medium-alley-34051de8f1324289db58.js.map

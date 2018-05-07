@@ -1,0 +1,2 @@
+webpackJsonp([81406740888284],{2658:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Want to lose weight?",path:"/want-to-lose-weight"}}}]}},pathContext:{tag:"lazy"}}}});
+//# sourceMappingURL=path---tags-lazy-038b9427bbc97b3bef03.js.map

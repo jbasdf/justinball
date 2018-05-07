@@ -1,0 +1,2 @@
+webpackJsonp([0xa54c3c70b573],{2813:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Hierarchies, trees, jQuery, Prototype, script.aculo.us and acts_as_nested_set",path:"/heirarchies-trees-jquery-prototype-scriptaculous-and-acts_as_nested_set"}}}]}},pathContext:{tag:"prototype "}}}});
+//# sourceMappingURL=path---tags-prototype-54b353082f8b9677488c.js.map

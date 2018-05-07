@@ -1,0 +1,2 @@
+webpackJsonp([0x935dcb58545c],{2629:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Indulgenc.es",path:"/indulgences"}}}]}},pathContext:{tag:"induglences"}}}});
+//# sourceMappingURL=path---tags-induglences-827bdbc3b1a83be19797.js.map

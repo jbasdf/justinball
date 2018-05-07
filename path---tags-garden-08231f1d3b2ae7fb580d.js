@@ -1,0 +1,2 @@
+webpackJsonp([92427764776286],{2551:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Snakes in the Grass",path:"/snakes-in-the-grass"}}}]}},pathContext:{tag:"garden"}}}});
+//# sourceMappingURL=path---tags-garden-08231f1d3b2ae7fb580d.js.map

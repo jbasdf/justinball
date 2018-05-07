@@ -1,0 +1,2 @@
+webpackJsonp([0xf4347f7d0a55],{2890:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Target",path:"/target"}}}]}},pathContext:{tag:"shopping"}}}});
+//# sourceMappingURL=path---tags-shopping-b89e48b56e6189e4be1a.js.map

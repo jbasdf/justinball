@@ -1,0 +1,2 @@
+webpackJsonp([0x644f4f8dced2],{2405:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Adult Breakfast Cereal",path:"/adult-breakfast-cereal"}}}]}},pathContext:{tag:"cereal"}}}});
+//# sourceMappingURL=path---tags-cereal-9c42a9d7784a6055f346.js.map

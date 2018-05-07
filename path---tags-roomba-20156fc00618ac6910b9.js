@@ -1,0 +1,2 @@
+webpackJsonp([0xc7743911d385],{2860:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Watch Your Roomba",path:"/watch-your-roomba"}}},{node:{frontmatter:{title:"The Roomba Ends Christmas",path:"/the-roomba-ends-christmas"}}}]}},pathContext:{tag:"roomba"}}}});
+//# sourceMappingURL=path---tags-roomba-20156fc00618ac6910b9.js.map

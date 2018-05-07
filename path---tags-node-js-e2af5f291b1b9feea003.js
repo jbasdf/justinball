@@ -1,0 +1,2 @@
+webpackJsonp([75715161491867],{2746:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Serverside with GraphQL",path:"/serverside-with-graphql"}}}]}},pathContext:{tag:"node.js"}}}});
+//# sourceMappingURL=path---tags-node-js-e2af5f291b1b9feea003.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xfb6c29fab120],{2823:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Presentations from Rails Conf",path:"/presentations-from-rails-conf"}}}]}},pathContext:{tag:"rails conference"}}}});
+//# sourceMappingURL=path---tags-rails-conference-5cdb0d2849578344703c.js.map

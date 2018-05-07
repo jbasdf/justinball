@@ -1,0 +1,2 @@
+webpackJsonp([0xf4f47678de4f],{2655:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"A Very Sexy Madone",path:"/a-very-sexy-madone"}}}]}},pathContext:{tag:"Lance Armstrong"}}}});
+//# sourceMappingURL=path---tags-lance-armstrong-97e30cfe9ea2a98fc26e.js.map

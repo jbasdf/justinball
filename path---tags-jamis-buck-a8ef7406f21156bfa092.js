@@ -1,0 +1,2 @@
+webpackJsonp([0x8483b6ceb2aa],{2640:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"The Rails Way Jamis Buck, Michael Koziarski",path:"/the-rails-way-jamis-buck-michael-koziarski"}}},{node:{frontmatter:{title:"Code Review of Ozmozr by Jamis Buck and Marcel Molina",path:"/code-review-of-ozmozr-by-jamis-buck-and-marcel-molina"}}}]}},pathContext:{tag:"jamis buck"}}}});
+//# sourceMappingURL=path---tags-jamis-buck-a8ef7406f21156bfa092.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xd9db6b414b6a],{2552:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Watching for Signs",path:"/watching-for-signs"}}}]}},pathContext:{tag:"gardens"}}}});
+//# sourceMappingURL=path---tags-gardens-ba6162166e4fc61b9b44.js.map

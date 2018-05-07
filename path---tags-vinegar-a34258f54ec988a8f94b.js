@@ -1,0 +1,2 @@
+webpackJsonp([0x87dfbfffb72a],{2988:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Vinegar and Jello",path:"/vinegar-and-jello"}}}]}},pathContext:{tag:"vinegar"}}}});
+//# sourceMappingURL=path---tags-vinegar-a34258f54ec988a8f94b.js.map

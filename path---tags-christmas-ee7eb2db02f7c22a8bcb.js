@@ -1,0 +1,2 @@
+webpackJsonp([51430528134425],{2414:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"What I Got for Christmas This Year",path:"/what-i-got-for-christmas-this-year"}}},{node:{frontmatter:{title:"Professionals and The Enterprise",path:"/professionals-and-the-enterprise"}}},{node:{frontmatter:{title:"The Roomba Ends Christmas",path:"/the-roomba-ends-christmas"}}}]}},pathContext:{tag:"Christmas"}}}});
+//# sourceMappingURL=path---tags-christmas-ee7eb2db02f7c22a8bcb.js.map

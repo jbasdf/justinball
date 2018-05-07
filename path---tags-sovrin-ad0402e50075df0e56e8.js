@@ -1,0 +1,2 @@
+webpackJsonp([0x8a3b9847290c],{2914:function(t,n){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Why Sovrin?",path:"/why-sovrin"}}},{node:{frontmatter:{title:"Sovrin Identity On Blockchain",path:"/sovrin-identity-on-blockchain"}}}]}},pathContext:{tag:"sovrin"}}}});
+//# sourceMappingURL=path---tags-sovrin-ad0402e50075df0e56e8.js.map

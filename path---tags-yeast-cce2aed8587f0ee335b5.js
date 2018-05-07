@@ -1,0 +1,2 @@
+webpackJsonp([93669024490254],{3018:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"People for the Ethical Treatment of Yeast (PETY)",path:"/people-for-the-ethical-treatment-of-yeast-pety"}}}]}},pathContext:{tag:"yeast"}}}});
+//# sourceMappingURL=path---tags-yeast-cce2aed8587f0ee335b5.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([92900522393385],{2382:function(t,n){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Sorry to Anyone that has Been Making Comments",path:"/sorry-to-anyone-that-has-been-making-comments"}}}]}},pathContext:{tag:"Blogging"}}}});
+//# sourceMappingURL=path---tags-blogging-a16439da2fea330d7e37.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xfa9f243d7607],{2744:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"newgem",path:"/newgem"}}}]}},pathContext:{tag:"newgem"}}}});
+//# sourceMappingURL=path---tags-newgem-6df3355c3fc96757d110.js.map

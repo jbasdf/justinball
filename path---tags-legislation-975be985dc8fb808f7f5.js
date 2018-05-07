@@ -1,0 +1,2 @@
+webpackJsonp([0xe35c37f1e20f],{2663:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Ride Your Bike to Work and Get PAID!!!",path:"/ride-your-bike-to-work-and-get-paid"}}}]}},pathContext:{tag:"legislation"}}}});
+//# sourceMappingURL=path---tags-legislation-975be985dc8fb808f7f5.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([49897412883145],{2493:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Creative Commons Opens Legal Documents",path:"/creative-commons-opens-legal-documents"}}}]}},pathContext:{tag:"EFF"}}}});
+//# sourceMappingURL=path---tags-eff-9d4c9c16dbe095a8a069.js.map

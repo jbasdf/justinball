@@ -1,0 +1,2 @@
+webpackJsonp([0xaccf6cf6c165],{2913:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Flickr as Web 2.0, bla, The Soviets were like Nuke 2.0 way back in the 70s",path:"/flickr-as-web-20-bla-the-soviets-were-like-nuke-20-way-back-in-the-70s"}}}]}},pathContext:{tag:"soviet union"}}}});
+//# sourceMappingURL=path---tags-soviet-union-64b31f41676ec7e4e24e.js.map

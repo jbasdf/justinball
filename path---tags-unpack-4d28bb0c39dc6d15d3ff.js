@@ -1,0 +1,2 @@
+webpackJsonp([0xe5753e5abf00],{2974:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"gems:unpack for gems that don&#8217;t unpack",path:"/gemsunpack-for-gems-that-dont-unpack"}}}]}},pathContext:{tag:"unpack"}}}});
+//# sourceMappingURL=path---tags-unpack-4d28bb0c39dc6d15d3ff.js.map

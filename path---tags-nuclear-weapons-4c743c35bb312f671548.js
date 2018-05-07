@@ -1,0 +1,2 @@
+webpackJsonp([0x9b10bd141b84],{2747:function(e,a){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Flickr as Web 2.0, bla, The Soviets were like Nuke 2.0 way back in the 70s",path:"/flickr-as-web-20-bla-the-soviets-were-like-nuke-20-way-back-in-the-70s"}}}]}},pathContext:{tag:"nuclear weapons"}}}});
+//# sourceMappingURL=path---tags-nuclear-weapons-4c743c35bb312f671548.js.map

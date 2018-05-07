@@ -1,0 +1,2 @@
+webpackJsonp([0x6489b4374037],{2972:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The Uninsured",path:"/the-uninsured"}}}]}},pathContext:{tag:"uninsured"}}}});
+//# sourceMappingURL=path---tags-uninsured-b84419ae65f4255c56f0.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xacc14963c973],{2802:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Blackmarket Bread",path:"/blackmarket-bread"}}}]}},pathContext:{tag:"poverty"}}}});
+//# sourceMappingURL=path---tags-poverty-351a4e585ffbe95deb1e.js.map

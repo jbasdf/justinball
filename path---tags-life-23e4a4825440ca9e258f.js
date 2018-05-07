@@ -1,0 +1,2 @@
+webpackJsonp([0xd1fb8b8005fd],{2671:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"This will kill me",path:"/fried-stuff"}}}]}},pathContext:{tag:"Life"}}}});
+//# sourceMappingURL=path---tags-life-23e4a4825440ca9e258f.js.map

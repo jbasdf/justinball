@@ -1,0 +1,2 @@
+webpackJsonp([0x9ce50272594],{2784:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"Change your WordPress Gallery Settings",path:"/change-your-wordpress-gallery-settings"}}},{node:{frontmatter:{title:"PicLens on ThePlanCollection.com",path:"/piclens-on-theplancollectioncom"}}},{node:{frontmatter:{title:"How to manage 60,000 digital photos",path:"/how-to-manage-60000-digital-photos"}}}]}},pathContext:{tag:"photos"}}}});
+//# sourceMappingURL=path---tags-photos-9ecc6654017fecca90f4.js.map

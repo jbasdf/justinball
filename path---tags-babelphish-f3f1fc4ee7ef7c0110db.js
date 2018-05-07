@@ -1,0 +1,2 @@
+webpackJsonp([0x9ded7440e489],{2366:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"newgem",path:"/newgem"}}},{node:{frontmatter:{title:"Babelphish &#8211; yml Translation Made Simple",path:"/babelphish-yml-translation-made-simple"}}}]}},pathContext:{tag:"babelphish"}}}});
+//# sourceMappingURL=path---tags-babelphish-f3f1fc4ee7ef7c0110db.js.map

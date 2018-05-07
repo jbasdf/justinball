@@ -1,0 +1,2 @@
+webpackJsonp([21945908541376],{2540:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Disposable Communities",path:"/disposable-communities"}}}]}},pathContext:{tag:"freedom"}}}});
+//# sourceMappingURL=path---tags-freedom-a096d3812aca6c7ddc03.js.map

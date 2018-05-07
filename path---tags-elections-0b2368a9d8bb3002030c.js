@@ -1,0 +1,2 @@
+webpackJsonp([0xe889eb7b930d],{2497:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Do We Need Help With Elections",path:"/do-we-need-help-with-elections"}}}]}},pathContext:{tag:"elections"}}}});
+//# sourceMappingURL=path---tags-elections-0b2368a9d8bb3002030c.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xa269de8a1a9a],{2520:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:4,edges:[{node:{frontmatter:{title:"Family Trip Day One",path:"/family-trip-day-one"}}},{node:{frontmatter:{title:"Yellowstone 2",path:"/yellowstone-2"}}},{node:{frontmatter:{title:"Yellowstone 3",path:"/yellowstone-3"}}},{node:{frontmatter:{title:"Yellowstone",path:"/yellowstone"}}}]}},pathContext:{tag:"family trip"}}}});
+//# sourceMappingURL=path---tags-family-trip-62e7ac6c1a48b0e5894b.js.map

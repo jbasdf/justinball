@@ -1,0 +1,2 @@
+webpackJsonp([0x836e388c3d46],{2850:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Adding GraphQL to our REST APIs",path:"/Adding-GraphQL-to-our-REST-APIs"}}}]}},pathContext:{tag:"REST"}}}});
+//# sourceMappingURL=path---tags-rest-31875b2b186677a23693.js.map

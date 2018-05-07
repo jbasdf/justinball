@@ -1,0 +1,2 @@
+webpackJsonp([80436410672805],{2472:function(t,i){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Add Theming Engine to Your Rails Application",path:"/add-theming-engine-to-your-rails-application"}}},{node:{frontmatter:{title:"Disguise your Rails Application",path:"/disguise-your-rails-application"}}}]}},pathContext:{tag:"disguise"}}}});
+//# sourceMappingURL=path---tags-disguise-84abed1e1021cb05cd45.js.map

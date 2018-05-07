@@ -1,0 +1,2 @@
+webpackJsonp([0x98a1703e32b4],{2844:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Outsourcing My Religion",path:"/outsourcing-my-religion"}}}]}},pathContext:{tag:"religion"}}}});
+//# sourceMappingURL=path---tags-religion-7170f85d0aafd55363f4.js.map

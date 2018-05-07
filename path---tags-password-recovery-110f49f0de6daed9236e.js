@@ -1,0 +1,2 @@
+webpackJsonp([0xe13ead5f5d9d],{2776:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Customizing the email sent by PasswordRecovery in ASP.Net",path:"/customizing-the-email-sent-by-passwordrecovery-in-asp-net"}}}]}},pathContext:{tag:"password recovery"}}}});
+//# sourceMappingURL=path---tags-password-recovery-110f49f0de6daed9236e.js.map

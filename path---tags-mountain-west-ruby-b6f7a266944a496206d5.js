@@ -1,0 +1,2 @@
+webpackJsonp([0xfdaf9e8937d8],{2725:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Mountain West Ruby Conference",path:"/mountain-west-ruby-conference-2"}}}]}},pathContext:{tag:"Mountain West Ruby"}}}});
+//# sourceMappingURL=path---tags-mountain-west-ruby-b6f7a266944a496206d5.js.map

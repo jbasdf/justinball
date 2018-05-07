@@ -1,0 +1,2 @@
+webpackJsonp([66197966485767],{2884:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Government 2.0",path:"/government-20"}}}]}},pathContext:{tag:"senate"}}}});
+//# sourceMappingURL=path---tags-senate-525170d741ceb665e515.js.map

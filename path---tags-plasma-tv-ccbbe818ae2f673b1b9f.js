@@ -1,0 +1,2 @@
+webpackJsonp([0x7c4459557238],{2790:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"My wife is pretty cool",path:"/my-wife-is-pretty-cool"}}}]}},pathContext:{tag:"plasma tv"}}}});
+//# sourceMappingURL=path---tags-plasma-tv-ccbbe818ae2f673b1b9f.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([22116930598975],{2376:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"I Got Older",path:"/i-got-older"}}}]}},pathContext:{tag:"birthday."}}}});
+//# sourceMappingURL=path---tags-birthday-1f3d7da0abe0d3919caf.js.map

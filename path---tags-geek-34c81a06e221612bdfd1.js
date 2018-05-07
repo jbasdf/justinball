@@ -1,0 +1,2 @@
+webpackJsonp([94638405608276],{2556:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"So I am a Big Geek",path:"/so-i-am-a-big-geek"}}},{node:{frontmatter:{title:"No I Won&#8217;t Fix Your @!#$!@#$ Computer",path:"/no-i-wont-fix-your-computer"}}}]}},pathContext:{tag:"geek"}}}});
+//# sourceMappingURL=path---tags-geek-34c81a06e221612bdfd1.js.map

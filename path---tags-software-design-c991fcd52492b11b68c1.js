@@ -1,0 +1,2 @@
+webpackJsonp([4357503237673],{2908:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"It&#8217;s Your Head Not Your Butt That Matters",path:"/its-your-head-not-your-butt-that-matters"}}}]}},pathContext:{tag:"software design"}}}});
+//# sourceMappingURL=path---tags-software-design-c991fcd52492b11b68c1.js.map

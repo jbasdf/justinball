@@ -1,0 +1,2 @@
+webpackJsonp([0xda513b67fe61],{2905:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"BuddyPress",path:"/buddypress"}}},{node:{frontmatter:{title:"Another Social API &#8211; I might explode",path:"/another-social-api-i-might-explode"}}}]}},pathContext:{tag:"socialsoftware"}}}});
+//# sourceMappingURL=path---tags-socialsoftware-3f9f472d61ce8b161391.js.map

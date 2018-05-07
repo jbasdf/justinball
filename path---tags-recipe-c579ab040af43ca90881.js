@@ -1,0 +1,2 @@
+webpackJsonp([0x80eb1c492ef7],{2837:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Evil Wrapped in Chocolate",path:"/evil-wrapped-in-chocolate"}}}]}},pathContext:{tag:"recipe"}}}});
+//# sourceMappingURL=path---tags-recipe-c579ab040af43ca90881.js.map

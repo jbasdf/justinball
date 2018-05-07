@@ -1,0 +1,2 @@
+webpackJsonp([0x9b983f2ad3e9],{2536:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"acts_as_taggable libraries and the big case problem.",path:"/acts_as_taggable-libraries-and-the-big-case-problem"}}}]}},pathContext:{tag:"folksonomy"}}}});
+//# sourceMappingURL=path---tags-folksonomy-a4c3b16e957adc25dcd9.js.map

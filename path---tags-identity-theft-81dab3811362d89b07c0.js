@@ -1,0 +1,2 @@
+webpackJsonp([52572276376476],{2623:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Tips to Prevent Identity Theft",path:"/tips-to-prevent-identity-theft"}}}]}},pathContext:{tag:"identity_theft"}}}});
+//# sourceMappingURL=path---tags-identity-theft-81dab3811362d89b07c0.js.map

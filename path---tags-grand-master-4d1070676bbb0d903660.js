@@ -1,0 +1,2 @@
+webpackJsonp([99756743258159],{2580:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Ruby Grand Masters",path:"/ruby-grand-masters"}}}]}},pathContext:{tag:"grand master"}}}});
+//# sourceMappingURL=path---tags-grand-master-4d1070676bbb0d903660.js.map

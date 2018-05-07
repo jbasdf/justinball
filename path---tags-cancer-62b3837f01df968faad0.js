@@ -1,0 +1,2 @@
+webpackJsonp([0xdefe19af98a5],{2397:function(e,a){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Cycling Reduces Your Risk of Cancer",path:"/cycling-reduces-your-risk-of-cancer"}}}]}},pathContext:{tag:"cancer"}}}});
+//# sourceMappingURL=path---tags-cancer-62b3837f01df968faad0.js.map

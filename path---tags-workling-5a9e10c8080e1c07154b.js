@@ -1,0 +1,2 @@
+webpackJsonp([20775548419281],{3014:function(t,n){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Using Starling, Workling with Ruby on Rails",path:"/using-starling-workling-with-ruby-on-rails"}}}]}},pathContext:{tag:"workling"}}}});
+//# sourceMappingURL=path---tags-workling-5a9e10c8080e1c07154b.js.map

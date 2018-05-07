@@ -1,0 +1,2 @@
+webpackJsonp([0x947b6d23f664],{2587:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Top Selling Stuff on Amazon Brings Tears",path:"/top-selling-stuff-on-amazon-brings-tears"}}}]}},pathContext:{tag:"grocery"}}}});
+//# sourceMappingURL=path---tags-grocery-59ef3adb5dc4d9cb33e9.js.map

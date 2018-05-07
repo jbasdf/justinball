@@ -1,0 +1,2 @@
+webpackJsonp([0x6ac484b366dc],{2570:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Show unread emails in gmail",path:"/show-unread-emails-in-gmail"}}},{node:{frontmatter:{title:"Sending email with Ruby on Rails 2.3.2 and gmail",path:"/sending-email-with-ruby-on-rails-2-3-2-and-gmail"}}}]}},pathContext:{tag:"gmail"}}}});
+//# sourceMappingURL=path---tags-gmail-490d1bde9563e5e0e033.js.map

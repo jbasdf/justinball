@@ -1,0 +1,2 @@
+webpackJsonp([38194533604490],{2449:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Shoulda used RSpec",path:"/shoulda-used-rspec"}}}]}},pathContext:{tag:"cucumber"}}}});
+//# sourceMappingURL=path---tags-cucumber-0697fa8d1fc59a8ebc81.js.map

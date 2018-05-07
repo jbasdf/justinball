@@ -1,0 +1,2 @@
+webpackJsonp([0x69c18673aa44],{2577:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"A Modern Prophet",path:"/a-modern-prophet"}}}]}},pathContext:{tag:"Gorden B Hinckley"}}}});
+//# sourceMappingURL=path---tags-gorden-b-hinckley-b45fa4fbef0ff467728c.js.map

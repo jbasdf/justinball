@@ -1,0 +1,2 @@
+webpackJsonp([0xe75c479fcfe3],{2722:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Justin and Joel&#8217;s Epic Mountain Bike Adventure",path:"/justin-and-joels-epic-mountain-bike-adventure"}}},{node:{frontmatter:{title:"For the People Who Don&#8217;t Live Here",path:"/for-the-people-who-dont-live-here"}}}]}},pathContext:{tag:"mountain biking"}}}});
+//# sourceMappingURL=path---tags-mountain-biking-4e8a5fb84b1fecaa31ee.js.map

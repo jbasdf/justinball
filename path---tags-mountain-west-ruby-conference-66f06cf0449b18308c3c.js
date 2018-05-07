@@ -1,0 +1,2 @@
+webpackJsonp([3090502840099],{2724:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Review of Ozmozr code at Ruby Mountain West Conference",path:"/review-of-ozmozr-code-at-ruby-mountain-west-conference"}}}]}},pathContext:{tag:"mountain west ruby conference"}}}});
+//# sourceMappingURL=path---tags-mountain-west-ruby-conference-66f06cf0449b18308c3c.js.map

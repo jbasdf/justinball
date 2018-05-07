@@ -1,0 +1,2 @@
+webpackJsonp([37783259839269],{2498:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:4,edges:[{node:{frontmatter:{title:"Thinking in Ecto",path:"/thinking-in-ecto"}}},{node:{frontmatter:{title:"Elixir Conf 2017",path:"/elixirconf-2017"}}},{node:{frontmatter:{title:"GraphQL-Buffet",path:"/GraphQL-Buffet"}}},{node:{frontmatter:{title:"Serverside with GraphQL",path:"/serverside-with-graphql"}}}]}},pathContext:{tag:"elixir"}}}});
+//# sourceMappingURL=path---tags-elixir-51a791294af166407b1a.js.map

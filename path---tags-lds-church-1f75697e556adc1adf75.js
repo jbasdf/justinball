@@ -1,0 +1,2 @@
+webpackJsonp([0x5ef47216f484],{2659:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Genealogy at Risk?",path:"/genealogy-at-risk"}}},{node:{frontmatter:{title:"Family Search Conference",path:"/family-search-conference"}}}]}},pathContext:{tag:"LDS church"}}}});
+//# sourceMappingURL=path---tags-lds-church-1f75697e556adc1adf75.js.map

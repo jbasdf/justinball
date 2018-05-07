@@ -1,0 +1,2 @@
+webpackJsonp([0x8ef69ea15649],{2810:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"A Modern Prophet",path:"/a-modern-prophet"}}}]}},pathContext:{tag:"prophet"}}}});
+//# sourceMappingURL=path---tags-prophet-207769e28c076a0fb686.js.map

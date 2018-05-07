@@ -1,0 +1,2 @@
+webpackJsonp([0xa94beb24ebbf],{2486:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"My Macbook Pro, the Single Link DVI cable and the Not so Genius Apple Bar",path:"/my-macbook-pro-the-single-link-dvi-cable-and-the-not-so-genius-apple-bar"}}}]}},pathContext:{tag:"DVI"}}}});
+//# sourceMappingURL=path---tags-dvi-e3c89180f32fa2506ee0.js.map

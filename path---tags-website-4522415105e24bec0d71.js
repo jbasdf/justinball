@@ -1,0 +1,2 @@
+webpackJsonp([0x9336e33a0036],{3001:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Teachers Without Borders",path:"/teachers-without-borders-2"}}}]}},pathContext:{tag:"website"}}}});
+//# sourceMappingURL=path---tags-website-4522415105e24bec0d71.js.map

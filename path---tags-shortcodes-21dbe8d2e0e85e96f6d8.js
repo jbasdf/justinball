@@ -1,0 +1,2 @@
+webpackJsonp([77193220117030],{2891:function(e,o){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Word Press Plugin Development Developing Shortcodes",path:"/Word-Press-Plugin-Development-Developing-Shortcodes"}}}]}},pathContext:{tag:"shortcodes"}}}});
+//# sourceMappingURL=path---tags-shortcodes-21dbe8d2e0e85e96f6d8.js.map

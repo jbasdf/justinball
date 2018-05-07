@@ -1,0 +1,2 @@
+webpackJsonp([0xfb68f96c2cb6],{2339:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Amazon S3, Jungle Disk and the new way to backup",path:"/amazon-s3-jungle-disk-and-the-new-way-to-backup"}}}]}},pathContext:{tag:"amazon s3"}}}});
+//# sourceMappingURL=path---tags-amazon-s-3-31a4229c36797291d82c.js.map

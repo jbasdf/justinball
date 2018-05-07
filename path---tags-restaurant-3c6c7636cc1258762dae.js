@@ -1,0 +1,2 @@
+webpackJsonp([76058542731516],{2851:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Maddox",path:"/maddox"}}}]}},pathContext:{tag:"restaurant"}}}});
+//# sourceMappingURL=path---tags-restaurant-3c6c7636cc1258762dae.js.map

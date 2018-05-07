@@ -1,0 +1,2 @@
+webpackJsonp([0xdaa8ab7a8807],{2619:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Snelgrove Dies Away",path:"/snelgrove-dies-away"}}}]}},pathContext:{tag:"ice cream"}}}});
+//# sourceMappingURL=path---tags-ice-cream-9276c26bb4917a4d5624.js.map

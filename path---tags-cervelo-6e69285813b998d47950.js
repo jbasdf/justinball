@@ -1,0 +1,2 @@
+webpackJsonp([0x616ba2b4b3a6],{2406:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Cervelo eRide Came to Logan",path:"/cervelo-eride-came-to-logan"}}}]}},pathContext:{tag:"cervelo"}}}});
+//# sourceMappingURL=path---tags-cervelo-6e69285813b998d47950.js.map

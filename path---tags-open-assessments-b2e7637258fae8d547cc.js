@@ -1,0 +1,2 @@
+webpackJsonp([50726880022565],{2760:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Open Assessments Code Sprint with OERPub, MIT and Lumen",path:"/open-assessments-code-sprint-with-oerpub,-mit-and-lumen"}}}]}},pathContext:{tag:"Open Assessments"}}}});
+//# sourceMappingURL=path---tags-open-assessments-b2e7637258fae8d547cc.js.map

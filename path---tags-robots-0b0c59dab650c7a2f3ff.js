@@ -1,0 +1,2 @@
+webpackJsonp([0xbf35ece3acd2],{2858:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The Master Simulator Made Me do it",path:"/the-master-simulator-made-me-do-it"}}}]}},pathContext:{tag:"robots"}}}});
+//# sourceMappingURL=path---tags-robots-0b0c59dab650c7a2f3ff.js.map

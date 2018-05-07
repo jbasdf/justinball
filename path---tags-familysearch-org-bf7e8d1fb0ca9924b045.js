@@ -1,0 +1,2 @@
+webpackJsonp([99553120902040],{2523:function(e,a){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Family Search Conference",path:"/family-search-conference"}}}]}},pathContext:{tag:"familysearch.org"}}}});
+//# sourceMappingURL=path---tags-familysearch-org-bf7e8d1fb0ca9924b045.js.map

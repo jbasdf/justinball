@@ -1,0 +1,2 @@
+webpackJsonp([0xeda286f54fbd],{2413:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Chocolate",path:"/chocolate"}}},{node:{frontmatter:{title:"The COSL Guys are Disgusting",path:"/the-cosl-guys-are-disgusting"}}}]}},pathContext:{tag:"chocolate"}}}});
+//# sourceMappingURL=path---tags-chocolate-9c8b5addb48346120ba5.js.map

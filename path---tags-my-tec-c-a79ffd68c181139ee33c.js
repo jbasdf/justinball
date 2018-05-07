@@ -1,0 +1,2 @@
+webpackJsonp([0xf107984ac422],{2738:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"What I Do for a Living",path:"/what-i-do-for-a-living"}}}]}},pathContext:{tag:"MYTecC"}}}});
+//# sourceMappingURL=path---tags-my-tec-c-a79ffd68c181139ee33c.js.map

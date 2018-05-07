@@ -1,0 +1,2 @@
+webpackJsonp([0xf54f046afb6e],{2980:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Fences",path:"/fences"}}}]}},pathContext:{tag:"user interface"}}}});
+//# sourceMappingURL=path---tags-user-interface-70c3112f0b041e8f1366.js.map

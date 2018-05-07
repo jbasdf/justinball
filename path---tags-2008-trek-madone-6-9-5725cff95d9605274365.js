@@ -1,0 +1,2 @@
+webpackJsonp([0xbaf21bb7b26a],{2312:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"First Real Ride on the New Trek Madone 6.9",path:"/first-real-ride-on-the-new-trek-madone-69"}}}]}},pathContext:{tag:"2008 trek madone 6.9"}}}});
+//# sourceMappingURL=path---tags-2008-trek-madone-6-9-5725cff95d9605274365.js.map

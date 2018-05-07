@@ -1,0 +1,2 @@
+webpackJsonp([0x94349c61f55],{2731:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"gems:unpack for gems that don&#8217;t unpack",path:"/gemsunpack-for-gems-that-dont-unpack"}}}]}},pathContext:{tag:"muck"}}}});
+//# sourceMappingURL=path---tags-muck-3fec13140e8e74b30cb5.js.map

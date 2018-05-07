@@ -1,0 +1,2 @@
+webpackJsonp([0xdd2eaaeed5ef],{2317:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Dude, it&#8217;s 420",path:"/dude-its-420"}}}]}},pathContext:{tag:"420"}}}});
+//# sourceMappingURL=path---tags-420-65e50578db729b64eb37.js.map

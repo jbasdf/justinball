@@ -1,0 +1,2 @@
+webpackJsonp([0xc08f5674316a],{2682:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"OER in the LMS via LTI",path:"/OER-in-the-LMS-via-LTI"}}}]}},pathContext:{tag:"LTI"}}}});
+//# sourceMappingURL=path---tags-lti-7dcc72bf026871be50b3.js.map

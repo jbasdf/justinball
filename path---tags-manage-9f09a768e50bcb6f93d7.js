@@ -1,0 +1,2 @@
+webpackJsonp([92152958568119],{2696:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"How to manage 60,000 digital photos",path:"/how-to-manage-60000-digital-photos"}}}]}},pathContext:{tag:"manage"}}}});
+//# sourceMappingURL=path---tags-manage-9f09a768e50bcb6f93d7.js.map

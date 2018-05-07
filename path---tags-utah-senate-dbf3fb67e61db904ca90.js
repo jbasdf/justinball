@@ -1,0 +1,2 @@
+webpackJsonp([0x6d590a73c251],{2983:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Utah Flat Tax",path:"/utah-flat-tax"}}}]}},pathContext:{tag:"utah senate"}}}});
+//# sourceMappingURL=path---tags-utah-senate-dbf3fb67e61db904ca90.js.map
