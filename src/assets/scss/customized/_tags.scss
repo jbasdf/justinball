@@ -1,0 +1,21 @@
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  list-style-type: none;
+}
+.tag {
+  list-style: none;
+  display: inline-block;
+  margin: 0.125rem;
+  padding: 0.4375rem;
+  a{
+    text-decoration: none;
+    transition: all 0.1s ease-in-out;
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+      transform: scale(1.1);
+    }
+  }
+}

@@ -7,8 +7,8 @@ date: 2018-04-12T10:00:00.000Z
 templateKey: blog-post
 path: "/crystal-lang"
 description: ""
-image: ""
-imageUrl: https://img.youtube.com/xbdVs4FhZac/sddefault.jpg
+image: "./crystal_logo.svg"
+imageUrl: ""
 ---
 <p>I've spend some time looking into Elixir, Go, Rust and LISP. In my quest to find a faster, compiled language to power my next web project I'm also spending some time looking into <a href="https://crystal-lang.org/">Crystal</a>.
 
