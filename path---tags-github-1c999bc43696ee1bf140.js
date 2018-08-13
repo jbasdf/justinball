@@ -1,2 +1,2 @@
-webpackJsonp([0xed28d567e2ba],{2568:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"React Media Player",path:"/react-media-player"}}}]}},pathContext:{tag:"github"}}}});
+webpackJsonp([0xed28d567e2ba],{2575:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"React Media Player",path:"/react-media-player"}}}]}},pathContext:{tag:"github"}}}});
 //# sourceMappingURL=path---tags-github-1c999bc43696ee1bf140.js.map

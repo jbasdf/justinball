@@ -1,2 +1,2 @@
-webpackJsonp([54185670952432],{2372:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Battlestar Galactica",path:"/battlestar-galactica"}}}]}},pathContext:{tag:"Battlestar Galactica"}}}});
+webpackJsonp([54185670952432],{2379:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Battlestar Galactica",path:"/battlestar-galactica"}}}]}},pathContext:{tag:"Battlestar Galactica"}}}});
 //# sourceMappingURL=path---tags-battlestar-galactica-7c8b7fc3b5acb50f158a.js.map

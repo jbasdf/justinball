@@ -1,2 +1,2 @@
-webpackJsonp([45356005308689],{2773:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Teeth Whitening = Pain",path:"/teeth-whitening-pain"}}}]}},pathContext:{tag:"pain"}}}});
+webpackJsonp([45356005308689],{2780:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Teeth Whitening = Pain",path:"/teeth-whitening-pain"}}}]}},pathContext:{tag:"pain"}}}});
 //# sourceMappingURL=path---tags-pain-a50c0192f572dc2ba4ce.js.map

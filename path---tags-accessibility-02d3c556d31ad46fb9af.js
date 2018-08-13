@@ -1,2 +1,2 @@
-webpackJsonp([57637855410200],{2321:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Bringing the Web Back to the Blind with Ryan Florence",path:"/bringing-the-web-back-to-the-blind-with-ryan-florence"}}}]}},pathContext:{tag:"accessibility"}}}});
+webpackJsonp([57637855410200],{2328:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Bringing the Web Back to the Blind with Ryan Florence",path:"/bringing-the-web-back-to-the-blind-with-ryan-florence"}}}]}},pathContext:{tag:"accessibility"}}}});
 //# sourceMappingURL=path---tags-accessibility-02d3c556d31ad46fb9af.js.map

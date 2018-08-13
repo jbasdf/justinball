@@ -1,2 +1,2 @@
-webpackJsonp([0x6a0f12fa8f2b],{2733:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Microcontent Sells",path:"/microcontent-sells"}}},{node:{frontmatter:{title:"Sarah Sample",path:"/sarah-sample"}}}]}},pathContext:{tag:"music"}}}});
+webpackJsonp([0x6a0f12fa8f2b],{2740:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Microcontent Sells",path:"/microcontent-sells"}}},{node:{frontmatter:{title:"Sarah Sample",path:"/sarah-sample"}}}]}},pathContext:{tag:"music"}}}});
 //# sourceMappingURL=path---tags-music-9e589a39cf7142afe68a.js.map

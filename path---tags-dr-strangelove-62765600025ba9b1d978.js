@@ -1,2 +1,2 @@
-webpackJsonp([0x93e149f8a1c4],{2482:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Flickr as Web 2.0, bla, The Soviets were like Nuke 2.0 way back in the 70s",path:"/flickr-as-web-20-bla-the-soviets-were-like-nuke-20-way-back-in-the-70s"}}}]}},pathContext:{tag:"dr strangelove"}}}});
+webpackJsonp([0x93e149f8a1c4],{2489:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Flickr as Web 2.0, bla, The Soviets were like Nuke 2.0 way back in the 70s",path:"/flickr-as-web-20-bla-the-soviets-were-like-nuke-20-way-back-in-the-70s"}}}]}},pathContext:{tag:"dr strangelove"}}}});
 //# sourceMappingURL=path---tags-dr-strangelove-62765600025ba9b1d978.js.map

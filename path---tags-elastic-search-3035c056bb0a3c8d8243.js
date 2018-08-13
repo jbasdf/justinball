@@ -1,2 +1,2 @@
-webpackJsonp([0xd5ee3a54fbbc],{2495:function(e,a){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Secure ElasticSearch behind Nginx using Docker on Digital Ocean",path:"/secure-elasticsearch-behind-nginx-using-docker-on-digital-ocean"}}}]}},pathContext:{tag:"ElasticSearch"}}}});
+webpackJsonp([0xd5ee3a54fbbc],{2502:function(e,a){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Secure ElasticSearch behind Nginx using Docker on Digital Ocean",path:"/secure-elasticsearch-behind-nginx-using-docker-on-digital-ocean"}}}]}},pathContext:{tag:"ElasticSearch"}}}});
 //# sourceMappingURL=path---tags-elastic-search-3035c056bb0a3c8d8243.js.map

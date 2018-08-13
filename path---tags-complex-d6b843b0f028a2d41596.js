@@ -1,2 +1,2 @@
-webpackJsonp([0x9c6b917602c4],{2431:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"This shouldn&#8217;t be so @#!&amp;amp;! hard",path:"/this-shouldnt-be-so-amp-hard"}}}]}},pathContext:{tag:"complex"}}}});
+webpackJsonp([0x9c6b917602c4],{2438:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"This shouldn&#8217;t be so @#!&amp;amp;! hard",path:"/this-shouldnt-be-so-amp-hard"}}}]}},pathContext:{tag:"complex"}}}});
 //# sourceMappingURL=path---tags-complex-d6b843b0f028a2d41596.js.map

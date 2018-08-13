@@ -1,2 +1,2 @@
-webpackJsonp([0x82a2b52b4128],{2637:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Ajax calls using jQuery in Ruby on Rails",path:"/ajax-calls-using-jquery-in-ruby-on-rails"}}}]}},pathContext:{tag:"InvalidAuthenticityToken"}}}});
+webpackJsonp([0x82a2b52b4128],{2644:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Ajax calls using jQuery in Ruby on Rails",path:"/ajax-calls-using-jquery-in-ruby-on-rails"}}}]}},pathContext:{tag:"InvalidAuthenticityToken"}}}});
 //# sourceMappingURL=path---tags-invalid-authenticity-token-b30abd96c24f6b05cb54.js.map

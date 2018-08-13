@@ -1,2 +1,2 @@
-webpackJsonp([88370345293597],{2549:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Change your WordPress Gallery Settings",path:"/change-your-wordpress-gallery-settings"}}}]}},pathContext:{tag:"galleries"}}}});
+webpackJsonp([88370345293597],{2556:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Change your WordPress Gallery Settings",path:"/change-your-wordpress-gallery-settings"}}}]}},pathContext:{tag:"galleries"}}}});
 //# sourceMappingURL=path---tags-galleries-8ff6249181e7128f1753.js.map

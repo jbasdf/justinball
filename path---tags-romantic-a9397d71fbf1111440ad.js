@@ -1,2 +1,2 @@
-webpackJsonp([0xe2e98464c4d4],{2859:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Our Tax Date",path:"/our-tax-date"}}}]}},pathContext:{tag:"romantic"}}}});
+webpackJsonp([0xe2e98464c4d4],{2866:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Our Tax Date",path:"/our-tax-date"}}}]}},pathContext:{tag:"romantic"}}}});
 //# sourceMappingURL=path---tags-romantic-a9397d71fbf1111440ad.js.map

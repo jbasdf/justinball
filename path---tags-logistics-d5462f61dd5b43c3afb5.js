@@ -1,2 +1,2 @@
-webpackJsonp([0x5fa8af668e69],{2680:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The Logistics of Life",path:"/the-logistics-of-life"}}}]}},pathContext:{tag:"logistics"}}}});
+webpackJsonp([0x5fa8af668e69],{2687:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The Logistics of Life",path:"/the-logistics-of-life"}}}]}},pathContext:{tag:"logistics"}}}});
 //# sourceMappingURL=path---tags-logistics-d5462f61dd5b43c3afb5.js.map

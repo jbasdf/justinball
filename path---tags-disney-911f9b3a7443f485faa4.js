@@ -1,2 +1,2 @@
-webpackJsonp([0xa50efaa4b39],{2474:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Jeremiah was a Bullfrog, Lucifer is a Cat",path:"/jeremiah-was-a-bullfrog-lucifer-is-a-cat"}}}]}},pathContext:{tag:"disney"}}}});
+webpackJsonp([0xa50efaa4b39],{2481:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Jeremiah was a Bullfrog, Lucifer is a Cat",path:"/jeremiah-was-a-bullfrog-lucifer-is-a-cat"}}}]}},pathContext:{tag:"disney"}}}});
 //# sourceMappingURL=path---tags-disney-911f9b3a7443f485faa4.js.map

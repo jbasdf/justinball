@@ -1,2 +1,2 @@
-webpackJsonp([21647409258412],{2657:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"LaunchUp.org",path:"/launchup-org"}}}]}},pathContext:{tag:"launchup.org"}}}});
+webpackJsonp([21647409258412],{2664:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"LaunchUp.org",path:"/launchup-org"}}}]}},pathContext:{tag:"launchup.org"}}}});
 //# sourceMappingURL=path---tags-launchup-org-cc324faecfeee1016fdc.js.map

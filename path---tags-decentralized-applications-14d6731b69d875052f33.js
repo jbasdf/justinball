@@ -1,2 +1,2 @@
-webpackJsonp([0xf4d1e486f92e],{2459:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Blockchain Introduction",path:"/blockchain-introduction"}}}]}},pathContext:{tag:"decentralized applications"}}}});
+webpackJsonp([0xf4d1e486f92e],{2466:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Blockchain Introduction",path:"/blockchain-introduction"}}}]}},pathContext:{tag:"decentralized applications"}}}});
 //# sourceMappingURL=path---tags-decentralized-applications-14d6731b69d875052f33.js.map

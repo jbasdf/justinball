@@ -1,2 +1,2 @@
-webpackJsonp([0xcd02e6407735],{2945:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Some Cool House Plans",path:"/some-cool-house-plans"}}},{node:{frontmatter:{title:"PicLens on ThePlanCollection.com",path:"/piclens-on-theplancollectioncom"}}}]}},pathContext:{tag:"theplancollection.com"}}}});
+webpackJsonp([0xcd02e6407735],{2952:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Some Cool House Plans",path:"/some-cool-house-plans"}}},{node:{frontmatter:{title:"PicLens on ThePlanCollection.com",path:"/piclens-on-theplancollectioncom"}}}]}},pathContext:{tag:"theplancollection.com"}}}});
 //# sourceMappingURL=path---tags-theplancollection-com-80f94823708a00fc688d.js.map

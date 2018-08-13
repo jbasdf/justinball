@@ -1,2 +1,2 @@
-webpackJsonp([94609541347350],{3015:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"This Clears Things Up a Bit",path:"/this-clears-things-up-a-bit"}}},{node:{frontmatter:{title:"Turn WordPress Into Social Butterfly",path:"/social-wordpress"}}}]}},pathContext:{tag:"wpmu"}}}});
+webpackJsonp([94609541347350],{3022:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"This Clears Things Up a Bit",path:"/this-clears-things-up-a-bit"}}},{node:{frontmatter:{title:"Turn WordPress Into Social Butterfly",path:"/social-wordpress"}}}]}},pathContext:{tag:"wpmu"}}}});
 //# sourceMappingURL=path---tags-wpmu-b6cba653c6a25b1f2b7c.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([36638380206914],{2349:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"GraphQL Apollo",path:"/Graph-Ql-Apollo"}}},{node:{frontmatter:{title:"Relay or Apollo",path:"/relay-or-apollo"}}}]}},pathContext:{tag:"apollo"}}}});
+webpackJsonp([36638380206914],{2356:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"GraphQL Apollo",path:"/Graph-Ql-Apollo"}}},{node:{frontmatter:{title:"Relay or Apollo",path:"/relay-or-apollo"}}}]}},pathContext:{tag:"apollo"}}}});
 //# sourceMappingURL=path---tags-apollo-49214519eecd96891c33.js.map

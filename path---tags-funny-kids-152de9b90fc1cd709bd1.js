@@ -1,2 +1,2 @@
-webpackJsonp([0x5c8374777d39],{2546:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"You&#8217;re Welcome",path:"/youre-welcome"}}}]}},pathContext:{tag:"funny kids"}}}});
+webpackJsonp([0x5c8374777d39],{2553:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"You&#8217;re Welcome",path:"/youre-welcome"}}}]}},pathContext:{tag:"funny kids"}}}});
 //# sourceMappingURL=path---tags-funny-kids-152de9b90fc1cd709bd1.js.map

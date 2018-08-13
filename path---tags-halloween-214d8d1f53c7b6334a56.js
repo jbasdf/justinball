@@ -1,2 +1,2 @@
-webpackJsonp([0x735f45169796],{2592:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Screaming out in Sheer Terror",path:"/screaming-out-in-sheer-terror"}}}]}},pathContext:{tag:"halloween"}}}});
+webpackJsonp([0x735f45169796],{2599:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Screaming out in Sheer Terror",path:"/screaming-out-in-sheer-terror"}}}]}},pathContext:{tag:"halloween"}}}});
 //# sourceMappingURL=path---tags-halloween-214d8d1f53c7b6334a56.js.map

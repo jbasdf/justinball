@@ -1,2 +1,2 @@
-webpackJsonp([0x82122acbd66d],{2825:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Shoulda used RSpec",path:"/shoulda-used-rspec"}}}]}},pathContext:{tag:"rails"}}}});
+webpackJsonp([0x82122acbd66d],{2832:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Shoulda used RSpec",path:"/shoulda-used-rspec"}}}]}},pathContext:{tag:"rails"}}}});
 //# sourceMappingURL=path---tags-rails-3a2469fdcfc00f0af61e.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([97331221140391],{2812:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Blackmarket Bread",path:"/blackmarket-bread"}}}]}},pathContext:{tag:"protests"}}}});
+webpackJsonp([97331221140391],{2819:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Blackmarket Bread",path:"/blackmarket-bread"}}}]}},pathContext:{tag:"protests"}}}});
 //# sourceMappingURL=path---tags-protests-460f22f7d01addff4ae5.js.map

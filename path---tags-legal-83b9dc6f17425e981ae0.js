@@ -1,2 +1,2 @@
-webpackJsonp([0xfe1ca5c2a154],{2662:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Creative Commons Opens Legal Documents",path:"/creative-commons-opens-legal-documents"}}}]}},pathContext:{tag:"legal"}}}});
+webpackJsonp([0xfe1ca5c2a154],{2669:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Creative Commons Opens Legal Documents",path:"/creative-commons-opens-legal-documents"}}}]}},pathContext:{tag:"legal"}}}});
 //# sourceMappingURL=path---tags-legal-83b9dc6f17425e981ae0.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([90776951663014],{2401:function(o,e){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Configure your Free Facebook Joyent Accelerator for Capistrano",path:"/configure-your-free-facebook-joyent-accelerator-for-capistrano"}}}]}},pathContext:{tag:"capistrano"}}}});
+webpackJsonp([90776951663014],{2408:function(o,e){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Configure your Free Facebook Joyent Accelerator for Capistrano",path:"/configure-your-free-facebook-joyent-accelerator-for-capistrano"}}}]}},pathContext:{tag:"capistrano"}}}});
 //# sourceMappingURL=path---tags-capistrano-ecbc5579876c8933922e.js.map

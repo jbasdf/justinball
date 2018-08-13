@@ -1,2 +1,2 @@
-webpackJsonp([0x994f82517de2],{2718:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"How Mortgages and Housing Hurt the Economy",path:"/how-mortgages-and-housing-hurt-the-economy"}}}]}},pathContext:{tag:"mortgage"}}}});
+webpackJsonp([0x994f82517de2],{2725:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"How Mortgages and Housing Hurt the Economy",path:"/how-mortgages-and-housing-hurt-the-economy"}}}]}},pathContext:{tag:"mortgage"}}}});
 //# sourceMappingURL=path---tags-mortgage-ff553884b39d1441cc8d.js.map

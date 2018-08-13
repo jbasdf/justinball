@@ -1,2 +1,2 @@
-webpackJsonp([0x7a8ca80bffb6],{2769:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Mac OSX and the Samsung ML1740 on a network",path:"/mac-osx-and-the-samsung-ml1740-on-a-network"}}}]}},pathContext:{tag:"osx"}}}});
+webpackJsonp([0x7a8ca80bffb6],{2776:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Mac OSX and the Samsung ML1740 on a network",path:"/mac-osx-and-the-samsung-ml1740-on-a-network"}}}]}},pathContext:{tag:"osx"}}}});
 //# sourceMappingURL=path---tags-osx-bd1ccbc3aeecc55f378e.js.map

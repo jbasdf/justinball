@@ -1,2 +1,2 @@
-webpackJsonp([0xbcaa8ed43bc2],{2881:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Hierarchies, trees, jQuery, Prototype, script.aculo.us and acts_as_nested_set",path:"/heirarchies-trees-jquery-prototype-scriptaculous-and-acts_as_nested_set"}}}]}},pathContext:{tag:"script.aculo.us "}}}});
+webpackJsonp([0xbcaa8ed43bc2],{2888:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Hierarchies, trees, jQuery, Prototype, script.aculo.us and acts_as_nested_set",path:"/heirarchies-trees-jquery-prototype-scriptaculous-and-acts_as_nested_set"}}}]}},pathContext:{tag:"script.aculo.us "}}}});
 //# sourceMappingURL=path---tags-script-aculo-us-2b4c8e7bb472edf8adf3.js.map

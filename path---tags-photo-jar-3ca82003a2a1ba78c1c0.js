@@ -1,2 +1,2 @@
-webpackJsonp([0xf7d62c22ece3],{2782:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Change your WordPress Gallery Settings",path:"/change-your-wordpress-gallery-settings"}}}]}},pathContext:{tag:"photoJAR"}}}});
+webpackJsonp([0xf7d62c22ece3],{2789:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Change your WordPress Gallery Settings",path:"/change-your-wordpress-gallery-settings"}}}]}},pathContext:{tag:"photoJAR"}}}});
 //# sourceMappingURL=path---tags-photo-jar-3ca82003a2a1ba78c1c0.js.map

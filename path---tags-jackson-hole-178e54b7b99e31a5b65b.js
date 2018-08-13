@@ -1,2 +1,2 @@
-webpackJsonp([42319630154813],{2639:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Visited the Tetons",path:"/visited-the-tetons"}}}]}},pathContext:{tag:"jackson-hole"}}}});
+webpackJsonp([42319630154813],{2646:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Visited the Tetons",path:"/visited-the-tetons"}}}]}},pathContext:{tag:"jackson-hole"}}}});
 //# sourceMappingURL=path---tags-jackson-hole-178e54b7b99e31a5b65b.js.map

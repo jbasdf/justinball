@@ -1,2 +1,2 @@
-webpackJsonp([0x8d4d6e0ab54c],{2875:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Uninspired",path:"/uninspired"}}},{node:{frontmatter:{title:"Sarah Sample",path:"/sarah-sample"}}}]}},pathContext:{tag:"sarah sample"}}}});
+webpackJsonp([0x8d4d6e0ab54c],{2882:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Uninspired",path:"/uninspired"}}},{node:{frontmatter:{title:"Sarah Sample",path:"/sarah-sample"}}}]}},pathContext:{tag:"sarah sample"}}}});
 //# sourceMappingURL=path---tags-sarah-sample-d48511ea34499e5844e7.js.map

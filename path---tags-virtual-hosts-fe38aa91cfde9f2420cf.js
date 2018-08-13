@@ -1,2 +1,2 @@
-webpackJsonp([0x5bdce1c37986],{2989:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Virtual Host Configuration for WordPress on my Mac",path:"/virtual-host-configuration-for-wordpress-on-my-mac"}}}]}},pathContext:{tag:"virtual hosts"}}}});
+webpackJsonp([0x5bdce1c37986],{2996:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Virtual Host Configuration for WordPress on my Mac",path:"/virtual-host-configuration-for-wordpress-on-my-mac"}}}]}},pathContext:{tag:"virtual hosts"}}}});
 //# sourceMappingURL=path---tags-virtual-hosts-fe38aa91cfde9f2420cf.js.map

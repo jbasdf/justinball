@@ -1,2 +1,2 @@
-webpackJsonp([36413316069438],{2787:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"My Truck Got Old",path:"/my-truck-got-old"}}}]}},pathContext:{tag:"pickup"}}}});
+webpackJsonp([36413316069438],{2794:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"My Truck Got Old",path:"/my-truck-got-old"}}}]}},pathContext:{tag:"pickup"}}}});
 //# sourceMappingURL=path---tags-pickup-0053dab3ac3d26e6cfa8.js.map

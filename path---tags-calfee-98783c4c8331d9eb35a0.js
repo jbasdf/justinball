@@ -1,2 +1,2 @@
-webpackJsonp([0xa459149f567a],{2395:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"More on my bike dilema",path:"/more-on-my-bike-dilema"}}},{node:{frontmatter:{title:"I love Calfee, Strong, and Time bikes",path:"/i-love-calfee-bikes"}}}]}},pathContext:{tag:"calfee"}}}});
+webpackJsonp([0xa459149f567a],{2402:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"More on my bike dilema",path:"/more-on-my-bike-dilema"}}},{node:{frontmatter:{title:"I love Calfee, Strong, and Time bikes",path:"/i-love-calfee-bikes"}}}]}},pathContext:{tag:"calfee"}}}});
 //# sourceMappingURL=path---tags-calfee-98783c4c8331d9eb35a0.js.map

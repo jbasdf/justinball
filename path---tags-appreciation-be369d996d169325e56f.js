@@ -1,2 +1,2 @@
-webpackJsonp([0xeee9c4154bb2],{2355:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Appreciate the Little Things",path:"/appreciate-the-little-things"}}}]}},pathContext:{tag:"appreciation"}}}});
+webpackJsonp([0xeee9c4154bb2],{2362:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Appreciate the Little Things",path:"/appreciate-the-little-things"}}}]}},pathContext:{tag:"appreciation"}}}});
 //# sourceMappingURL=path---tags-appreciation-be369d996d169325e56f.js.map

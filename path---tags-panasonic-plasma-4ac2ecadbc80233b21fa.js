@@ -1,2 +1,2 @@
-webpackJsonp([0xc43f9b33cd2c],{2774:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"My Wife is Better Than Your Wife",path:"/my-wife-is-better-than-your-wife"}}}]}},pathContext:{tag:"panasonic plasma"}}}});
+webpackJsonp([0xc43f9b33cd2c],{2781:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"My Wife is Better Than Your Wife",path:"/my-wife-is-better-than-your-wife"}}}]}},pathContext:{tag:"panasonic plasma"}}}});
 //# sourceMappingURL=path---tags-panasonic-plasma-4ac2ecadbc80233b21fa.js.map

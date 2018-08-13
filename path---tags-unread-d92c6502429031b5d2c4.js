@@ -1,2 +1,2 @@
-webpackJsonp([71775818689072],{2975:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Show unread emails in gmail",path:"/show-unread-emails-in-gmail"}}}]}},pathContext:{tag:"unread"}}}});
+webpackJsonp([71775818689072],{2982:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Show unread emails in gmail",path:"/show-unread-emails-in-gmail"}}}]}},pathContext:{tag:"unread"}}}});
 //# sourceMappingURL=path---tags-unread-d92c6502429031b5d2c4.js.map

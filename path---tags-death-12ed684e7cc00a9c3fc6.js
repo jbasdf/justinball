@@ -1,2 +1,2 @@
-webpackJsonp([71491465644292],{2457:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"We&#8217;re All Gonna Die",path:"/were-all-gonna-die"}}}]}},pathContext:{tag:"death"}}}});
+webpackJsonp([71491465644292],{2464:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"We&#8217;re All Gonna Die",path:"/were-all-gonna-die"}}}]}},pathContext:{tag:"death"}}}});
 //# sourceMappingURL=path---tags-death-12ed684e7cc00a9c3fc6.js.map

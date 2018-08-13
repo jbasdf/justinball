@@ -1,2 +1,2 @@
-webpackJsonp([0xdb75baaac8b0],{2606:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"This shouldn&#8217;t be so @#!&amp;amp;! hard",path:"/this-shouldnt-be-so-amp-hard"}}}]}},pathContext:{tag:"home building"}}}});
+webpackJsonp([0xdb75baaac8b0],{2613:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"This shouldn&#8217;t be so @#!&amp;amp;! hard",path:"/this-shouldnt-be-so-amp-hard"}}}]}},pathContext:{tag:"home building"}}}});
 //# sourceMappingURL=path---tags-home-building-9a0a1b27ce586788b537.js.map

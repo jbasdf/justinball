@@ -1,2 +1,2 @@
-webpackJsonp([9431267086068],{2373:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"More Stuff You Shouldn&#8217;t Hit on a Bike",path:"/more-stuff-you-shouldnt-hit-on-a-bike"}}}]}},pathContext:{tag:"bear"}}}});
+webpackJsonp([9431267086068],{2380:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"More Stuff You Shouldn&#8217;t Hit on a Bike",path:"/more-stuff-you-shouldnt-hit-on-a-bike"}}}]}},pathContext:{tag:"bear"}}}});
 //# sourceMappingURL=path---tags-bear-b7ac860d3a99140975ec.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([67495171454778],{2407:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Control DMX Lights With Audio Midi",path:"/Control-Dmx-Lights-With-Audio-Midi"}}}]}},pathContext:{tag:"chauvet obey 40"}}}});
+webpackJsonp([67495171454778],{2414:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Control DMX Lights With Audio Midi",path:"/Control-Dmx-Lights-With-Audio-Midi"}}}]}},pathContext:{tag:"chauvet obey 40"}}}});
 //# sourceMappingURL=path---tags-chauvet-obey-40-a13aeeb708cb05b304a7.js.map

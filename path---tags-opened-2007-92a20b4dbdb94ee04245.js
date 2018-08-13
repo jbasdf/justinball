@@ -1,2 +1,2 @@
-webpackJsonp([0xda8b4c2727bc],{2764:function(e,a){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Have 51weeks feedback?",path:"/have-51weeks-feedback"}}}]}},pathContext:{tag:"opened2007"}}}});
+webpackJsonp([0xda8b4c2727bc],{2771:function(e,a){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Have 51weeks feedback?",path:"/have-51weeks-feedback"}}}]}},pathContext:{tag:"opened2007"}}}});
 //# sourceMappingURL=path---tags-opened-2007-92a20b4dbdb94ee04245.js.map

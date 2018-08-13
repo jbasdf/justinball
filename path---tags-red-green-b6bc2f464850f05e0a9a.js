@@ -1,2 +1,2 @@
-webpackJsonp([93118237073181],{2840:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Setting up ZenTest and Red Green",path:"/setting-up-zentest-and-red-green"}}}]}},pathContext:{tag:"red green"}}}});
+webpackJsonp([93118237073181],{2847:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Setting up ZenTest and Red Green",path:"/setting-up-zentest-and-red-green"}}}]}},pathContext:{tag:"red green"}}}});
 //# sourceMappingURL=path---tags-red-green-b6bc2f464850f05e0a9a.js.map

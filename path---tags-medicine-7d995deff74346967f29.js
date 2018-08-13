@@ -1,2 +1,2 @@
-webpackJsonp([0xce011b520485],{2702:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"An MRI is Like a Rock Concert",path:"/an-mri-is-like-a-rock-concert"}}},{node:{frontmatter:{title:"Why the medical industry sucks",path:"/why-the-medical-industry-sucks"}}}]}},pathContext:{tag:"medicine"}}}});
+webpackJsonp([0xce011b520485],{2709:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"An MRI is Like a Rock Concert",path:"/an-mri-is-like-a-rock-concert"}}},{node:{frontmatter:{title:"Why the medical industry sucks",path:"/why-the-medical-industry-sucks"}}}]}},pathContext:{tag:"medicine"}}}});
 //# sourceMappingURL=path---tags-medicine-7d995deff74346967f29.js.map

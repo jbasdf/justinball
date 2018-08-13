@@ -1,2 +1,2 @@
-webpackJsonp([0xe6f5a2886eb7],{2919:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Using Starling, Workling with Ruby on Rails",path:"/using-starling-workling-with-ruby-on-rails"}}}]}},pathContext:{tag:"starling"}}}});
+webpackJsonp([0xe6f5a2886eb7],{2926:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Using Starling, Workling with Ruby on Rails",path:"/using-starling-workling-with-ruby-on-rails"}}}]}},pathContext:{tag:"starling"}}}});
 //# sourceMappingURL=path---tags-starling-c13635e048a3dc331e3b.js.map

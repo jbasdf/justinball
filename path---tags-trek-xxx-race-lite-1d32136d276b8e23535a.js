@@ -1,2 +1,2 @@
-webpackJsonp([0xc84d34a0f1f2],{2963:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Trek XXX Lite Handlebars &#8211; Single Use Item",path:"/trek-xxx-lite-handlebars-single-use-item"}}}]}},pathContext:{tag:"trek xxx race lite"}}}});
+webpackJsonp([0xc84d34a0f1f2],{2970:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Trek XXX Lite Handlebars &#8211; Single Use Item",path:"/trek-xxx-lite-handlebars-single-use-item"}}}]}},pathContext:{tag:"trek xxx race lite"}}}});
 //# sourceMappingURL=path---tags-trek-xxx-race-lite-1d32136d276b8e23535a.js.map

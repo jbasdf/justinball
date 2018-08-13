@@ -1,2 +1,2 @@
-webpackJsonp([0x6aa61ca12b7f],{3019:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"Yellowstone 2",path:"/yellowstone-2"}}},{node:{frontmatter:{title:"Yellowstone 3",path:"/yellowstone-3"}}},{node:{frontmatter:{title:"Yellowstone",path:"/yellowstone"}}}]}},pathContext:{tag:"yellowstone"}}}});
+webpackJsonp([0x6aa61ca12b7f],{3026:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"Yellowstone 2",path:"/yellowstone-2"}}},{node:{frontmatter:{title:"Yellowstone 3",path:"/yellowstone-3"}}},{node:{frontmatter:{title:"Yellowstone",path:"/yellowstone"}}}]}},pathContext:{tag:"yellowstone"}}}});
 //# sourceMappingURL=path---tags-yellowstone-9cd7b9f8dcbacc20b0d8.js.map

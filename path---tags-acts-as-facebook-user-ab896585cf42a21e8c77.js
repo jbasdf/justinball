@@ -1,2 +1,2 @@
-webpackJsonp([0xadead9cd5f4e],{2328:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Quick Note About rFacebook, Edge Rails, and Sessions.",path:"/quick-note-about-rfacebook-edge-rails-and-sessions"}}}]}},pathContext:{tag:"acts_as_facebook_user"}}}});
+webpackJsonp([0xadead9cd5f4e],{2335:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Quick Note About rFacebook, Edge Rails, and Sessions.",path:"/quick-note-about-rfacebook-edge-rails-and-sessions"}}}]}},pathContext:{tag:"acts_as_facebook_user"}}}});
 //# sourceMappingURL=path---tags-acts-as-facebook-user-ab896585cf42a21e8c77.js.map

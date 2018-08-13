@@ -1,2 +1,2 @@
-webpackJsonp([1182825638868],{2433:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Have 51weeks feedback?",path:"/have-51weeks-feedback"}}}]}},pathContext:{tag:"conference software"}}}});
+webpackJsonp([1182825638868],{2440:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Have 51weeks feedback?",path:"/have-51weeks-feedback"}}}]}},pathContext:{tag:"conference software"}}}});
 //# sourceMappingURL=path---tags-conference-software-253d93847fa50237c65a.js.map

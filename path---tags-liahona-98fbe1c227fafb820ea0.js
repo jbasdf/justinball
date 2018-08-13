@@ -1,2 +1,2 @@
-webpackJsonp([0x75b31c9f2fb2],{2669:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The Liahona Makes Wired",path:"/the-liahona-makes-wired"}}}]}},pathContext:{tag:"Liahona"}}}});
+webpackJsonp([0x75b31c9f2fb2],{2676:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The Liahona Makes Wired",path:"/the-liahona-makes-wired"}}}]}},pathContext:{tag:"Liahona"}}}});
 //# sourceMappingURL=path---tags-liahona-98fbe1c227fafb820ea0.js.map

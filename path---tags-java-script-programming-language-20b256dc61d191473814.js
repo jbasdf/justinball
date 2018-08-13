@@ -1,2 +1,2 @@
-webpackJsonp([87816141441939],{2641:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"React Media Player",path:"/react-media-player"}}}]}},pathContext:{tag:"JavaScript (Programming Language)"}}}});
+webpackJsonp([87816141441939],{2648:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"React Media Player",path:"/react-media-player"}}}]}},pathContext:{tag:"JavaScript (Programming Language)"}}}});
 //# sourceMappingURL=path---tags-java-script-programming-language-20b256dc61d191473814.js.map

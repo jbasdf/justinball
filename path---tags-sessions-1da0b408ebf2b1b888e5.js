@@ -1,2 +1,2 @@
-webpackJsonp([0xe95bbf6b325e],{2888:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"secret given to the #protect_from_forgery call",path:"/secret-given-to-the-protect_from_forgery-call"}}}]}},pathContext:{tag:"sessions"}}}});
+webpackJsonp([0xe95bbf6b325e],{2895:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"secret given to the #protect_from_forgery call",path:"/secret-given-to-the-protect_from_forgery-call"}}}]}},pathContext:{tag:"sessions"}}}});
 //# sourceMappingURL=path---tags-sessions-1da0b408ebf2b1b888e5.js.map

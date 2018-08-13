@@ -1,2 +1,2 @@
-webpackJsonp([0x5ea6dfb5afbd],{2806:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Professionals and The Enterprise",path:"/professionals-and-the-enterprise"}}}]}},pathContext:{tag:"professional"}}}});
+webpackJsonp([0x5ea6dfb5afbd],{2813:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Professionals and The Enterprise",path:"/professionals-and-the-enterprise"}}}]}},pathContext:{tag:"professional"}}}});
 //# sourceMappingURL=path---tags-professional-13be9a107d258fe34f21.js.map

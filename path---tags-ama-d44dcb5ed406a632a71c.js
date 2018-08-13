@@ -1,2 +1,2 @@
-webpackJsonp([0xa9507e1d8a2f],{2337:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The Uninsured",path:"/the-uninsured"}}}]}},pathContext:{tag:"ama"}}}});
+webpackJsonp([0xa9507e1d8a2f],{2344:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The Uninsured",path:"/the-uninsured"}}}]}},pathContext:{tag:"ama"}}}});
 //# sourceMappingURL=path---tags-ama-d44dcb5ed406a632a71c.js.map

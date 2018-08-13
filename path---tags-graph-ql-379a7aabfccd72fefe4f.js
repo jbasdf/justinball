@@ -1,2 +1,2 @@
-webpackJsonp([0x775a3f7cc751],{2582:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"GraphQL Apollo",path:"/Graph-Ql-Apollo"}}}]}},pathContext:{tag:"graph ql"}}}});
+webpackJsonp([0x775a3f7cc751],{2589:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"GraphQL Apollo",path:"/Graph-Ql-Apollo"}}}]}},pathContext:{tag:"graph ql"}}}});
 //# sourceMappingURL=path---tags-graph-ql-379a7aabfccd72fefe4f.js.map

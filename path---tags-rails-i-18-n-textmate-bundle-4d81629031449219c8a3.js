@@ -1,2 +1,2 @@
-webpackJsonp([0x7a314a71087d],{2824:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Ruby on Rails i18n with the Rails I18n Textmate bundle",path:"/ruby-on-rails-i18n-with-the-rails-i18n-textmate-bundle"}}}]}},pathContext:{tag:"Rails I18n Textmate bundle"}}}});
+webpackJsonp([0x7a314a71087d],{2831:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Ruby on Rails i18n with the Rails I18n Textmate bundle",path:"/ruby-on-rails-i18n-with-the-rails-i18n-textmate-bundle"}}}]}},pathContext:{tag:"Rails I18n Textmate bundle"}}}});
 //# sourceMappingURL=path---tags-rails-i-18-n-textmate-bundle-4d81629031449219c8a3.js.map

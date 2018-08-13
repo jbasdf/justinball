@@ -1,2 +1,2 @@
-webpackJsonp([0xc9377c31b3d1],{2677:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Babelphish &#8211; yml Translation Made Simple",path:"/babelphish-yml-translation-made-simple"}}}]}},pathContext:{tag:"localization"}}}});
+webpackJsonp([0xc9377c31b3d1],{2684:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Babelphish &#8211; yml Translation Made Simple",path:"/babelphish-yml-translation-made-simple"}}}]}},pathContext:{tag:"localization"}}}});
 //# sourceMappingURL=path---tags-localization-037525772fdbce6e0bc4.js.map

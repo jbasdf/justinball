@@ -1,2 +1,2 @@
-webpackJsonp([27596593807552],{2843:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Relay or Apollo",path:"/relay-or-apollo"}}}]}},pathContext:{tag:"relay"}}}});
+webpackJsonp([27596593807552],{2850:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Relay or Apollo",path:"/relay-or-apollo"}}}]}},pathContext:{tag:"relay"}}}});
 //# sourceMappingURL=path---tags-relay-94a096398effd60d002d.js.map

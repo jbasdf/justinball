@@ -1,2 +1,2 @@
-webpackJsonp([0xa0eb746b9ab7],{2828:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Ways to Not Make Use of Your Health Insurance &#8211; Cyclist vs. Rattlesnake",path:"/ways-to-not-make-use-of-your-health-insurance-cyclist-vs-rattlesnake"}}}]}},pathContext:{tag:"rattle snake"}}}});
+webpackJsonp([0xa0eb746b9ab7],{2835:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Ways to Not Make Use of Your Health Insurance &#8211; Cyclist vs. Rattlesnake",path:"/ways-to-not-make-use-of-your-health-insurance-cyclist-vs-rattlesnake"}}}]}},pathContext:{tag:"rattle snake"}}}});
 //# sourceMappingURL=path---tags-rattle-snake-885e5d7586cfe9275a83.js.map

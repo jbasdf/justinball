@@ -1,2 +1,2 @@
-webpackJsonp([0x748b021c360f],{2785:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"WordPress on Mac OSX 10.6",path:"/wordpress-on-mac-os"}}}]}},pathContext:{tag:"php"}}}});
+webpackJsonp([0x748b021c360f],{2792:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"WordPress on Mac OSX 10.6",path:"/wordpress-on-mac-os"}}}]}},pathContext:{tag:"php"}}}});
 //# sourceMappingURL=path---tags-php-07c8267b7b921bb25e00.js.map

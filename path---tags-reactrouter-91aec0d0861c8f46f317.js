@@ -1,2 +1,2 @@
-webpackJsonp([0xe4f2d7b027a5],{2835:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"React Router 4",path:"/react-router-4"}}}]}},pathContext:{tag:"reactrouter"}}}});
+webpackJsonp([0xe4f2d7b027a5],{2842:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"React Router 4",path:"/react-router-4"}}}]}},pathContext:{tag:"reactrouter"}}}});
 //# sourceMappingURL=path---tags-reactrouter-91aec0d0861c8f46f317.js.map

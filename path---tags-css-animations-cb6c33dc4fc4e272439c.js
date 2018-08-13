@@ -1,2 +1,2 @@
-webpackJsonp([35322663289472],{2448:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"CSS Animations Crash Course.",path:"/css-animations"}}}]}},pathContext:{tag:"css animations"}}}});
+webpackJsonp([35322663289472],{2455:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"CSS Animations Crash Course.",path:"/css-animations"}}}]}},pathContext:{tag:"css animations"}}}});
 //# sourceMappingURL=path---tags-css-animations-cb6c33dc4fc4e272439c.js.map

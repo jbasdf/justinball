@@ -1,2 +1,2 @@
-webpackJsonp([33807819926442],{2468:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Connected Communities",path:"/connected-communities"}}}]}},pathContext:{tag:"digg"}}}});
+webpackJsonp([33807819926442],{2475:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Connected Communities",path:"/connected-communities"}}}]}},pathContext:{tag:"digg"}}}});
 //# sourceMappingURL=path---tags-digg-7dd61d76ab0a2d09817a.js.map

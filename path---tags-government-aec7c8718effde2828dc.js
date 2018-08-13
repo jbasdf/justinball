@@ -1,2 +1,2 @@
-webpackJsonp([0x96c1269ba202],{2578:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Walmart is Not so Evil",path:"/walmart-is-not-so-evil"}}},{node:{frontmatter:{title:"Government 2.0",path:"/government-20"}}}]}},pathContext:{tag:"government"}}}});
+webpackJsonp([0x96c1269ba202],{2585:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Walmart is Not so Evil",path:"/walmart-is-not-so-evil"}}},{node:{frontmatter:{title:"Government 2.0",path:"/government-20"}}}]}},pathContext:{tag:"government"}}}});
 //# sourceMappingURL=path---tags-government-aec7c8718effde2828dc.js.map

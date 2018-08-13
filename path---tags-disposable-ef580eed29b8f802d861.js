@@ -1,2 +1,2 @@
-webpackJsonp([34837887692980],{2476:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Disposable Communities",path:"/disposable-communities"}}}]}},pathContext:{tag:"disposable"}}}});
+webpackJsonp([34837887692980],{2483:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Disposable Communities",path:"/disposable-communities"}}}]}},pathContext:{tag:"disposable"}}}});
 //# sourceMappingURL=path---tags-disposable-ef580eed29b8f802d861.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0xb05d25c0f4ab],{2954:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"First Time on the new Santa Cruz Blur XC, and Near Death Experiences",path:"/first-time-on-the-new-santa-cruz-blur-xc-and-near-death-experiences"}}}]}},pathContext:{tag:"trails"}}}});
+webpackJsonp([0xb05d25c0f4ab],{2961:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"First Time on the new Santa Cruz Blur XC, and Near Death Experiences",path:"/first-time-on-the-new-santa-cruz-blur-xc-and-near-death-experiences"}}}]}},pathContext:{tag:"trails"}}}});
 //# sourceMappingURL=path---tags-trails-1fb2d4b4f9789e6c746d.js.map

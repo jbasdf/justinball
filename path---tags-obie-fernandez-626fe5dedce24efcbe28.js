@@ -1,2 +1,2 @@
-webpackJsonp([0xbbdbc2bf114e],{2753:function(a,n){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Big Companies Using Ruby on Rails",path:"/big-companies-using-ruby-on-rails"}}}]}},pathContext:{tag:"Obie Fernandez"}}}});
+webpackJsonp([0xbbdbc2bf114e],{2760:function(a,n){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Big Companies Using Ruby on Rails",path:"/big-companies-using-ruby-on-rails"}}}]}},pathContext:{tag:"Obie Fernandez"}}}});
 //# sourceMappingURL=path---tags-obie-fernandez-626fe5dedce24efcbe28.js.map

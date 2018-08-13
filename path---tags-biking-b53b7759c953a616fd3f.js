@@ -1,2 +1,2 @@
-webpackJsonp([47068359481709],{2375:function(t,n){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Providence Canyon Fat Biking",path:"/providence-canyon-fat-biking"}}}]}},pathContext:{tag:"biking"}}}});
+webpackJsonp([47068359481709],{2382:function(t,n){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Providence Canyon Fat Biking",path:"/providence-canyon-fat-biking"}}}]}},pathContext:{tag:"biking"}}}});
 //# sourceMappingURL=path---tags-biking-b53b7759c953a616fd3f.js.map

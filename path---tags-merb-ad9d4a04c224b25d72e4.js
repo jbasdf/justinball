@@ -1,2 +1,2 @@
-webpackJsonp([0xa98a54c848e],{2704:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Mountain West Ruby Conference",path:"/mountain-west-ruby-conference"}}}]}},pathContext:{tag:"merb"}}}});
+webpackJsonp([0xa98a54c848e],{2711:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Mountain West Ruby Conference",path:"/mountain-west-ruby-conference"}}}]}},pathContext:{tag:"merb"}}}});
 //# sourceMappingURL=path---tags-merb-ad9d4a04c224b25d72e4.js.map

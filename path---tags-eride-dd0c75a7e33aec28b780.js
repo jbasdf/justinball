@@ -1,2 +1,2 @@
-webpackJsonp([0x7527d3c07036],{2509:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Cervelo eRide Came to Logan",path:"/cervelo-eride-came-to-logan"}}}]}},pathContext:{tag:"eride"}}}});
+webpackJsonp([0x7527d3c07036],{2516:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Cervelo eRide Came to Logan",path:"/cervelo-eride-came-to-logan"}}}]}},pathContext:{tag:"eride"}}}});
 //# sourceMappingURL=path---tags-eride-dd0c75a7e33aec28b780.js.map

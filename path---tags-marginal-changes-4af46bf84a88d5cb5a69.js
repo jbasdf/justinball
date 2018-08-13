@@ -1,2 +1,2 @@
-webpackJsonp([0x9023bff8d574],{2697:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Marginal Improvements Make People Happy",path:"/marginal-improvements-make-people-happy"}}}]}},pathContext:{tag:"marginal changes"}}}});
+webpackJsonp([0x9023bff8d574],{2704:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Marginal Improvements Make People Happy",path:"/marginal-improvements-make-people-happy"}}}]}},pathContext:{tag:"marginal changes"}}}});
 //# sourceMappingURL=path---tags-marginal-changes-4af46bf84a88d5cb5a69.js.map

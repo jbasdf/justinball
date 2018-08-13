@@ -1,2 +1,2 @@
-webpackJsonp([0xc8e070979e2e],{2836:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Visited the Tetons",path:"/visited-the-tetons"}}}]}},pathContext:{tag:"realestate"}}}});
+webpackJsonp([0xc8e070979e2e],{2843:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Visited the Tetons",path:"/visited-the-tetons"}}}]}},pathContext:{tag:"realestate"}}}});
 //# sourceMappingURL=path---tags-realestate-e22fcafbbfa74ac06371.js.map

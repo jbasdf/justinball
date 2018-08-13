@@ -1,2 +1,2 @@
-webpackJsonp([44217810673707],{3013:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Farewell COSL",path:"/farewell-cosl"}}},{node:{frontmatter:{title:"Time Off",path:"/time-off"}}}]}},pathContext:{tag:"work"}}}});
+webpackJsonp([44217810673707],{3020:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Farewell COSL",path:"/farewell-cosl"}}},{node:{frontmatter:{title:"Time Off",path:"/time-off"}}}]}},pathContext:{tag:"work"}}}});
 //# sourceMappingURL=path---tags-work-88033f4fbe52dda275ce.js.map

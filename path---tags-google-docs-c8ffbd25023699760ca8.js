@@ -1,2 +1,2 @@
-webpackJsonp([0xdd173081de62],{2574:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Open Any Document in Google Docs Via a Url",path:"/open-any-document-in-google-docs-via-a-url"}}}]}},pathContext:{tag:"google docs"}}}});
+webpackJsonp([0xdd173081de62],{2581:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Open Any Document in Google Docs Via a Url",path:"/open-any-document-in-google-docs-via-a-url"}}}]}},pathContext:{tag:"google docs"}}}});
 //# sourceMappingURL=path---tags-google-docs-c8ffbd25023699760ca8.js.map

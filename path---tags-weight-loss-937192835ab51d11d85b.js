@@ -1,2 +1,2 @@
-webpackJsonp([0xb8fa6884918],{3003:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Want to lose weight?",path:"/want-to-lose-weight"}}}]}},pathContext:{tag:"weight loss"}}}});
+webpackJsonp([0xb8fa6884918],{3010:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Want to lose weight?",path:"/want-to-lose-weight"}}}]}},pathContext:{tag:"weight loss"}}}});
 //# sourceMappingURL=path---tags-weight-loss-937192835ab51d11d85b.js.map

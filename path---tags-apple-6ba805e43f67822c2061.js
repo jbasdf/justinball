@@ -1,2 +1,2 @@
-webpackJsonp([0xd1b0736ec662],{2352:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Thanks Expercom",path:"/thanks-expercom"}}},{node:{frontmatter:{title:"New Apple Laptops &#8211; I&#8217;m so Excited",path:"/new-apple-laptops-im-so-excited"}}}]}},pathContext:{tag:"apple"}}}});
+webpackJsonp([0xd1b0736ec662],{2359:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Thanks Expercom",path:"/thanks-expercom"}}},{node:{frontmatter:{title:"New Apple Laptops &#8211; I&#8217;m so Excited",path:"/new-apple-laptops-im-so-excited"}}}]}},pathContext:{tag:"apple"}}}});
 //# sourceMappingURL=path---tags-apple-6ba805e43f67822c2061.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0x9db99a50e63f],{2993:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"Snow and Rain",path:"/snow-and-rain"}}},{node:{frontmatter:{title:"Weather Control",path:"/weather-control"}}},{node:{frontmatter:{title:"who knew?",path:"/who-knew"}}}]}},pathContext:{tag:"weather"}}}});
+webpackJsonp([0x9db99a50e63f],{3e3:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"Snow and Rain",path:"/snow-and-rain"}}},{node:{frontmatter:{title:"Weather Control",path:"/weather-control"}}},{node:{frontmatter:{title:"who knew?",path:"/who-knew"}}}]}},pathContext:{tag:"weather"}}}});
 //# sourceMappingURL=path---tags-weather-2b98855ba4108620658d.js.map

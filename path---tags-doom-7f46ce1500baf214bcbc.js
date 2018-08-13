@@ -1,2 +1,2 @@
-webpackJsonp([0x8883bd6a2f2b],{2481:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Flickr as Web 2.0, bla, The Soviets were like Nuke 2.0 way back in the 70s",path:"/flickr-as-web-20-bla-the-soviets-were-like-nuke-20-way-back-in-the-70s"}}}]}},pathContext:{tag:"doom"}}}});
+webpackJsonp([0x8883bd6a2f2b],{2488:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Flickr as Web 2.0, bla, The Soviets were like Nuke 2.0 way back in the 70s",path:"/flickr-as-web-20-bla-the-soviets-were-like-nuke-20-way-back-in-the-70s"}}}]}},pathContext:{tag:"doom"}}}});
 //# sourceMappingURL=path---tags-doom-7f46ce1500baf214bcbc.js.map

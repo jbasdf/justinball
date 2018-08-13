@@ -1,2 +1,2 @@
-webpackJsonp([0x5b0ff65e0583],{2479:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Godaddy EPP Code",path:"/godaddy-epp-code"}}}]}},pathContext:{tag:"domain name"}}}});
+webpackJsonp([0x5b0ff65e0583],{2486:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Godaddy EPP Code",path:"/godaddy-epp-code"}}}]}},pathContext:{tag:"domain name"}}}});
 //# sourceMappingURL=path---tags-domain-name-d04d3d8eb67697e6e807.js.map

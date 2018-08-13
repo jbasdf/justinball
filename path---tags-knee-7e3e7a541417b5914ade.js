@@ -1,2 +1,2 @@
-webpackJsonp([0x8b1bf6e424c5],{2652:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Snakeversary",path:"/snakeversary"}}}]}},pathContext:{tag:"knee"}}}});
+webpackJsonp([0x8b1bf6e424c5],{2659:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Snakeversary",path:"/snakeversary"}}}]}},pathContext:{tag:"knee"}}}});
 //# sourceMappingURL=path---tags-knee-7e3e7a541417b5914ade.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([29485652503346],{2555:function(e,a){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"GearSnyper &#8211; Be As Broke As Me",path:"/gearsnyper-be-as-broke-as-me"}}}]}},pathContext:{tag:"gearsynper"}}}});
+webpackJsonp([29485652503346],{2562:function(e,a){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"GearSnyper &#8211; Be As Broke As Me",path:"/gearsnyper-be-as-broke-as-me"}}}]}},pathContext:{tag:"gearsynper"}}}});
 //# sourceMappingURL=path---tags-gearsynper-8e82d26efb6204b28c58.js.map

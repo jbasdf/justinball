@@ -1,2 +1,2 @@
-webpackJsonp([0x9793b76b6020],{2699:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Lifetime Marriage",path:"/lifetime-marriage"}}},{node:{frontmatter:{title:"Weddings So Totally Suck",path:"/weddings-so-totally-suck"}}}]}},pathContext:{tag:"marriage"}}}});
+webpackJsonp([0x9793b76b6020],{2706:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Lifetime Marriage",path:"/lifetime-marriage"}}},{node:{frontmatter:{title:"Weddings So Totally Suck",path:"/weddings-so-totally-suck"}}}]}},pathContext:{tag:"marriage"}}}});
 //# sourceMappingURL=path---tags-marriage-77c3a11d4ed60371bfc6.js.map

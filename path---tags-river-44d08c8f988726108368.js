@@ -1,2 +1,2 @@
-webpackJsonp([0xee6a62b97961],{2857:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"River &#8211; Amazon Wishlist Gem",path:"/river-amazon-wishlist-gem"}}}]}},pathContext:{tag:"river"}}}});
+webpackJsonp([0xee6a62b97961],{2864:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"River &#8211; Amazon Wishlist Gem",path:"/river-amazon-wishlist-gem"}}}]}},pathContext:{tag:"river"}}}});
 //# sourceMappingURL=path---tags-river-44d08c8f988726108368.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([49146601383226],{2796:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Blackmarket Bread",path:"/blackmarket-bread"}}},{node:{frontmatter:{title:"Utah Flat Tax",path:"/utah-flat-tax"}}}]}},pathContext:{tag:"Political"}}}});
+webpackJsonp([49146601383226],{2803:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Blackmarket Bread",path:"/blackmarket-bread"}}},{node:{frontmatter:{title:"Utah Flat Tax",path:"/utah-flat-tax"}}}]}},pathContext:{tag:"Political"}}}});
 //# sourceMappingURL=path---tags-political-3b776b9cbe3d891ae652.js.map

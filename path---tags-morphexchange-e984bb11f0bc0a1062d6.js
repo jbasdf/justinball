@@ -1,2 +1,2 @@
-webpackJsonp([0x759c2fd51153],{2717:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"A Few More Thoughts On Morph Exchange",path:"/a-few-more-thoughts-on-morph-exchange"}}}]}},pathContext:{tag:"morphexchange"}}}});
+webpackJsonp([0x759c2fd51153],{2724:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"A Few More Thoughts On Morph Exchange",path:"/a-few-more-thoughts-on-morph-exchange"}}}]}},pathContext:{tag:"morphexchange"}}}});
 //# sourceMappingURL=path---tags-morphexchange-e984bb11f0bc0a1062d6.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0xfa8c921efe6d],{2691:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"New Apple Laptops &#8211; I&#8217;m so Excited",path:"/new-apple-laptops-im-so-excited"}}}]}},pathContext:{tag:"macbook"}}}});
+webpackJsonp([0xfa8c921efe6d],{2698:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"New Apple Laptops &#8211; I&#8217;m so Excited",path:"/new-apple-laptops-im-so-excited"}}}]}},pathContext:{tag:"macbook"}}}});
 //# sourceMappingURL=path---tags-macbook-7f65f01a136041bbeed2.js.map

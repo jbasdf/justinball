@@ -1,2 +1,2 @@
-webpackJsonp([86619904788319],{2874:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"More on my bike dilema",path:"/more-on-my-bike-dilema"}}}]}},pathContext:{tag:"santa cruz"}}}});
+webpackJsonp([86619904788319],{2881:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"More on my bike dilema",path:"/more-on-my-bike-dilema"}}}]}},pathContext:{tag:"santa cruz"}}}});
 //# sourceMappingURL=path---tags-santa-cruz-38ed491048cce7a672f5.js.map

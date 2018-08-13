@@ -1,2 +1,2 @@
-webpackJsonp([79243801624854],{2935:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"More Ruby Conference",path:"/more-ruby-conference"}}}]}},pathContext:{tag:"test-spec"}}}});
+webpackJsonp([79243801624854],{2942:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"More Ruby Conference",path:"/more-ruby-conference"}}}]}},pathContext:{tag:"test-spec"}}}});
 //# sourceMappingURL=path---tags-test-spec-9a5212e2857a2b34985e.js.map

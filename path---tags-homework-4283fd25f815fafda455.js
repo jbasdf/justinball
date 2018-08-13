@@ -1,2 +1,2 @@
-webpackJsonp([34429266284293],{2610:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"What Makes You Yawn?",path:"/what-makes-you-yawn"}}}]}},pathContext:{tag:"homework"}}}});
+webpackJsonp([34429266284293],{2617:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"What Makes You Yawn?",path:"/what-makes-you-yawn"}}}]}},pathContext:{tag:"homework"}}}});
 //# sourceMappingURL=path---tags-homework-4283fd25f815fafda455.js.map

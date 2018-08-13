@@ -1,2 +1,2 @@
-webpackJsonp([18602945967728],{3004:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"A Life Of Service",path:"/a-life-of-service"}}}]}},pathContext:{tag:"Wesley Connell"}}}});
+webpackJsonp([18602945967728],{3011:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"A Life Of Service",path:"/a-life-of-service"}}}]}},pathContext:{tag:"Wesley Connell"}}}});
 //# sourceMappingURL=path---tags-wesley-connell-c12c3dfa8a5201175677.js.map

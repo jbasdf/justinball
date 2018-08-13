@@ -1,2 +1,2 @@
-webpackJsonp([0xa12c5be7dc34],{2727:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Mozy.com&#8217;s Backup Software is Shit",path:"/mozycom-and-their-backup-software-is-shit"}}}]}},pathContext:{tag:"mozy"}}}});
+webpackJsonp([0xa12c5be7dc34],{2734:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Mozy.com&#8217;s Backup Software is Shit",path:"/mozycom-and-their-backup-software-is-shit"}}}]}},pathContext:{tag:"mozy"}}}});
 //# sourceMappingURL=path---tags-mozy-f03dc70dffcee95c24af.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0xce1bfd369347],{2470:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"How to manage 60,000 digital photos",path:"/how-to-manage-60000-digital-photos"}}}]}},pathContext:{tag:"digital-photography"}}}});
+webpackJsonp([0xce1bfd369347],{2477:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"How to manage 60,000 digital photos",path:"/how-to-manage-60000-digital-photos"}}}]}},pathContext:{tag:"digital-photography"}}}});
 //# sourceMappingURL=path---tags-digital-photography-f65df4512451b2bf3e10.js.map

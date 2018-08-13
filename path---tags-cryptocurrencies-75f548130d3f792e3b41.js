@@ -1,2 +1,2 @@
-webpackJsonp([29428341502339],{2446:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"cryptocurrencies",path:"/crypto-ethereum"}}}]}},pathContext:{tag:"cryptocurrencies"}}}});
+webpackJsonp([29428341502339],{2453:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"cryptocurrencies",path:"/crypto-ethereum"}}}]}},pathContext:{tag:"cryptocurrencies"}}}});
 //# sourceMappingURL=path---tags-cryptocurrencies-75f548130d3f792e3b41.js.map

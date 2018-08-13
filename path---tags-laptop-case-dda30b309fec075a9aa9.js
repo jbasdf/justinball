@@ -1,2 +1,2 @@
-webpackJsonp([95495110756837],{2656:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"STM Bags Suck?",path:"/stm-bags-suck"}}}]}},pathContext:{tag:"laptop case"}}}});
+webpackJsonp([95495110756837],{2663:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"STM Bags Suck?",path:"/stm-bags-suck"}}}]}},pathContext:{tag:"laptop case"}}}});
 //# sourceMappingURL=path---tags-laptop-case-dda30b309fec075a9aa9.js.map

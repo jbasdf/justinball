@@ -1,2 +1,2 @@
-webpackJsonp([0xa9aec0229063],{2422:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"OER Code Sprint",path:"/oer-code-sprint"}}}]}},pathContext:{tag:"code sprint"}}}});
+webpackJsonp([0xa9aec0229063],{2429:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"OER Code Sprint",path:"/oer-code-sprint"}}}]}},pathContext:{tag:"code sprint"}}}});
 //# sourceMappingURL=path---tags-code-sprint-47161aaeb952c3686ee3.js.map

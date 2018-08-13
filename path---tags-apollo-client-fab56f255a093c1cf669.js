@@ -1,2 +1,2 @@
-webpackJsonp([26956652251803],{2348:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Random GraphQL",path:"/random-graphql"}}}]}},pathContext:{tag:"apollo client"}}}});
+webpackJsonp([26956652251803],{2355:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Random GraphQL",path:"/random-graphql"}}}]}},pathContext:{tag:"apollo client"}}}});
 //# sourceMappingURL=path---tags-apollo-client-fab56f255a093c1cf669.js.map

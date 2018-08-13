@@ -1,2 +1,2 @@
-webpackJsonp([82596098970665],{2971:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"New Shimano Ultegra",path:"/new-shimano-ultegra"}}}]}},pathContext:{tag:"Ultegra"}}}});
+webpackJsonp([82596098970665],{2978:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"New Shimano Ultegra",path:"/new-shimano-ultegra"}}}]}},pathContext:{tag:"Ultegra"}}}});
 //# sourceMappingURL=path---tags-ultegra-332f1ebaa6c4bfd99edc.js.map

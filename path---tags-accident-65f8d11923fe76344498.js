@@ -1,2 +1,2 @@
-webpackJsonp([0x5d84bd9922b8],{2322:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Why Cyclists Shave Their Legs.  The Most Disgusting Post I Will Ever Make",path:"/why-cyclists-shave-their-legs-the-most-disgusting-post-i-will-ever-make"}}}]}},pathContext:{tag:"accident"}}}});
+webpackJsonp([0x5d84bd9922b8],{2329:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Why Cyclists Shave Their Legs.  The Most Disgusting Post I Will Ever Make",path:"/why-cyclists-shave-their-legs-the-most-disgusting-post-i-will-ever-make"}}}]}},pathContext:{tag:"accident"}}}});
 //# sourceMappingURL=path---tags-accident-65f8d11923fe76344498.js.map

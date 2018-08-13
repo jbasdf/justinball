@@ -1,2 +1,2 @@
-webpackJsonp([0x62d190f32bb1],{2473:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The COSL Guys are Disgusting",path:"/the-cosl-guys-are-disgusting"}}}]}},pathContext:{tag:"disgusting"}}}});
+webpackJsonp([0x62d190f32bb1],{2480:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The COSL Guys are Disgusting",path:"/the-cosl-guys-are-disgusting"}}}]}},pathContext:{tag:"disgusting"}}}});
 //# sourceMappingURL=path---tags-disgusting-bdf76f1976beeb44e4b4.js.map

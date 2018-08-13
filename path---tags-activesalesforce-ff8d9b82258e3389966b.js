@@ -1,2 +1,2 @@
-webpackJsonp([0xa2a8e8f23724],{2327:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"ActiveSalesforce and Ruby on Rails > 2.1",path:"/activesalesforce-and-ruby-on-rails-21"}}}]}},pathContext:{tag:"activesalesforce"}}}});
+webpackJsonp([0xa2a8e8f23724],{2334:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"ActiveSalesforce and Ruby on Rails > 2.1",path:"/activesalesforce-and-ruby-on-rails-21"}}}]}},pathContext:{tag:"activesalesforce"}}}});
 //# sourceMappingURL=path---tags-activesalesforce-ff8d9b82258e3389966b.js.map

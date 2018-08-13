@@ -1,2 +1,2 @@
-webpackJsonp([0x8d02567dd8b2],{2707:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Microcontent Sells",path:"/microcontent-sells"}}}]}},pathContext:{tag:"microcontent"}}}});
+webpackJsonp([0x8d02567dd8b2],{2714:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Microcontent Sells",path:"/microcontent-sells"}}}]}},pathContext:{tag:"microcontent"}}}});
 //# sourceMappingURL=path---tags-microcontent-8f34abcdf0b179eb89e5.js.map

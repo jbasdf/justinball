@@ -1,2 +1,2 @@
-webpackJsonp([0xdc3ee65548ca],{2444:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Create Custom Image Uploader Word Press",path:"/Create-Custom-Image-Uploader-Word-Press"}}}]}},pathContext:{tag:"create"}}}});
+webpackJsonp([0xdc3ee65548ca],{2451:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Create Custom Image Uploader Word Press",path:"/Create-Custom-Image-Uploader-Word-Press"}}}]}},pathContext:{tag:"create"}}}});
 //# sourceMappingURL=path---tags-create-ee3c3840a1ea041d3092.js.map

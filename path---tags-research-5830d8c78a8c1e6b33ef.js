@@ -1,2 +1,2 @@
-webpackJsonp([0x7619bbc30440],{2849:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"None Of Us Is As Dumb As All Of Us",path:"/none-of-us-is-as-dumb-as-all-of-us"}}}]}},pathContext:{tag:"research"}}}});
+webpackJsonp([0x7619bbc30440],{2856:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"None Of Us Is As Dumb As All Of Us",path:"/none-of-us-is-as-dumb-as-all-of-us"}}}]}},pathContext:{tag:"research"}}}});
 //# sourceMappingURL=path---tags-research-5830d8c78a8c1e6b33ef.js.map

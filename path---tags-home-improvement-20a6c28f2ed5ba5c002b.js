@@ -1,2 +1,2 @@
-webpackJsonp([0x8d4e726e2ef1],{2607:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"This shouldn&#8217;t be so @#!&amp;amp;! hard",path:"/this-shouldnt-be-so-amp-hard"}}}]}},pathContext:{tag:"home improvement"}}}});
+webpackJsonp([0x8d4e726e2ef1],{2614:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"This shouldn&#8217;t be so @#!&amp;amp;! hard",path:"/this-shouldnt-be-so-amp-hard"}}}]}},pathContext:{tag:"home improvement"}}}});
 //# sourceMappingURL=path---tags-home-improvement-20a6c28f2ed5ba5c002b.js.map

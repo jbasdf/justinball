@@ -1,2 +1,2 @@
-webpackJsonp([45175947081382],{2460:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Maybe I Should be a Computer Tech",path:"/maybe-i-should-be-a-computer-tech"}}}]}},pathContext:{tag:"dell dimension 8400"}}}});
+webpackJsonp([45175947081382],{2467:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Maybe I Should be a Computer Tech",path:"/maybe-i-should-be-a-computer-tech"}}}]}},pathContext:{tag:"dell dimension 8400"}}}});
 //# sourceMappingURL=path---tags-dell-dimension-8400-8f459d9497abf44ddab7.js.map

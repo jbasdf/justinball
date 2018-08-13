@@ -1,2 +1,2 @@
-webpackJsonp([21035409268199],{2829:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Snakeversary",path:"/snakeversary"}}},{node:{frontmatter:{title:"Cycling Reduces Your Risk of Cancer",path:"/cycling-reduces-your-risk-of-cancer"}}}]}},pathContext:{tag:"rattlesnake"}}}});
+webpackJsonp([21035409268199],{2836:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Snakeversary",path:"/snakeversary"}}},{node:{frontmatter:{title:"Cycling Reduces Your Risk of Cancer",path:"/cycling-reduces-your-risk-of-cancer"}}}]}},pathContext:{tag:"rattlesnake"}}}});
 //# sourceMappingURL=path---tags-rattlesnake-fc0acbd519dddc29a1c8.js.map

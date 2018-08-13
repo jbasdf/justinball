@@ -1,2 +1,2 @@
-webpackJsonp([0xde00ae8f04a8],{2743:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Weather in Logan Not Conducive to New Bike",path:"/weather-in-logan-not-conducive-to-new-bike"}}}]}},pathContext:{tag:"new bike"}}}});
+webpackJsonp([0xde00ae8f04a8],{2750:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Weather in Logan Not Conducive to New Bike",path:"/weather-in-logan-not-conducive-to-new-bike"}}}]}},pathContext:{tag:"new bike"}}}});
 //# sourceMappingURL=path---tags-new-bike-0e982335741ade458e6a.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([71161414282024],{2841:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"rFacebook and redirect_to",path:"/rfacebook-and-redirect_to"}}}]}},pathContext:{tag:"redirect_to"}}}});
+webpackJsonp([71161414282024],{2848:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"rFacebook and redirect_to",path:"/rfacebook-and-redirect_to"}}}]}},pathContext:{tag:"redirect_to"}}}});
 //# sourceMappingURL=path---tags-redirect-to-da74189ae78e34422355.js.map

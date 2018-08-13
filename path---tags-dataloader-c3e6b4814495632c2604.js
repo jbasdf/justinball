@@ -1,2 +1,2 @@
-webpackJsonp([0x62cf7580d7b6],{2454:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"GraphQL DataLoader",path:"/graphql-dataloader"}}}]}},pathContext:{tag:"dataloader"}}}});
+webpackJsonp([0x62cf7580d7b6],{2461:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"GraphQL DataLoader",path:"/graphql-dataloader"}}}]}},pathContext:{tag:"dataloader"}}}});
 //# sourceMappingURL=path---tags-dataloader-c3e6b4814495632c2604.js.map

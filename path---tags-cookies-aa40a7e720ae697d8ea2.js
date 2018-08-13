@@ -1,2 +1,2 @@
-webpackJsonp([0xf42e4a3f3846],{2437:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"My Junkfood Goeth Quietly Into the Night",path:"/my-junkfood-goeth-quietly-into-the-night"}}}]}},pathContext:{tag:"cookies"}}}});
+webpackJsonp([0xf42e4a3f3846],{2444:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"My Junkfood Goeth Quietly Into the Night",path:"/my-junkfood-goeth-quietly-into-the-night"}}}]}},pathContext:{tag:"cookies"}}}});
 //# sourceMappingURL=path---tags-cookies-aa40a7e720ae697d8ea2.js.map

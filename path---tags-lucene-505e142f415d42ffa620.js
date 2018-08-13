@@ -1,2 +1,2 @@
-webpackJsonp([0xade6a202c05e],{2684:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Add Website Search Using ASP.Net and Lucene",path:"/add-website-search-using-aspnet-and-lucene"}}}]}},pathContext:{tag:"lucene"}}}});
+webpackJsonp([0xade6a202c05e],{2691:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Add Website Search Using ASP.Net and Lucene",path:"/add-website-search-using-aspnet-and-lucene"}}}]}},pathContext:{tag:"lucene"}}}});
 //# sourceMappingURL=path---tags-lucene-505e142f415d42ffa620.js.map

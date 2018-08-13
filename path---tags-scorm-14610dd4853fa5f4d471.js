@@ -1,2 +1,2 @@
-webpackJsonp([0xb4b6b9a69b16],{2879:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"This shouldn&#8217;t be so @#!&amp;amp;! hard",path:"/this-shouldnt-be-so-amp-hard"}}}]}},pathContext:{tag:"scorm"}}}});
+webpackJsonp([0xb4b6b9a69b16],{2886:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"This shouldn&#8217;t be so @#!&amp;amp;! hard",path:"/this-shouldnt-be-so-amp-hard"}}}]}},pathContext:{tag:"scorm"}}}});
 //# sourceMappingURL=path---tags-scorm-14610dd4853fa5f4d471.js.map

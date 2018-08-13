@@ -1,2 +1,2 @@
-webpackJsonp([0xf644259da06d],{2621:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"who knew?",path:"/who-knew"}}}]}},pathContext:{tag:"idaho"}}}});
+webpackJsonp([0xf644259da06d],{2628:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"who knew?",path:"/who-knew"}}}]}},pathContext:{tag:"idaho"}}}});
 //# sourceMappingURL=path---tags-idaho-08066e57b853540ac2b6.js.map

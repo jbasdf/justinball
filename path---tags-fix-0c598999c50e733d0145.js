@@ -1,2 +1,2 @@
-webpackJsonp([27563437329727],{2533:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"No I Won&#8217;t Fix Your @!#$!@#$ Computer",path:"/no-i-wont-fix-your-computer"}}}]}},pathContext:{tag:"fix"}}}});
+webpackJsonp([27563437329727],{2540:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"No I Won&#8217;t Fix Your @!#$!@#$ Computer",path:"/no-i-wont-fix-your-computer"}}}]}},pathContext:{tag:"fix"}}}});
 //# sourceMappingURL=path---tags-fix-0c598999c50e733d0145.js.map

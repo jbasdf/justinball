@@ -1,2 +1,2 @@
-webpackJsonp([0x5f8762587ab6],{2771:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Outsourcing My Religion",path:"/outsourcing-my-religion"}}}]}},pathContext:{tag:"outsourcing"}}}});
+webpackJsonp([0x5f8762587ab6],{2778:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Outsourcing My Religion",path:"/outsourcing-my-religion"}}}]}},pathContext:{tag:"outsourcing"}}}});
 //# sourceMappingURL=path---tags-outsourcing-3805b4cbb86fd80d1188.js.map

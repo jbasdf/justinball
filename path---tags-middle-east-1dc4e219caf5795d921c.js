@@ -1,2 +1,2 @@
-webpackJsonp([0x6a4ce6e67080],{2710:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"What I Do for a Living",path:"/what-i-do-for-a-living"}}}]}},pathContext:{tag:"Middle East"}}}});
+webpackJsonp([0x6a4ce6e67080],{2717:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"What I Do for a Living",path:"/what-i-do-for-a-living"}}}]}},pathContext:{tag:"Middle East"}}}});
 //# sourceMappingURL=path---tags-middle-east-1dc4e219caf5795d921c.js.map

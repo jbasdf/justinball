@@ -1,2 +1,2 @@
-webpackJsonp([0xa6b9e4e45fc7],{2599:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The Uninsured",path:"/the-uninsured"}}}]}},pathContext:{tag:"health insurance"}}}});
+webpackJsonp([0xa6b9e4e45fc7],{2606:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The Uninsured",path:"/the-uninsured"}}}]}},pathContext:{tag:"health insurance"}}}});
 //# sourceMappingURL=path---tags-health-insurance-08c74ad9c87079ec8e2a.js.map

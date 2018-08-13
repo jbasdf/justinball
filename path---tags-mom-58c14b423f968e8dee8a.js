@@ -1,2 +1,2 @@
-webpackJsonp([49842793748008],{2712:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Top Selling Stuff on Amazon Brings Tears",path:"/top-selling-stuff-on-amazon-brings-tears"}}}]}},pathContext:{tag:"mom"}}}});
+webpackJsonp([49842793748008],{2719:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Top Selling Stuff on Amazon Brings Tears",path:"/top-selling-stuff-on-amazon-brings-tears"}}}]}},pathContext:{tag:"mom"}}}});
 //# sourceMappingURL=path---tags-mom-58c14b423f968e8dee8a.js.map

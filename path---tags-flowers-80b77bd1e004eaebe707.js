@@ -1,2 +1,2 @@
-webpackJsonp([0x69d5f8d18555],{2535:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The Flower Shop In Logan",path:"/the-flower-shop-in-logan"}}}]}},pathContext:{tag:"flowers"}}}});
+webpackJsonp([0x69d5f8d18555],{2542:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The Flower Shop In Logan",path:"/the-flower-shop-in-logan"}}}]}},pathContext:{tag:"flowers"}}}});
 //# sourceMappingURL=path---tags-flowers-80b77bd1e004eaebe707.js.map

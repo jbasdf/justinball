@@ -1,2 +1,2 @@
-webpackJsonp([0xf8b640b81823],{2819:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Logan Cycling Psychopaths",path:"/login-cycling-psychopaths"}}}]}},pathContext:{tag:"racing"}}}});
+webpackJsonp([0xf8b640b81823],{2826:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Logan Cycling Psychopaths",path:"/login-cycling-psychopaths"}}}]}},pathContext:{tag:"racing"}}}});
 //# sourceMappingURL=path---tags-racing-c982e761080a9caf20cb.js.map

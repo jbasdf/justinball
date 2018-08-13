@@ -1,2 +1,2 @@
-webpackJsonp([0xc73bb084efc1],{2929:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Utah Flat Tax",path:"/utah-flat-tax"}}}]}},pathContext:{tag:"tax"}}}});
+webpackJsonp([0xc73bb084efc1],{2936:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Utah Flat Tax",path:"/utah-flat-tax"}}}]}},pathContext:{tag:"tax"}}}});
 //# sourceMappingURL=path---tags-tax-04adab543f36177f10fc.js.map

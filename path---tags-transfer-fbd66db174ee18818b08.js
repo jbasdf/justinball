@@ -1,2 +1,2 @@
-webpackJsonp([0xe168a27c0d52],{2955:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Godaddy EPP Code",path:"/godaddy-epp-code"}}}]}},pathContext:{tag:"transfer"}}}});
+webpackJsonp([0xe168a27c0d52],{2962:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Godaddy EPP Code",path:"/godaddy-epp-code"}}}]}},pathContext:{tag:"transfer"}}}});
 //# sourceMappingURL=path---tags-transfer-fbd66db174ee18818b08.js.map

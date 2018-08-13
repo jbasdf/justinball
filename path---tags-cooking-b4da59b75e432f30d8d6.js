@@ -1,2 +1,2 @@
-webpackJsonp([45459913680282],{2438:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Muffins",path:"/muffins"}}}]}},pathContext:{tag:"cooking"}}}});
+webpackJsonp([45459913680282],{2445:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Muffins",path:"/muffins"}}}]}},pathContext:{tag:"cooking"}}}});
 //# sourceMappingURL=path---tags-cooking-b4da59b75e432f30d8d6.js.map

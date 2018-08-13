@@ -1,2 +1,2 @@
-webpackJsonp([72227062996034],{2897:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Snelgrove Dies Away",path:"/snelgrove-dies-away"}}}]}},pathContext:{tag:"Snelgrove"}}}});
+webpackJsonp([72227062996034],{2904:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Snelgrove Dies Away",path:"/snelgrove-dies-away"}}}]}},pathContext:{tag:"Snelgrove"}}}});
 //# sourceMappingURL=path---tags-snelgrove-f17fe8245f789b30c5b8.js.map

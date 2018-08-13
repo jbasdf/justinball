@@ -1,2 +1,2 @@
-webpackJsonp([0xa1be61a566e7],{2378:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Black Cherry Vanilla Coke",path:"/black-cherry-vanilla-coke"}}}]}},pathContext:{tag:"black cherry vanilla coke"}}}});
+webpackJsonp([0xa1be61a566e7],{2385:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Black Cherry Vanilla Coke",path:"/black-cherry-vanilla-coke"}}}]}},pathContext:{tag:"black cherry vanilla coke"}}}});
 //# sourceMappingURL=path---tags-black-cherry-vanilla-coke-189edf532cd83742e9ba.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0xad452e40e996],{2855:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Ringside Networks",path:"/ringside-networks"}}}]}},pathContext:{tag:"ringside networks"}}}});
+webpackJsonp([0xad452e40e996],{2862:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Ringside Networks",path:"/ringside-networks"}}}]}},pathContext:{tag:"ringside networks"}}}});
 //# sourceMappingURL=path---tags-ringside-networks-dea0965a44f84e4fa19b.js.map

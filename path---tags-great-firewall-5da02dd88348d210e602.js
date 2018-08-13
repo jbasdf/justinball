@@ -1,2 +1,2 @@
-webpackJsonp([0xb730ba2ce3f],{2586:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"China Doesn't Like WordPress.com",path:"/china-doesnt-like-wordpresscom"}}}]}},pathContext:{tag:"great firewall"}}}});
+webpackJsonp([0xb730ba2ce3f],{2593:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"China Doesn't Like WordPress.com",path:"/china-doesnt-like-wordpresscom"}}}]}},pathContext:{tag:"great firewall"}}}});
 //# sourceMappingURL=path---tags-great-firewall-5da02dd88348d210e602.js.map

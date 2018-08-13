@@ -1,2 +1,2 @@
-webpackJsonp([0x7327484bd5a1],{2630:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"who knew?",path:"/who-knew"}}}]}},pathContext:{tag:"insane"}}}});
+webpackJsonp([0x7327484bd5a1],{2637:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"who knew?",path:"/who-knew"}}}]}},pathContext:{tag:"insane"}}}});
 //# sourceMappingURL=path---tags-insane-7f8a3f7492d69957e55b.js.map

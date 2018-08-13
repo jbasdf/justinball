@@ -1,2 +1,2 @@
-webpackJsonp([23581341812139],{2876:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Elastic Cloud Computing",path:"/elastic-cloud-computing"}}},{node:{frontmatter:{title:"Big Companies Using Ruby on Rails",path:"/big-companies-using-ruby-on-rails"}}}]}},pathContext:{tag:"scalability"}}}});
+webpackJsonp([23581341812139],{2883:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Elastic Cloud Computing",path:"/elastic-cloud-computing"}}},{node:{frontmatter:{title:"Big Companies Using Ruby on Rails",path:"/big-companies-using-ruby-on-rails"}}}]}},pathContext:{tag:"scalability"}}}});
 //# sourceMappingURL=path---tags-scalability-5e7fae0a5160377fffc3.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([45547522056331],{2820:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Quick Note: use rake to install Rails 2.0",path:"/quick-note-use-rake-to-install-rails-20"}}}]}},pathContext:{tag:"rails 2.0"}}}});
+webpackJsonp([45547522056331],{2827:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Quick Note: use rake to install Rails 2.0",path:"/quick-note-use-rake-to-install-rails-20"}}}]}},pathContext:{tag:"rails 2.0"}}}});
 //# sourceMappingURL=path---tags-rails-2-0-3c1d76187e794af9bb32.js.map

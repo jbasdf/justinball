@@ -1,2 +1,2 @@
-webpackJsonp([42598804174336],{2480:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Domain camping and the debate about the about me",path:"/domain-camping-and-the-debate-about-the-about-me"}}}]}},pathContext:{tag:"domains"}}}});
+webpackJsonp([42598804174336],{2487:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Domain camping and the debate about the about me",path:"/domain-camping-and-the-debate-about-the-about-me"}}}]}},pathContext:{tag:"domains"}}}});
 //# sourceMappingURL=path---tags-domains-ef8fdb66be9e4115782f.js.map

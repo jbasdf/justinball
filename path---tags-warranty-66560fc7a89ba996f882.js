@@ -1,2 +1,2 @@
-webpackJsonp([41376671202839],{2991:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Thanks Expercom",path:"/thanks-expercom"}}}]}},pathContext:{tag:"warranty"}}}});
+webpackJsonp([41376671202839],{2998:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Thanks Expercom",path:"/thanks-expercom"}}}]}},pathContext:{tag:"warranty"}}}});
 //# sourceMappingURL=path---tags-warranty-66560fc7a89ba996f882.js.map

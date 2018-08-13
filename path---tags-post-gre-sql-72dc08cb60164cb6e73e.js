@@ -1,2 +1,2 @@
-webpackJsonp([0xa994a6507a77],{2799:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Heroku Database Tips",path:"/heroku-database-tips"}}}]}},pathContext:{tag:"PostGreSQL"}}}});
+webpackJsonp([0xa994a6507a77],{2806:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Heroku Database Tips",path:"/heroku-database-tips"}}}]}},pathContext:{tag:"PostGreSQL"}}}});
 //# sourceMappingURL=path---tags-post-gre-sql-72dc08cb60164cb6e73e.js.map

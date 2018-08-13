@@ -1,2 +1,2 @@
-webpackJsonp([0x9e455bb67827],{2333:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Using The AvantLink API To Streamline Your Affiliate Efforts",path:"/using-the-avantlink-api-to-streamline-your-affiliate-efforts"}}}]}},pathContext:{tag:"Affiliate Marketing"}}}});
+webpackJsonp([0x9e455bb67827],{2340:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Using The AvantLink API To Streamline Your Affiliate Efforts",path:"/using-the-avantlink-api-to-streamline-your-affiliate-efforts"}}}]}},pathContext:{tag:"Affiliate Marketing"}}}});
 //# sourceMappingURL=path---tags-affiliate-marketing-5baf3c40178162f06411.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0xa0897b813bb8],{2709:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Learn this, no this, no this",path:"/learn-this-no-this-no-this"}}}]}},pathContext:{tag:"Microsoft"}}}});
+webpackJsonp([0xa0897b813bb8],{2716:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Learn this, no this, no this",path:"/learn-this-no-this-no-this"}}}]}},pathContext:{tag:"Microsoft"}}}});
 //# sourceMappingURL=path---tags-microsoft-b850d03dba0f0783a11f.js.map

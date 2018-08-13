@@ -1,2 +1,2 @@
-webpackJsonp([0xecf0c53180df],{2976:function(e,n){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The binding argument of #concat is no longer needed",path:"/the-binding-argument-of-concat-is-no-longer-needed"}}}]}},pathContext:{tag:"upgrades"}}}});
+webpackJsonp([0xecf0c53180df],{2983:function(e,n){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The binding argument of #concat is no longer needed",path:"/the-binding-argument-of-concat-is-no-longer-needed"}}}]}},pathContext:{tag:"upgrades"}}}});
 //# sourceMappingURL=path---tags-upgrades-f9043215268a399fe7db.js.map

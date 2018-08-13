@@ -1,2 +1,2 @@
-webpackJsonp([0xa99f1fd3960b],{2940:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"who knew?",path:"/who-knew"}}}]}},pathContext:{tag:"The Japanese Mafia is controlling the weather"}}}});
+webpackJsonp([0xa99f1fd3960b],{2947:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"who knew?",path:"/who-knew"}}}]}},pathContext:{tag:"The Japanese Mafia is controlling the weather"}}}});
 //# sourceMappingURL=path---tags-the-japanese-mafia-is-controlling-the-weather-2a70884c4a41317e4cc6.js.map

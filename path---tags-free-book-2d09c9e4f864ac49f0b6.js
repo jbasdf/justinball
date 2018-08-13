@@ -1,2 +1,2 @@
-webpackJsonp([0x9f9a9a3355e8],{2539:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Free Book",path:"/free-book"}}}]}},pathContext:{tag:"free book"}}}});
+webpackJsonp([0x9f9a9a3355e8],{2546:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Free Book",path:"/free-book"}}}]}},pathContext:{tag:"free book"}}}});
 //# sourceMappingURL=path---tags-free-book-2d09c9e4f864ac49f0b6.js.map

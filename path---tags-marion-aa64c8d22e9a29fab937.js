@@ -1,2 +1,2 @@
-webpackJsonp([9086312828284],{2698:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Free Book",path:"/free-book"}}}]}},pathContext:{tag:"marion"}}}});
+webpackJsonp([9086312828284],{2705:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Free Book",path:"/free-book"}}}]}},pathContext:{tag:"marion"}}}});
 //# sourceMappingURL=path---tags-marion-aa64c8d22e9a29fab937.js.map

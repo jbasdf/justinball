@@ -1,2 +1,2 @@
-webpackJsonp([0xfc3dd60fbde],{2409:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Checkbox list in Ruby on Rails using HABTM",path:"/checkbox-list-in-ruby-on-rails-using-habtm"}}}]}},pathContext:{tag:"checkboxes"}}}});
+webpackJsonp([0xfc3dd60fbde],{2416:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Checkbox list in Ruby on Rails using HABTM",path:"/checkbox-list-in-ruby-on-rails-using-habtm"}}}]}},pathContext:{tag:"checkboxes"}}}});
 //# sourceMappingURL=path---tags-checkboxes-a5e6f18ce94a03d13535.js.map

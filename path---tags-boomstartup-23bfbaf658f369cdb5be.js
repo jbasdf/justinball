@@ -1,2 +1,2 @@
-webpackJsonp([0x60ed19eff789],{2386:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"BoomStartup Day One",path:"/boomstartup-day-one"}}}]}},pathContext:{tag:"boomstartup"}}}});
+webpackJsonp([0x60ed19eff789],{2393:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"BoomStartup Day One",path:"/boomstartup-day-one"}}}]}},pathContext:{tag:"boomstartup"}}}});
 //# sourceMappingURL=path---tags-boomstartup-23bfbaf658f369cdb5be.js.map

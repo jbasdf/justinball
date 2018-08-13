@@ -1,2 +1,2 @@
-webpackJsonp([0xb4bdc2edfb2c],{2999:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Ethereum, ERC20 Tokens and ICOs",path:"/ethereum-erc20-tokens-and-icos"}}}]}},pathContext:{tag:"Web"}}}});
+webpackJsonp([0xb4bdc2edfb2c],{3006:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Ethereum, ERC20 Tokens and ICOs",path:"/ethereum-erc20-tokens-and-icos"}}}]}},pathContext:{tag:"Web"}}}});
 //# sourceMappingURL=path---tags-web-f03a4876db4a8963c528.js.map

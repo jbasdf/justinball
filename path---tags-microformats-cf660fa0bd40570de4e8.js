@@ -1,2 +1,2 @@
-webpackJsonp([93956289348382],{2708:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Buddy Press Activity",path:"/buddy-press-activity"}}}]}},pathContext:{tag:"microformats"}}}});
+webpackJsonp([93956289348382],{2715:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Buddy Press Activity",path:"/buddy-press-activity"}}}]}},pathContext:{tag:"microformats"}}}});
 //# sourceMappingURL=path---tags-microformats-cf660fa0bd40570de4e8.js.map

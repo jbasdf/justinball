@@ -1,2 +1,2 @@
-webpackJsonp([0xe2e0ea02f33],{2356:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Really Neat Photography",path:"/really-neat-photography"}}}]}},pathContext:{tag:"art"}}}});
+webpackJsonp([0xe2e0ea02f33],{2363:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Really Neat Photography",path:"/really-neat-photography"}}}]}},pathContext:{tag:"art"}}}});
 //# sourceMappingURL=path---tags-art-85272e2df0f9e02be1cb.js.map

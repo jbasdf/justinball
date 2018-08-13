@@ -1,2 +1,2 @@
-webpackJsonp([0x96c51ce0dd36],{2803:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Make Facebook Butt Out",path:"/make-facebook-butt-out"}}}]}},pathContext:{tag:"privacy"}}}});
+webpackJsonp([0x96c51ce0dd36],{2810:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Make Facebook Butt Out",path:"/make-facebook-butt-out"}}}]}},pathContext:{tag:"privacy"}}}});
 //# sourceMappingURL=path---tags-privacy-bbba1fb4634fb2cc374f.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0xa8f855e10796],{2674:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"cryptocurrencies",path:"/crypto-ethereum"}}}]}},pathContext:{tag:"litecoin"}}}});
+webpackJsonp([0xa8f855e10796],{2681:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"cryptocurrencies",path:"/crypto-ethereum"}}}]}},pathContext:{tag:"litecoin"}}}});
 //# sourceMappingURL=path---tags-litecoin-4da48b9b71206f5b4992.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([88866933185161],{2777:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Payday Lenders Suck",path:"/payday-lenders-suck"}}}]}},pathContext:{tag:"payday lenders"}}}});
+webpackJsonp([88866933185161],{2784:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Payday Lenders Suck",path:"/payday-lenders-suck"}}}]}},pathContext:{tag:"payday lenders"}}}});
 //# sourceMappingURL=path---tags-payday-lenders-572840747fa088c4679f.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0xe25445959a83],{2331:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"acts_as_taggable libraries and the big case problem.",path:"/acts_as_taggable-libraries-and-the-big-case-problem"}}}]}},pathContext:{tag:"acts as taggable"}}}});
+webpackJsonp([0xe25445959a83],{2338:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"acts_as_taggable libraries and the big case problem.",path:"/acts_as_taggable-libraries-and-the-big-case-problem"}}}]}},pathContext:{tag:"acts as taggable"}}}});
 //# sourceMappingURL=path---tags-acts-as-taggable-211e6fa6042d9091b54d.js.map

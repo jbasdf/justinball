@@ -1,2 +1,2 @@
-webpackJsonp([0xef8d933ce4e0],{2660:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"The Liahona Makes Wired",path:"/the-liahona-makes-wired"}}},{node:{frontmatter:{title:"A Modern Prophet",path:"/a-modern-prophet"}}}]}},pathContext:{tag:"lds"}}}});
+webpackJsonp([0xef8d933ce4e0],{2667:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"The Liahona Makes Wired",path:"/the-liahona-makes-wired"}}},{node:{frontmatter:{title:"A Modern Prophet",path:"/a-modern-prophet"}}}]}},pathContext:{tag:"lds"}}}});
 //# sourceMappingURL=path---tags-lds-5b3f6b92d0b2c1ef5ddc.js.map

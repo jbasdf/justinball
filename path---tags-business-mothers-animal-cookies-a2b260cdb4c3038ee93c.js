@@ -1,2 +1,2 @@
-webpackJsonp([0xde9ad02dba9e],{2391:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"My Junkfood Goeth Quietly Into the Night",path:"/my-junkfood-goeth-quietly-into-the-night"}}}]}},pathContext:{tag:"business. mother's animal cookies"}}}});
+webpackJsonp([0xde9ad02dba9e],{2398:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"My Junkfood Goeth Quietly Into the Night",path:"/my-junkfood-goeth-quietly-into-the-night"}}}]}},pathContext:{tag:"business. mother's animal cookies"}}}});
 //# sourceMappingURL=path---tags-business-mothers-animal-cookies-a2b260cdb4c3038ee93c.js.map

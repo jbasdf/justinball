@@ -1,2 +1,2 @@
-webpackJsonp([0x692ef48157fe],{2794:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The Roomba Ends Christmas",path:"/the-roomba-ends-christmas"}}}]}},pathContext:{tag:"poinsettia"}}}});
+webpackJsonp([0x692ef48157fe],{2801:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The Roomba Ends Christmas",path:"/the-roomba-ends-christmas"}}}]}},pathContext:{tag:"poinsettia"}}}});
 //# sourceMappingURL=path---tags-poinsettia-a2aa6170801928df55ba.js.map
