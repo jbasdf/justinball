@@ -2,6 +2,7 @@ import _ from "lodash";
 import React from "react";
 import Helmet from "react-helmet";
 import Link from "gatsby-link";
+import { graphql } from 'gatsby'
 import get from "lodash/get";
 import dangerouslyAtomicHtml from "dangerously-atomic-html";
 import BannerLanding from "../components/BannerLanding";
