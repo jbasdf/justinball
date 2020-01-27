@@ -8,15 +8,18 @@ fields:
 - type: text
   name: author
   label: author
+  default: Justin Ball
 - type: list
   name: tags
   label: tags
 - type: datetime
   name: date
   label: date
+  default: now
 - type: text
   name: templateKey
   label: templateKey
+  default: blog-post
 - type: text
   name: path
   label: path
