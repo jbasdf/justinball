@@ -18,4 +18,6 @@ I'm hoping to change that now. My initial experience with [Gatsby](https://www.g
 
 Given how much pain I went through to get everything setup I was dreading the Gatsby 2.0 upgrade. Turns out it wasn't bad. I spent about 3 hours changing some code, upgrading packages and thinking about how to proceed going forward.
 
-Ironically, part of that process included considering a move to Hugo and dumping Gatsby. While looking through Hugo templates I discovered [forestry.io](https://forestry.io/). I sit at a computer all day and so opening my site, writing and post and doing a deploy isn't a big deal. However, I really wanted to be able to make a post on the web, have it commit to [my github repo](https://github.com/jbasdf/justinball "Justin Ball")
+Ironically, part of that process included considering a move to Hugo and dumping Gatsby. While looking through Hugo templates I discovered [forestry.io](https://forestry.io/). I sit at a computer all day and so opening my site, writing and post and doing a deploy isn't a big deal. However, I really wanted to be able to make a post on the web, have it commit to [my github repo](https://github.com/jbasdf/justinball "Justin Ball"), and have it auto deploy to my site. I started down the path of writing the code to make that happen multiple times, but life and work and a million things meant I never had time to finish it. [Forestry](https://forestry.io/) solves that exact problem. 
+
+Now I can stop writing code I'll never finish and focus on writing posts that no one will read :). 
