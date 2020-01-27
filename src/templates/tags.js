@@ -1,9 +1,9 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from 'gatsby'
-
-// Components
 import Link from "gatsby-link";
+
+import Layout from '../components/layout'
 
 const Tags = ({ pathContext, data }) => {
   const { tag } = pathContext;
@@ -13,7 +13,7 @@ const Tags = ({ pathContext, data }) => {
   } tagged with "${tag}"`;
 
   return (
-    <div>
+    <Layout>
       <div id="main">
         <div className="inner">
           <h1>{tagHeader}</h1>
@@ -30,7 +30,7 @@ const Tags = ({ pathContext, data }) => {
           <Link to="/tags">All tags</Link>
         </div>
       </div>
-    </div>
+    </Layout>
   );
 };
 

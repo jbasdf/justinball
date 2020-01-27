@@ -1,10 +1,10 @@
 import _ from "lodash";
 import React from "react";
 import Helmet from "react-helmet";
-import Link from "gatsby-link";
 import { graphql } from 'gatsby'
-import get from "lodash/get";
 import dangerouslyAtomicHtml from "dangerously-atomic-html";
+
+import Layout from '../components/layout'
 import BannerLanding from "../components/BannerLanding";
 import VideoPlayer from "../components/VideoPlayer";
 import VideoPlayList from "../components/VideoPlayList";
@@ -50,7 +50,7 @@ class BlogPostTemplate extends React.Component {
     const post = this.props.data.markdownRemark;
     const siteTitle = _.get(this.props, "data.site.siteMetadata.title");
     return (
-      <div>
+      <Layout>
         <Helmet>
           <title>{`${post.frontmatter.title} | ${siteTitle}`}</title>
           <meta name="description" content={post.frontmatter.description} />
@@ -59,7 +59,7 @@ class BlogPostTemplate extends React.Component {
         <div id="main">
           {this.renderStructure(post)}
         </div>
-      </div>
+      </Layout>
     );
   }
 }
