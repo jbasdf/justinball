@@ -1,6 +1,6 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import Menu from '../components/Menu'
+import Layout from '../components/layout'
 
 import '../assets/scss/main.scss'
 import 'prismjs/themes/prism-solarizedlight.css';
@@ -67,7 +67,7 @@ class Archive extends React.Component {
     const nextUrl = (index + 1).toString();
 
     return (
-      <div>
+      <Layout>
         <div id="main">
           <section className="tiles">
             {this.renderArticles(group)}
@@ -83,7 +83,7 @@ class Archive extends React.Component {
             </div>
           </section>
         </div>
-      </div>
+      </Layout>
     );
   };
 }

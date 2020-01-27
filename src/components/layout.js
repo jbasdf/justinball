@@ -1,4 +1,6 @@
 import React from 'react'
+import { StaticQuery, graphql } from "gatsby"
+import PropTypes from 'prop-types';
 import Link from 'gatsby-link'
 import Header from '../components/Header'
 import Menu from '../components/Menu'
@@ -7,6 +9,26 @@ import Footer from '../components/Footer'
 
 import '../assets/scss/main.scss'
 import 'prismjs/themes/prism-solarizedlight.css';
+
+export const query = graphql`
+  query LayoutQuery {
+    site {
+      siteMetadata {
+        title
+        description
+        email
+        author
+        companyUrl
+        companyName
+        github
+        twitter
+        linkedin
+        facebook
+        instagram
+      }
+    }
+  }
+`;
 
 class Template extends React.Component {
   constructor(props) {
@@ -37,6 +59,20 @@ class Template extends React.Component {
     })
   }
 
+  renderWrapper(data, children) {
+    return (
+      <div id="wrapper">
+        <Header
+          onToggleMenu={this.handleToggleMenu}
+          site={data.site}
+        />
+        {children}
+        <Contact site={data.site} />
+        <Footer site={data.site} />
+      </div>
+    );
+  }
+
   render() {
     const { children } = this.props
 
@@ -46,15 +82,10 @@ class Template extends React.Component {
           this.state.isMenuVisible ? 'is-menu-visible' : ''
         }`}
       >
-        <div id="wrapper">
-          <Header
-            onToggleMenu={this.handleToggleMenu}
-            site={this.props.data.site}
-          />
-          {children()}
-          <Contact site={this.props.data.site} />
-          <Footer site={this.props.data.site} />
-        </div>
+        <StaticQuery
+          query={query}
+          render={data => this.renderWrapper(data, children)}
+        />
         <Menu onToggleMenu={this.handleToggleMenu} />
       </div>
     )
@@ -62,27 +93,7 @@ class Template extends React.Component {
 }
 
 Template.propTypes = {
-  children: React.PropTypes.func,
+  children: PropTypes.func,
 }
 
 export default Template
-
-export const query = graphql`
-  query LayoutQuery {
-    site {
-      siteMetadata {
-        title
-        description
-        email
-        author
-        companyUrl
-        companyName
-        github
-        twitter
-        linkedin
-        facebook
-        instagram
-      }
-    }
-  }
-`

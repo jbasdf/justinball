@@ -1,7 +1,9 @@
 import React from "react";
 import PropTypes from "prop-types";
+import { graphql } from 'gatsby'
 import kebabCase from "lodash/kebabCase";
 import Helmet from "react-helmet";
+import Layout from '../components/layout'
 import Link from "gatsby-link";
 
 export default class TagsPage extends React.Component {
@@ -42,7 +44,7 @@ export default class TagsPage extends React.Component {
     const title = this.props.data.site.siteMetadata.title;
 
     return (
-      <div>
+      <Layout>
         <Helmet title={title} />
         <div className="inner">
           <h1>Tags</h1>
@@ -50,7 +52,7 @@ export default class TagsPage extends React.Component {
             {group.map(this.renderTag)}
           </ul>
         </div>
-      </div>
+      </Layout>
     );
   }
 }

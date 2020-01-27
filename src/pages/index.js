@@ -1,7 +1,9 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import { graphql } from 'gatsby'
 import Helmet from 'react-helmet'
 import Script from 'react-load-script'
+import Layout from '../components/layout'
 import Banner from '../components/Banner'
 
 export default class IndexPage extends React.Component {
@@ -62,7 +64,7 @@ export default class IndexPage extends React.Component {
     const { edges: posts } = this.props.data.allMarkdownRemark
 
     return (
-      <div>
+      <Layout>
         <Script
           url="https://identity.netlify.com/v1/netlify-identity-widget.js"
           onLoad={this.handleScriptLoad.bind(this)}
@@ -101,7 +103,7 @@ export default class IndexPage extends React.Component {
             </div>
           </section>
         </div>
-      </div>
+      </Layout>
     )
   }
 }
